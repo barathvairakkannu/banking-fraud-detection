@@ -1,0 +1,1001 @@
+CustomerID,DeviceType,DeviceName,OperatingSystem,IPAddress,MACAddress,IsTrusted
+1,Mobile,Vivo V30,Android,10.231.24.166,E0:67:18:A9:DF:63,1
+2,Laptop,Lenovo ThinkPad,Windows,10.224.116.118,08:AC:BA:92:8D:5E,1
+3,Tablet,iPad Air,iPadOS,10.88.172.30,4E:4E:15:32:5D:3A,1
+4,Laptop,Dell Inspiron 15,Windows,10.99.163.102,89:86:72:FC:2D:EB,1
+5,Laptop,Dell Inspiron 15,Windows,10.109.64.7,89:AA:9D:F7:B0:82,1
+6,Laptop,MacBook Air M3,macOS,10.112.176.91,6C:00:CB:EE:C4:62,1
+7,Laptop,HP Pavilion,Windows,10.231.122.118,C8:5A:AD:92:3C:78,1
+8,Mobile,iPhone 15,iOS,10.64.143.208,89:9C:3E:2F:E8:87,1
+9,Laptop,Dell Inspiron 15,Windows,10.133.120.242,AF:4F:1D:96:59:EF,1
+10,Laptop,Lenovo ThinkPad,Windows,10.216.247.127,72:34:EC:E3:DC:E4,1
+11,Laptop,Lenovo ThinkPad,Windows,10.176.27.9,B0:9F:D7:DB:0C:7B,1
+12,Laptop,Dell Inspiron 15,Windows,10.31.20.126,1C:C5:BD:56:96:80,1
+13,Laptop,HP Pavilion,Windows,10.153.211.150,B9:A2:89:70:E4:1C,1
+14,Tablet,iPad Air,iPadOS,10.2.115.31,4C:EC:F1:68:B8:0A,1
+15,Tablet,iPad Air,iPadOS,10.61.192.109,06:42:BF:EB:42:0E,1
+16,Mobile,Vivo V30,Android,10.101.154.151,16:63:76:BF:1A:56,1
+17,Mobile,Samsung Galaxy S24,Android,10.49.43.229,13:6D:3D:68:ED:76,1
+18,Mobile,iPhone 15,iOS,10.27.255.153,A0:92:4E:A5:A4:40,1
+19,Laptop,HP Pavilion,Windows,10.156.5.40,ED:64:FA:B5:1A:6E,1
+20,Mobile,Vivo V30,Android,10.224.57.77,86:35:87:D9:27:FE,1
+21,Mobile,iPhone 15,iOS,10.29.106.121,BE:BA:0F:48:49:57,1
+22,Mobile,Vivo V30,Android,10.220.163.196,0B:C5:E2:12:AB:9D,1
+23,Laptop,Dell Inspiron 15,Windows,10.82.125.66,B3:25:31:3C:70:29,1
+24,Mobile,Vivo V30,Android,10.35.128.107,B3:5C:68:93:44:1F,1
+25,Laptop,MacBook Air M3,macOS,10.143.70.86,FC:D9:17:09:01:0F,1
+26,Mobile,iPhone 15,iOS,10.177.81.247,7D:76:78:AA:D0:23,1
+27,Tablet,iPad Air,iPadOS,10.183.243.100,A6:F7:1E:02:0E:9C,1
+28,Mobile,iPhone 15,iOS,10.235.105.26,35:F5:D4:B0:90:30,1
+29,Laptop,HP Pavilion,Windows,10.229.53.222,72:10:43:8E:50:6F,1
+30,Laptop,Lenovo ThinkPad,Windows,10.130.36.188,80:5F:FA:59:87:FE,1
+31,Mobile,iPhone 15,iOS,10.123.219.96,6A:46:39:53:88:42,1
+32,Laptop,MacBook Air M3,macOS,10.182.162.81,A1:DE:88:B7:77:63,1
+33,Tablet,iPad Air,iPadOS,10.51.118.220,18:89:DA:C0:C0:54,1
+34,Laptop,Dell Inspiron 15,Windows,10.104.236.160,C7:AA:5E:76:CA:5F,1
+35,Mobile,OnePlus 12,Android,10.117.20.228,20:91:DC:59:F5:4F,1
+36,Mobile,iPhone 15,iOS,10.160.187.186,53:54:C2:15:D3:B7,1
+37,Mobile,Samsung Galaxy S24,Android,10.193.174.140,EC:D1:FB:2B:04:B4,1
+38,Mobile,Samsung Galaxy S24,Android,10.157.152.161,EE:09:0A:CD:BD:36,1
+39,Mobile,OnePlus 12,Android,10.60.35.4,7C:EF:87:F9:DB:EF,1
+40,Laptop,Lenovo ThinkPad,Windows,10.213.194.59,25:E3:74:66:44:2D,1
+41,Laptop,Dell Inspiron 15,Windows,10.54.71.84,6B:39:CC:68:22:5D,1
+42,Mobile,Samsung Galaxy S24,Android,10.69.218.111,AA:2C:61:67:2D:42,1
+43,Mobile,Vivo V30,Android,10.218.171.234,A4:DF:5D:7F:D4:72,1
+44,Laptop,HP Pavilion,Windows,10.114.57.41,0D:1D:B8:48:52:AC,1
+45,Laptop,MacBook Air M3,macOS,10.50.83.224,B0:23:83:22:E1:17,1
+46,Laptop,Lenovo ThinkPad,Windows,10.132.231.238,D6:AA:3E:86:FE:59,1
+47,Tablet,iPad Air,iPadOS,10.76.78.112,B7:15:D7:55:1A:1F,1
+48,Mobile,iPhone 15,iOS,10.156.2.18,92:FB:AD:90:25:7E,1
+49,Laptop,MacBook Air M3,macOS,10.73.230.31,A2:37:43:68:5C:75,1
+50,Mobile,iPhone 15,iOS,10.174.63.97,FC:C2:49:3D:42:13,1
+51,Mobile,Samsung Galaxy S24,Android,10.232.87.162,D3:08:E0:ED:57:FE,1
+52,Laptop,Dell Inspiron 15,Windows,10.223.227.127,66:BD:5F:09:37:87,1
+53,Laptop,MacBook Air M3,macOS,10.4.206.79,BE:82:FD:C7:4A:7F,1
+54,Mobile,OnePlus 12,Android,10.30.35.114,10:2D:7E:65:8C:B5,1
+55,Laptop,Lenovo ThinkPad,Windows,10.8.169.1,25:0B:B6:71:1A:3D,1
+56,Mobile,Samsung Galaxy S24,Android,10.63.118.193,C5:5B:E2:6E:89:81,1
+57,Laptop,Dell Inspiron 15,Windows,10.225.249.137,ED:F7:E0:DE:1D:44,1
+58,Mobile,Vivo V30,Android,10.121.157.98,32:3B:ED:E4:0A:29,1
+59,Mobile,iPhone 15,iOS,10.94.116.151,D6:28:4B:58:0B:7F,1
+60,Mobile,Vivo V30,Android,10.250.30.139,5D:B4:98:98:46:3A,1
+61,Laptop,MacBook Air M3,macOS,10.216.232.18,25:45:F4:0A:D7:3E,1
+62,Laptop,Dell Inspiron 15,Windows,10.188.53.110,54:1E:A3:71:AC:8D,1
+63,Laptop,MacBook Air M3,macOS,10.55.97.102,BB:08:F6:6A:AA:6A,1
+64,Laptop,Lenovo ThinkPad,Windows,10.11.12.231,46:47:34:4C:8D:A0,1
+65,Laptop,MacBook Air M3,macOS,10.24.1.57,EC:39:F3:9F:1A:72,1
+66,Mobile,OnePlus 12,Android,10.14.48.171,41:B2:0C:BA:41:1C,1
+67,Laptop,Dell Inspiron 15,Windows,10.89.119.165,24:C4:57:9D:B8:AA,1
+68,Mobile,Samsung Galaxy S24,Android,10.102.184.62,1F:4D:20:62:9F:F8,1
+69,Mobile,Samsung Galaxy S24,Android,10.114.202.130,25:20:2C:0C:3F:E9,1
+70,Mobile,Vivo V30,Android,10.250.226.158,BB:B6:E6:28:B3:E2,1
+71,Laptop,HP Pavilion,Windows,10.137.205.95,0C:E0:F0:58:C6:9C,1
+72,Mobile,OnePlus 12,Android,10.28.179.106,E4:4B:71:23:66:78,1
+73,Laptop,Lenovo ThinkPad,Windows,10.46.71.223,DB:74:AE:A4:E0:13,1
+74,Mobile,iPhone 15,iOS,10.75.210.211,D2:02:4C:94:F4:84,1
+75,Mobile,Samsung Galaxy S24,Android,10.199.48.25,6E:05:AC:F6:BC:F1,1
+76,Laptop,HP Pavilion,Windows,10.127.32.251,0B:67:C1:43:0B:FF,1
+77,Tablet,iPad Air,iPadOS,10.26.7.241,0A:F1:0D:10:B8:C5,1
+78,Laptop,Dell Inspiron 15,Windows,10.228.215.133,97:89:04:EA:12:E9,1
+79,Mobile,Samsung Galaxy S24,Android,10.98.162.228,A1:79:4B:7C:0F:0F,1
+80,Laptop,Lenovo ThinkPad,Windows,10.253.1.155,A1:86:00:2A:A2:7D,1
+81,Laptop,MacBook Air M3,macOS,10.245.27.12,69:AB:4E:DC:F2:EB,1
+82,Mobile,iPhone 15,iOS,10.194.179.14,11:4D:83:73:C4:EA,1
+83,Laptop,MacBook Air M3,macOS,10.34.246.156,FB:E1:68:3E:4D:46,1
+84,Laptop,Lenovo ThinkPad,Windows,10.106.197.87,0A:A0:CB:54:51:DD,1
+85,Laptop,MacBook Air M3,macOS,10.226.29.220,E9:57:3B:23:F1:01,1
+86,Mobile,Samsung Galaxy S24,Android,10.120.59.142,1D:E8:41:C2:E8:E9,1
+87,Laptop,HP Pavilion,Windows,10.215.79.233,41:4C:AC:9B:8A:17,1
+88,Laptop,Dell Inspiron 15,Windows,10.190.163.55,4C:B4:8D:EE:1A:DD,1
+89,Mobile,OnePlus 12,Android,10.133.12.188,56:DD:9D:F1:E9:0A,1
+90,Mobile,Samsung Galaxy S24,Android,10.198.109.72,D9:6B:9D:79:3F:5A,1
+91,Mobile,Vivo V30,Android,10.158.152.81,19:05:35:68:08:31,1
+92,Mobile,OnePlus 12,Android,10.168.164.156,F6:AD:0C:F7:39:80,1
+93,Laptop,HP Pavilion,Windows,10.232.187.83,0A:9D:3E:79:1F:35,1
+94,Laptop,MacBook Air M3,macOS,10.108.42.2,62:A8:4B:22:B6:43,1
+95,Laptop,MacBook Air M3,macOS,10.176.155.25,EC:72:91:6C:A7:58,1
+96,Tablet,iPad Air,iPadOS,10.55.238.118,AF:95:40:44:BD:9D,1
+97,Tablet,iPad Air,iPadOS,10.14.146.235,7D:F9:2E:90:21:68,1
+98,Mobile,iPhone 15,iOS,10.116.52.53,4B:2E:46:34:75:FC,1
+99,Tablet,iPad Air,iPadOS,10.179.103.198,2C:6D:0D:0F:3B:4D,1
+100,Mobile,Vivo V30,Android,10.119.11.83,10:F7:19:FC:6E:12,1
+101,Laptop,Dell Inspiron 15,Windows,10.14.79.40,21:E0:FC:E2:44:17,1
+102,Mobile,iPhone 15,iOS,10.212.16.11,A8:25:EB:97:8C:28,1
+103,Laptop,HP Pavilion,Windows,10.95.84.83,D5:CE:0A:6A:72:85,1
+104,Mobile,Samsung Galaxy S24,Android,10.219.57.102,C2:25:B7:B8:20:10,1
+105,Mobile,iPhone 15,iOS,10.121.168.198,33:96:45:F5:2F:76,1
+106,Laptop,Dell Inspiron 15,Windows,10.164.143.83,61:AC:AF:EA:76:76,1
+107,Mobile,Vivo V30,Android,10.102.170.225,0C:41:06:30:98:A4,1
+108,Tablet,iPad Air,iPadOS,10.78.221.94,3E:68:DE:E0:F3:83,1
+109,Laptop,HP Pavilion,Windows,10.192.206.33,7A:6F:2C:6B:3C:B4,1
+110,Tablet,iPad Air,iPadOS,10.113.180.113,E8:F3:8F:46:A3:FE,1
+111,Laptop,HP Pavilion,Windows,10.60.80.170,F3:6A:EA:CF:AF:9A,1
+112,Mobile,iPhone 15,iOS,10.68.82.107,D7:EF:BC:E1:3B:B5,1
+113,Laptop,HP Pavilion,Windows,10.202.102.118,1C:54:48:97:00:04,1
+114,Laptop,Lenovo ThinkPad,Windows,10.174.1.210,27:1D:88:BC:C5:73,1
+115,Mobile,Samsung Galaxy S24,Android,10.129.119.224,D5:A6:62:E7:28:14,1
+116,Mobile,Vivo V30,Android,10.212.20.38,6B:4A:BE:00:68:4F,1
+117,Tablet,iPad Air,iPadOS,10.159.131.74,81:EE:99:2F:69:DE,1
+118,Mobile,OnePlus 12,Android,10.204.247.231,06:C9:42:46:2E:79,1
+119,Tablet,iPad Air,iPadOS,10.71.186.148,45:08:0F:6E:B1:C1,1
+120,Tablet,iPad Air,iPadOS,10.63.109.13,19:4D:0F:68:50:F5,1
+121,Mobile,iPhone 15,iOS,10.242.183.173,90:D5:7A:D8:47:84,1
+122,Mobile,OnePlus 12,Android,10.147.140.59,D0:F6:CB:54:7E:0A,1
+123,Mobile,iPhone 15,iOS,10.84.111.240,C6:BE:75:BF:49:2E,1
+124,Mobile,OnePlus 12,Android,10.142.98.44,CC:CF:74:7D:C1:8A,1
+125,Laptop,Dell Inspiron 15,Windows,10.4.30.172,82:5D:0D:02:04:03,1
+126,Laptop,Dell Inspiron 15,Windows,10.44.14.84,A0:22:85:82:30:32,1
+127,Laptop,Dell Inspiron 15,Windows,10.181.125.150,FB:82:64:A3:85:77,1
+128,Laptop,MacBook Air M3,macOS,10.77.32.200,42:43:34:65:11:23,1
+129,Mobile,Vivo V30,Android,10.80.77.103,BB:67:A2:DC:E5:0D,1
+130,Mobile,Vivo V30,Android,10.159.210.58,E2:7F:FD:04:0A:30,1
+131,Laptop,HP Pavilion,Windows,10.31.249.219,C8:09:4D:AB:59:16,1
+132,Mobile,iPhone 15,iOS,10.101.19.245,13:BF:C0:0B:74:8A,1
+133,Laptop,MacBook Air M3,macOS,10.97.204.247,C6:BE:5C:3B:80:88,1
+134,Laptop,Dell Inspiron 15,Windows,10.23.210.192,B2:D1:7F:2A:77:C0,1
+135,Laptop,MacBook Air M3,macOS,10.223.54.133,B4:76:1B:59:8E:2D,1
+136,Laptop,Dell Inspiron 15,Windows,10.246.59.120,28:C3:17:BA:88:2A,1
+137,Laptop,Dell Inspiron 15,Windows,10.221.161.134,92:2B:A2:3A:38:FD,1
+138,Laptop,MacBook Air M3,macOS,10.162.192.111,9E:BE:7D:E1:BC:06,1
+139,Mobile,iPhone 15,iOS,10.72.122.204,86:1D:D4:EB:8D:15,1
+140,Mobile,Samsung Galaxy S24,Android,10.176.26.167,48:49:2F:E3:7A:EE,1
+141,Mobile,Vivo V30,Android,10.235.44.80,F0:92:79:D7:9D:89,1
+142,Mobile,Vivo V30,Android,10.111.186.93,4E:57:A2:5F:CE:45,1
+143,Laptop,HP Pavilion,Windows,10.191.234.208,0A:92:3E:9B:4B:4F,1
+144,Laptop,MacBook Air M3,macOS,10.21.175.126,30:27:F2:D1:DA:4F,1
+145,Laptop,MacBook Air M3,macOS,10.232.172.31,06:CA:62:9D:5D:46,1
+146,Mobile,iPhone 15,iOS,10.70.42.156,2F:20:83:98:6E:C3,1
+147,Laptop,Dell Inspiron 15,Windows,10.12.135.158,13:AD:FE:69:75:C7,1
+148,Tablet,iPad Air,iPadOS,10.62.54.137,0C:CD:7F:1D:C7:0D,1
+149,Tablet,iPad Air,iPadOS,10.86.4.43,0D:F1:44:63:18:C0,1
+150,Mobile,OnePlus 12,Android,10.200.40.29,3C:D3:E8:AC:50:7B,1
+151,Mobile,iPhone 15,iOS,10.138.58.63,BF:96:B7:15:1E:8A,1
+152,Mobile,Vivo V30,Android,10.85.135.58,74:D2:75:49:4C:0B,1
+153,Mobile,iPhone 15,iOS,10.211.157.231,97:14:35:8D:EB:4F,1
+154,Laptop,MacBook Air M3,macOS,10.76.146.77,5D:A1:76:C8:94:BE,1
+155,Laptop,Lenovo ThinkPad,Windows,10.79.85.204,93:B6:30:28:09:7D,1
+156,Mobile,OnePlus 12,Android,10.244.166.24,C5:17:1E:50:8A:B4,1
+157,Tablet,iPad Air,iPadOS,10.129.132.8,B7:0A:1C:1C:99:0C,1
+158,Mobile,Samsung Galaxy S24,Android,10.156.255.193,DF:06:49:3B:55:6F,1
+159,Mobile,Vivo V30,Android,10.198.239.241,BF:72:81:14:BC:42,1
+160,Laptop,Lenovo ThinkPad,Windows,10.91.24.143,B6:B2:E7:F9:5D:8B,1
+161,Tablet,iPad Air,iPadOS,10.52.235.210,E0:D7:A3:E1:5F:C4,1
+162,Mobile,Samsung Galaxy S24,Android,10.3.116.60,73:A7:A4:41:D7:A1,1
+163,Tablet,iPad Air,iPadOS,10.190.34.194,B9:EC:8B:C8:EF:42,1
+164,Mobile,iPhone 15,iOS,10.251.119.145,E6:E3:27:25:1A:93,1
+165,Mobile,OnePlus 12,Android,10.179.73.93,4A:F8:31:5D:85:88,1
+166,Laptop,MacBook Air M3,macOS,10.4.210.102,ED:7A:4F:85:3D:ED,1
+167,Mobile,iPhone 15,iOS,10.98.196.13,29:45:30:1A:A0:DD,1
+168,Mobile,Samsung Galaxy S24,Android,10.123.107.61,AC:E4:7D:BC:59:A8,1
+169,Laptop,MacBook Air M3,macOS,10.101.233.28,7B:44:8E:70:74:87,1
+170,Mobile,iPhone 15,iOS,10.117.127.46,0D:E2:E6:49:70:70,1
+171,Mobile,Vivo V30,Android,10.64.211.113,CB:58:32:70:08:9F,1
+172,Mobile,OnePlus 12,Android,10.143.58.103,A8:78:37:D4:E9:8A,1
+173,Tablet,iPad Air,iPadOS,10.95.69.23,E6:D9:F1:1C:B8:A8,1
+174,Mobile,Samsung Galaxy S24,Android,10.7.190.129,9D:C4:C0:71:25:E8,1
+175,Mobile,OnePlus 12,Android,10.150.240.141,D4:D1:C6:26:56:C5,1
+176,Laptop,Dell Inspiron 15,Windows,10.133.21.51,92:1E:B2:78:6D:5C,1
+177,Laptop,Dell Inspiron 15,Windows,10.250.80.228,13:99:E6:87:E4:50,1
+178,Tablet,iPad Air,iPadOS,10.103.219.11,49:A8:1D:EF:81:9B,1
+179,Laptop,Lenovo ThinkPad,Windows,10.141.56.103,C9:72:AE:B2:00:7A,1
+180,Mobile,Vivo V30,Android,10.237.186.159,50:24:85:3C:00:9B,1
+181,Mobile,OnePlus 12,Android,10.190.242.111,44:22:CD:8A:9C:87,1
+182,Mobile,iPhone 15,iOS,10.196.107.104,B9:AB:AB:3D:98:62,1
+183,Mobile,OnePlus 12,Android,10.106.219.98,EB:FF:AF:50:5B:2E,1
+184,Mobile,OnePlus 12,Android,10.37.194.39,44:70:47:5E:2D:99,1
+185,Mobile,Samsung Galaxy S24,Android,10.147.175.221,C2:2E:13:7A:09:79,1
+186,Tablet,iPad Air,iPadOS,10.38.98.220,A3:4D:08:ED:FE:2A,1
+187,Mobile,OnePlus 12,Android,10.6.94.147,56:9E:A3:E3:3D:19,1
+188,Mobile,iPhone 15,iOS,10.88.6.140,D9:37:87:45:EF:87,1
+189,Laptop,MacBook Air M3,macOS,10.152.120.170,8F:82:AF:B4:C2:BA,1
+190,Mobile,Vivo V30,Android,10.65.18.124,F5:10:8A:3D:4A:F6,1
+191,Tablet,iPad Air,iPadOS,10.180.243.49,42:2B:5D:93:18:45,1
+192,Mobile,Vivo V30,Android,10.48.141.250,DB:CF:89:5C:75:0A,1
+193,Tablet,iPad Air,iPadOS,10.90.113.224,3D:4A:A2:55:A3:04,1
+194,Mobile,Samsung Galaxy S24,Android,10.29.88.127,60:9A:DF:BD:EF:20,1
+195,Mobile,Samsung Galaxy S24,Android,10.202.173.219,4F:50:7A:14:4E:09,1
+196,Tablet,iPad Air,iPadOS,10.214.135.213,83:4D:8D:EC:34:C1,1
+197,Mobile,OnePlus 12,Android,10.238.95.210,8C:16:FD:50:84:33,1
+198,Laptop,Dell Inspiron 15,Windows,10.31.48.149,2A:C0:A4:C8:D9:BD,1
+199,Laptop,Lenovo ThinkPad,Windows,10.167.85.46,69:A4:D8:45:03:02,1
+200,Mobile,OnePlus 12,Android,10.222.10.220,A3:EE:C5:C7:DB:FB,1
+201,Tablet,iPad Air,iPadOS,10.210.0.233,CE:99:96:F7:A0:56,1
+202,Laptop,HP Pavilion,Windows,10.239.220.162,27:74:90:AC:C2:65,1
+203,Laptop,Dell Inspiron 15,Windows,10.18.90.196,2D:67:E8:72:13:06,1
+204,Tablet,iPad Air,iPadOS,10.0.75.176,84:95:37:8B:BA:AE,1
+205,Laptop,HP Pavilion,Windows,10.9.191.159,9D:DD:79:19:2B:FB,1
+206,Mobile,OnePlus 12,Android,10.219.191.63,D4:FF:D5:CF:23:99,1
+207,Laptop,Dell Inspiron 15,Windows,10.45.3.120,9B:66:A9:CB:40:FA,1
+208,Mobile,Samsung Galaxy S24,Android,10.193.120.241,FC:1E:D7:DC:72:D8,1
+209,Mobile,Vivo V30,Android,10.254.255.32,5F:8C:0D:C2:D0:BA,1
+210,Mobile,OnePlus 12,Android,10.235.162.128,B5:FC:E4:BF:D4:E7,1
+211,Mobile,iPhone 15,iOS,10.54.253.25,04:B3:DE:83:0E:55,1
+212,Laptop,Lenovo ThinkPad,Windows,10.62.69.101,4A:A9:DC:85:A9:B2,1
+213,Laptop,MacBook Air M3,macOS,10.92.173.11,E5:05:E8:11:F2:25,1
+214,Mobile,iPhone 15,iOS,10.115.119.27,A0:97:B6:E2:A5:3D,1
+215,Laptop,HP Pavilion,Windows,10.72.12.205,14:47:82:C1:29:5A,1
+216,Mobile,iPhone 15,iOS,10.90.192.204,A6:B6:E6:2E:2F:36,1
+217,Mobile,OnePlus 12,Android,10.246.7.15,1A:51:8D:4C:3B:5E,1
+218,Laptop,MacBook Air M3,macOS,10.165.225.99,E7:47:F3:73:5F:B2,1
+219,Laptop,HP Pavilion,Windows,10.179.175.88,63:E4:64:01:61:CA,1
+220,Mobile,Vivo V30,Android,10.84.228.123,22:96:9D:4A:39:EA,1
+221,Mobile,Samsung Galaxy S24,Android,10.38.146.40,8A:D5:86:BC:F1:11,1
+222,Tablet,iPad Air,iPadOS,10.110.40.212,44:92:2C:04:9C:25,1
+223,Laptop,MacBook Air M3,macOS,10.59.95.120,80:B1:69:02:AB:2E,1
+224,Tablet,iPad Air,iPadOS,10.202.15.148,2E:06:57:F3:9F:51,1
+225,Mobile,iPhone 15,iOS,10.153.21.124,CC:2A:59:DD:57:F3,1
+226,Mobile,Samsung Galaxy S24,Android,10.163.78.84,06:A8:7F:60:FA:64,1
+227,Laptop,Lenovo ThinkPad,Windows,10.42.140.47,3B:F9:64:A1:CF:F2,1
+228,Laptop,Lenovo ThinkPad,Windows,10.171.25.172,40:A8:B6:F4:DA:C4,1
+229,Mobile,iPhone 15,iOS,10.234.76.158,49:56:67:76:43:82,1
+230,Laptop,Lenovo ThinkPad,Windows,10.102.58.2,50:9E:F8:17:78:6D,1
+231,Mobile,OnePlus 12,Android,10.129.191.120,7D:41:A6:20:C4:AA,1
+232,Laptop,HP Pavilion,Windows,10.167.139.80,02:2C:BA:E0:7F:03,1
+233,Laptop,Lenovo ThinkPad,Windows,10.27.156.44,29:46:1E:C9:20:33,1
+234,Mobile,Vivo V30,Android,10.104.219.81,1E:20:DC:81:19:62,1
+235,Mobile,Vivo V30,Android,10.84.253.174,59:4B:DF:E3:28:68,1
+236,Mobile,OnePlus 12,Android,10.156.13.71,DA:1F:40:30:38:07,1
+237,Mobile,Samsung Galaxy S24,Android,10.54.148.207,7A:A9:09:C6:41:1D,1
+238,Mobile,Vivo V30,Android,10.62.248.124,D5:0E:6F:9E:96:E6,1
+239,Laptop,HP Pavilion,Windows,10.95.194.52,7C:71:B7:90:63:BF,1
+240,Laptop,MacBook Air M3,macOS,10.218.225.37,DF:78:58:EF:F2:E3,1
+241,Laptop,HP Pavilion,Windows,10.149.97.98,45:F7:C0:33:EB:FE,1
+242,Laptop,Lenovo ThinkPad,Windows,10.15.39.50,30:06:BD:8A:BC:7F,1
+243,Mobile,iPhone 15,iOS,10.242.93.33,A0:52:10:67:FD:7D,1
+244,Mobile,Vivo V30,Android,10.50.49.11,6C:0D:70:5E:6A:7A,1
+245,Laptop,HP Pavilion,Windows,10.237.225.253,4F:E0:00:E0:22:46,1
+246,Laptop,Lenovo ThinkPad,Windows,10.210.133.190,7A:A7:02:7D:EA:82,1
+247,Mobile,Samsung Galaxy S24,Android,10.220.0.43,2F:59:B0:4A:F0:60,1
+248,Laptop,Dell Inspiron 15,Windows,10.158.53.215,D5:F9:F4:DD:FD:1E,1
+249,Mobile,OnePlus 12,Android,10.117.19.12,97:23:1F:87:37:30,1
+250,Mobile,iPhone 15,iOS,10.212.250.53,69:37:1C:6E:6D:22,1
+251,Laptop,HP Pavilion,Windows,10.82.212.210,F8:E3:8E:14:DD:3B,1
+252,Mobile,Vivo V30,Android,10.21.97.36,90:6A:D2:60:21:79,1
+253,Mobile,iPhone 15,iOS,10.223.90.155,CD:18:50:F8:FA:44,1
+254,Mobile,OnePlus 12,Android,10.205.135.159,9C:7B:3F:82:6B:6A,1
+255,Mobile,Vivo V30,Android,10.250.79.86,36:E5:B1:5E:51:73,1
+256,Laptop,MacBook Air M3,macOS,10.50.224.203,1B:1D:A7:03:50:C7,1
+257,Laptop,HP Pavilion,Windows,10.121.129.174,FB:E7:14:FE:9F:DD,1
+258,Tablet,iPad Air,iPadOS,10.173.53.248,FB:63:86:49:C4:15,1
+259,Mobile,Vivo V30,Android,10.38.190.177,7B:DB:28:D5:77:94,1
+260,Laptop,Lenovo ThinkPad,Windows,10.90.173.123,A6:E1:71:78:3E:94,1
+261,Laptop,Dell Inspiron 15,Windows,10.82.195.36,9D:E7:C0:AE:42:D3,1
+262,Mobile,Vivo V30,Android,10.247.101.29,E6:72:70:D8:F1:5E,1
+263,Mobile,OnePlus 12,Android,10.95.29.175,A2:B9:79:AB:30:DE,1
+264,Mobile,Samsung Galaxy S24,Android,10.121.188.34,D4:9F:01:2B:8D:6B,1
+265,Mobile,OnePlus 12,Android,10.126.170.101,97:CA:60:94:6E:CF,1
+266,Laptop,HP Pavilion,Windows,10.139.156.100,D2:F5:F1:F9:4F:16,1
+267,Laptop,Lenovo ThinkPad,Windows,10.59.237.158,23:6E:D6:83:50:A9,1
+268,Laptop,Lenovo ThinkPad,Windows,10.83.122.166,E9:36:8E:F4:BD:B1,1
+269,Mobile,iPhone 15,iOS,10.7.99.138,77:75:B9:9E:B4:73,1
+270,Mobile,Vivo V30,Android,10.23.142.121,6F:38:2A:3F:93:F5,1
+271,Laptop,Lenovo ThinkPad,Windows,10.170.186.47,37:64:A9:85:F4:89,1
+272,Mobile,Vivo V30,Android,10.8.20.89,90:52:7B:A3:86:D8,1
+273,Mobile,Vivo V30,Android,10.67.132.26,B8:ED:FC:FA:AE:67,1
+274,Laptop,HP Pavilion,Windows,10.229.76.215,2B:94:A8:8F:EA:0E,1
+275,Tablet,iPad Air,iPadOS,10.123.149.240,A0:CF:3E:53:EA:F5,1
+276,Laptop,HP Pavilion,Windows,10.249.252.246,80:C3:B5:75:B2:9B,1
+277,Laptop,HP Pavilion,Windows,10.179.36.106,1C:B8:2A:1A:5F:DC,1
+278,Laptop,Lenovo ThinkPad,Windows,10.141.170.211,9C:D2:AC:6D:35:68,1
+279,Laptop,HP Pavilion,Windows,10.65.104.154,14:66:C1:CC:63:8B,1
+280,Mobile,OnePlus 12,Android,10.94.170.210,20:73:53:57:87:CF,1
+281,Tablet,iPad Air,iPadOS,10.215.11.61,01:0C:24:1B:7F:A1,1
+282,Mobile,Samsung Galaxy S24,Android,10.226.162.248,12:25:31:C0:73:D5,1
+283,Mobile,iPhone 15,iOS,10.15.225.211,6D:50:C7:A2:8F:E4,1
+284,Laptop,HP Pavilion,Windows,10.14.74.152,3C:08:49:43:D6:C0,1
+285,Mobile,iPhone 15,iOS,10.153.68.233,60:A4:07:BF:1C:FA,1
+286,Mobile,OnePlus 12,Android,10.193.208.65,A8:94:A7:5F:5A:EE,1
+287,Laptop,Lenovo ThinkPad,Windows,10.32.66.193,2F:4B:D9:2A:B9:D5,1
+288,Laptop,Dell Inspiron 15,Windows,10.198.129.97,F4:6F:42:0C:6D:D8,1
+289,Tablet,iPad Air,iPadOS,10.181.111.78,DC:1C:67:4C:43:51,1
+290,Tablet,iPad Air,iPadOS,10.10.5.174,3A:30:02:CD:34:5A,1
+291,Laptop,HP Pavilion,Windows,10.172.119.232,ED:0F:D6:C6:C1:57,1
+292,Tablet,iPad Air,iPadOS,10.200.201.16,82:03:EE:1B:D8:2F,1
+293,Laptop,Dell Inspiron 15,Windows,10.200.206.85,F4:EF:AF:F0:C8:18,1
+294,Mobile,OnePlus 12,Android,10.223.208.84,BA:47:2B:CC:08:F4,1
+295,Laptop,Dell Inspiron 15,Windows,10.70.111.169,9D:40:36:A7:57:84,1
+296,Mobile,Samsung Galaxy S24,Android,10.166.138.144,00:D3:18:CB:23:00,1
+297,Mobile,Vivo V30,Android,10.34.41.227,E4:5D:37:6D:D9:6C,1
+298,Tablet,iPad Air,iPadOS,10.147.79.219,8F:DC:74:16:3B:2B,1
+299,Laptop,Lenovo ThinkPad,Windows,10.232.68.209,6D:86:87:FB:EB:7C,1
+300,Laptop,Lenovo ThinkPad,Windows,10.194.29.69,5D:37:B8:C6:65:1D,1
+301,Laptop,HP Pavilion,Windows,10.241.6.229,A5:FD:95:28:1F:47,1
+302,Laptop,Lenovo ThinkPad,Windows,10.63.95.196,5C:D4:98:E3:65:34,1
+303,Laptop,HP Pavilion,Windows,10.25.17.153,E5:D9:B2:CB:D0:C0,1
+304,Mobile,Vivo V30,Android,10.65.104.220,29:41:D8:B8:AC:78,1
+305,Tablet,iPad Air,iPadOS,10.235.222.89,7D:CC:16:F5:EC:4E,1
+306,Mobile,Vivo V30,Android,10.8.39.150,10:AE:88:B4:D0:C8,1
+307,Laptop,HP Pavilion,Windows,10.73.19.29,D1:2D:1C:CA:96:B8,1
+308,Laptop,HP Pavilion,Windows,10.131.161.47,CB:78:03:ED:03:6F,1
+309,Mobile,Vivo V30,Android,10.17.121.162,E9:55:5D:72:C6:50,1
+310,Tablet,iPad Air,iPadOS,10.36.128.141,A8:C5:21:BA:10:F6,1
+311,Mobile,Vivo V30,Android,10.49.40.38,DE:8E:85:FD:67:E1,1
+312,Laptop,Dell Inspiron 15,Windows,10.92.246.104,2E:0E:3C:4D:2F:ED,1
+313,Mobile,iPhone 15,iOS,10.92.174.36,27:29:FD:29:1B:B6,1
+314,Mobile,iPhone 15,iOS,10.233.121.86,F8:0E:94:F1:3F:02,1
+315,Mobile,OnePlus 12,Android,10.63.4.131,EF:AE:7C:90:17:CF,1
+316,Mobile,Samsung Galaxy S24,Android,10.225.219.194,53:30:02:24:7E:B3,1
+317,Mobile,iPhone 15,iOS,10.104.91.247,4B:F8:76:84:2D:93,1
+318,Laptop,HP Pavilion,Windows,10.41.75.75,19:EE:B5:58:04:83,1
+319,Laptop,Lenovo ThinkPad,Windows,10.224.49.151,AB:B1:AC:DF:46:FD,1
+320,Mobile,OnePlus 12,Android,10.177.154.162,29:75:8D:21:CB:02,1
+321,Mobile,Samsung Galaxy S24,Android,10.75.50.26,3A:C5:D0:83:9B:04,1
+322,Laptop,Dell Inspiron 15,Windows,10.125.229.107,9E:C2:79:37:5F:16,1
+323,Mobile,OnePlus 12,Android,10.31.230.143,B3:98:9F:CF:EF:85,1
+324,Mobile,OnePlus 12,Android,10.195.60.38,C0:6D:DB:11:F7:FE,1
+325,Mobile,Samsung Galaxy S24,Android,10.49.146.97,85:AE:6F:F2:A3:4C,1
+326,Laptop,Lenovo ThinkPad,Windows,10.130.73.27,02:AF:04:B9:5A:B2,1
+327,Tablet,iPad Air,iPadOS,10.121.75.148,58:20:48:CD:88:10,1
+328,Laptop,MacBook Air M3,macOS,10.87.36.4,84:D3:01:17:F2:DE,1
+329,Laptop,HP Pavilion,Windows,10.80.40.111,8B:83:BE:04:88:E3,1
+330,Laptop,HP Pavilion,Windows,10.75.124.23,7C:F7:77:F6:8E:7B,1
+331,Laptop,Lenovo ThinkPad,Windows,10.55.86.33,8C:D2:D6:E7:B4:10,1
+332,Tablet,iPad Air,iPadOS,10.54.70.116,7F:61:D3:AD:D4:F4,1
+333,Mobile,iPhone 15,iOS,10.225.182.219,74:F3:EF:D3:C2:51,1
+334,Laptop,Lenovo ThinkPad,Windows,10.82.49.111,F5:2B:3D:E2:9A:04,1
+335,Laptop,MacBook Air M3,macOS,10.0.250.244,CB:D6:52:14:ED:D2,1
+336,Laptop,HP Pavilion,Windows,10.99.199.9,4F:1E:9F:27:DE:DE,1
+337,Mobile,Samsung Galaxy S24,Android,10.214.57.112,F6:21:EE:85:BA:9A,1
+338,Mobile,Vivo V30,Android,10.42.227.41,DE:8F:3B:F9:A2:32,1
+339,Mobile,OnePlus 12,Android,10.212.240.1,1E:49:23:A0:BA:02,1
+340,Mobile,OnePlus 12,Android,10.158.12.223,E4:A1:D9:EF:DE:7F,1
+341,Mobile,Samsung Galaxy S24,Android,10.196.213.117,4E:7E:C5:70:C0:FF,1
+342,Laptop,MacBook Air M3,macOS,10.114.174.224,25:B7:40:6B:00:FB,1
+343,Mobile,Vivo V30,Android,10.232.138.221,69:A4:C9:C4:12:8E,1
+344,Mobile,iPhone 15,iOS,10.245.81.78,73:0F:55:D8:A6:8F,1
+345,Mobile,OnePlus 12,Android,10.232.122.170,5C:CA:15:C4:DC:6B,1
+346,Mobile,iPhone 15,iOS,10.147.175.115,A5:18:8D:54:DE:E1,1
+347,Tablet,iPad Air,iPadOS,10.246.216.206,E0:72:2D:3A:14:34,1
+348,Laptop,Dell Inspiron 15,Windows,10.59.218.118,A3:EE:2E:C7:42:B9,1
+349,Laptop,MacBook Air M3,macOS,10.160.64.120,42:26:D3:39:2D:81,1
+350,Mobile,Vivo V30,Android,10.98.105.105,4E:5E:23:23:FA:7F,1
+351,Laptop,HP Pavilion,Windows,10.192.57.98,AD:4A:D9:E3:0C:A8,1
+352,Laptop,MacBook Air M3,macOS,10.162.166.13,FB:24:08:C7:07:53,1
+353,Mobile,Vivo V30,Android,10.92.69.32,C9:B5:6C:C9:48:97,1
+354,Laptop,MacBook Air M3,macOS,10.245.108.164,DE:95:9A:A6:F2:F1,1
+355,Tablet,iPad Air,iPadOS,10.43.242.106,54:E7:33:33:43:86,1
+356,Mobile,Vivo V30,Android,10.194.115.215,44:7D:90:5F:6A:FC,1
+357,Laptop,Dell Inspiron 15,Windows,10.65.133.36,22:CE:38:AD:41:FB,1
+358,Laptop,MacBook Air M3,macOS,10.24.205.155,F5:FA:26:9A:28:A7,1
+359,Laptop,HP Pavilion,Windows,10.52.154.100,5A:75:6E:BF:B0:62,1
+360,Mobile,OnePlus 12,Android,10.250.117.13,67:9F:D2:38:08:3C,1
+361,Laptop,Dell Inspiron 15,Windows,10.213.104.56,5C:D7:8F:8A:2E:36,1
+362,Mobile,iPhone 15,iOS,10.228.240.145,1C:6F:7C:0D:AF:A0,1
+363,Laptop,Dell Inspiron 15,Windows,10.179.158.227,71:59:E1:B5:D0:F6,1
+364,Tablet,iPad Air,iPadOS,10.157.142.245,39:0A:99:FE:F8:82,1
+365,Mobile,OnePlus 12,Android,10.135.251.72,2C:84:73:27:F6:E4,1
+366,Mobile,iPhone 15,iOS,10.236.153.189,4F:FA:C0:BE:09:B0,1
+367,Mobile,Vivo V30,Android,10.139.237.153,AF:1D:35:51:4D:AF,1
+368,Laptop,Dell Inspiron 15,Windows,10.206.188.45,8B:7A:3C:D9:4C:86,1
+369,Laptop,HP Pavilion,Windows,10.13.107.131,E7:BF:E7:5B:4D:81,1
+370,Laptop,Lenovo ThinkPad,Windows,10.109.171.86,6D:61:6D:74:06:70,1
+371,Laptop,Dell Inspiron 15,Windows,10.242.5.131,24:6C:A4:52:F1:E6,1
+372,Laptop,HP Pavilion,Windows,10.243.162.65,BC:A2:7B:C2:4B:60,1
+373,Mobile,Vivo V30,Android,10.183.166.165,78:87:6F:5A:2C:18,1
+374,Tablet,iPad Air,iPadOS,10.64.8.32,29:7E:1D:71:2D:F5,1
+375,Laptop,Dell Inspiron 15,Windows,10.126.12.38,72:01:D6:42:2F:67,1
+376,Mobile,Samsung Galaxy S24,Android,10.164.94.195,87:51:42:01:65:29,1
+377,Laptop,Lenovo ThinkPad,Windows,10.99.200.107,40:DB:3F:B7:C1:D8,1
+378,Laptop,Lenovo ThinkPad,Windows,10.128.190.77,76:52:5B:F8:82:AD,1
+379,Laptop,MacBook Air M3,macOS,10.202.7.245,3D:F9:07:A1:00:33,1
+380,Mobile,Vivo V30,Android,10.84.34.188,A4:03:07:F1:A1:10,1
+381,Mobile,Samsung Galaxy S24,Android,10.145.118.58,9B:BC:35:C4:F6:79,1
+382,Mobile,OnePlus 12,Android,10.64.231.192,5F:B5:7B:06:04:09,1
+383,Laptop,HP Pavilion,Windows,10.36.60.195,62:0E:D7:4F:40:9D,1
+384,Tablet,iPad Air,iPadOS,10.200.41.39,4F:4A:F7:CF:3F:E7,1
+385,Laptop,Dell Inspiron 15,Windows,10.107.87.75,01:16:DF:46:FC:2B,1
+386,Tablet,iPad Air,iPadOS,10.138.255.129,65:54:8F:52:14:0C,1
+387,Laptop,Dell Inspiron 15,Windows,10.252.144.221,19:FB:02:CF:22:7A,1
+388,Tablet,iPad Air,iPadOS,10.47.52.46,38:7C:83:F2:AB:56,1
+389,Laptop,MacBook Air M3,macOS,10.139.67.137,D8:38:12:E9:5A:7A,1
+390,Mobile,OnePlus 12,Android,10.193.177.20,23:C4:53:3C:DE:29,1
+391,Laptop,Dell Inspiron 15,Windows,10.24.192.115,B5:AC:A6:4E:F0:95,1
+392,Tablet,iPad Air,iPadOS,10.207.119.67,B9:01:9E:32:74:BD,1
+393,Tablet,iPad Air,iPadOS,10.19.171.163,D2:79:DF:2B:A0:04,1
+394,Laptop,HP Pavilion,Windows,10.97.52.196,0C:36:D9:12:17:60,1
+395,Mobile,Samsung Galaxy S24,Android,10.243.119.234,BA:04:53:37:45:49,1
+396,Mobile,OnePlus 12,Android,10.72.12.145,83:80:8A:E0:09:D9,1
+397,Tablet,iPad Air,iPadOS,10.206.101.225,D1:75:1A:2B:7F:10,1
+398,Laptop,HP Pavilion,Windows,10.187.42.44,82:AC:CF:B4:7B:57,1
+399,Laptop,MacBook Air M3,macOS,10.152.144.250,95:94:AD:A6:0B:75,1
+400,Laptop,Lenovo ThinkPad,Windows,10.131.134.20,20:C5:90:39:0A:0E,1
+401,Laptop,HP Pavilion,Windows,10.45.145.229,EE:C3:D3:23:33:F6,1
+402,Mobile,OnePlus 12,Android,10.119.168.12,97:65:CD:6B:DB:66,1
+403,Laptop,Lenovo ThinkPad,Windows,10.108.34.129,C1:87:99:B3:51:E9,1
+404,Mobile,OnePlus 12,Android,10.85.214.90,58:0B:6D:B6:FB:41,1
+405,Tablet,iPad Air,iPadOS,10.51.42.150,49:12:6F:9E:CD:05,1
+406,Mobile,OnePlus 12,Android,10.24.191.246,9C:22:BE:57:7D:A0,1
+407,Laptop,HP Pavilion,Windows,10.19.7.13,9A:BA:31:47:35:73,1
+408,Laptop,Dell Inspiron 15,Windows,10.65.19.211,BD:DD:68:75:DF:9E,1
+409,Mobile,OnePlus 12,Android,10.213.63.95,50:0A:09:B0:37:B5,1
+410,Laptop,Dell Inspiron 15,Windows,10.198.216.31,D6:9F:A4:17:49:DA,1
+411,Laptop,Lenovo ThinkPad,Windows,10.244.238.149,BE:F1:7E:21:C9:1C,1
+412,Mobile,Vivo V30,Android,10.219.81.104,5D:3F:44:72:F7:CE,1
+413,Laptop,HP Pavilion,Windows,10.100.15.105,4A:78:90:1B:7C:70,1
+414,Mobile,Vivo V30,Android,10.109.156.54,EA:A1:74:BE:7C:03,1
+415,Laptop,HP Pavilion,Windows,10.61.197.67,94:DC:1D:4E:98:19,1
+416,Mobile,OnePlus 12,Android,10.34.83.21,8B:C2:42:CD:EE:E1,1
+417,Laptop,Lenovo ThinkPad,Windows,10.13.152.164,84:B0:3A:12:A0:B3,1
+418,Mobile,Vivo V30,Android,10.97.185.8,96:2D:E6:4D:13:C9,1
+419,Laptop,Dell Inspiron 15,Windows,10.20.203.86,F9:5F:52:6B:B0:E7,1
+420,Mobile,iPhone 15,iOS,10.41.241.152,78:CD:86:8A:DB:40,1
+421,Mobile,Vivo V30,Android,10.13.228.78,14:64:73:18:D9:FE,1
+422,Laptop,Dell Inspiron 15,Windows,10.156.218.205,AC:17:7F:51:4D:56,1
+423,Laptop,Dell Inspiron 15,Windows,10.128.83.74,10:EB:D2:89:4F:2B,1
+424,Mobile,Samsung Galaxy S24,Android,10.88.47.248,55:C9:98:57:7F:0E,1
+425,Tablet,iPad Air,iPadOS,10.254.31.230,10:E0:48:8E:19:F1,1
+426,Laptop,Lenovo ThinkPad,Windows,10.226.79.35,13:25:BD:32:A0:0F,1
+427,Mobile,Samsung Galaxy S24,Android,10.77.152.10,CD:7A:5E:56:1F:0F,1
+428,Tablet,iPad Air,iPadOS,10.171.109.125,99:3E:48:3D:41:CE,1
+429,Laptop,HP Pavilion,Windows,10.212.223.84,9C:74:27:6E:14:7D,1
+430,Mobile,iPhone 15,iOS,10.64.17.33,BA:B2:EC:87:DB:CF,1
+431,Mobile,OnePlus 12,Android,10.81.217.126,88:25:A4:7C:9E:B2,1
+432,Laptop,HP Pavilion,Windows,10.65.86.80,29:B1:E8:B5:4F:24,1
+433,Mobile,Vivo V30,Android,10.113.136.88,59:7D:46:FA:18:F9,1
+434,Tablet,iPad Air,iPadOS,10.120.21.26,05:1E:D0:83:31:E6,1
+435,Mobile,Vivo V30,Android,10.106.145.233,B2:53:8F:88:7F:17,1
+436,Mobile,iPhone 15,iOS,10.13.235.58,47:22:25:AE:50:06,1
+437,Mobile,Vivo V30,Android,10.144.161.181,4F:28:3F:02:CC:4A,1
+438,Mobile,iPhone 15,iOS,10.166.184.54,78:0B:89:AD:26:B0,1
+439,Mobile,OnePlus 12,Android,10.181.222.79,03:2B:43:3C:4F:86,1
+440,Mobile,Vivo V30,Android,10.211.123.181,72:BF:41:8F:8F:F0,1
+441,Mobile,OnePlus 12,Android,10.128.213.59,62:24:A3:DE:EC:2A,1
+442,Laptop,Lenovo ThinkPad,Windows,10.93.66.73,DF:B0:84:1E:8A:46,1
+443,Mobile,iPhone 15,iOS,10.108.217.10,62:A9:08:7C:EE:D9,1
+444,Mobile,OnePlus 12,Android,10.249.19.90,D3:D8:3A:2D:AF:F1,1
+445,Mobile,iPhone 15,iOS,10.83.250.163,5A:4C:70:08:D7:01,1
+446,Laptop,MacBook Air M3,macOS,10.26.98.35,00:8D:1B:E3:27:BC,1
+447,Mobile,OnePlus 12,Android,10.128.208.63,C3:0D:5A:11:4A:8F,1
+448,Mobile,Vivo V30,Android,10.1.253.135,7B:A1:88:85:EC:80,1
+449,Laptop,MacBook Air M3,macOS,10.210.79.198,F0:C9:1E:04:E1:54,1
+450,Mobile,OnePlus 12,Android,10.195.77.238,0D:4D:5D:DF:4A:9E,1
+451,Laptop,HP Pavilion,Windows,10.137.171.111,E6:86:41:48:6A:0F,1
+452,Laptop,MacBook Air M3,macOS,10.24.30.68,62:F3:38:2F:15:84,1
+453,Mobile,OnePlus 12,Android,10.174.38.82,9D:1E:1E:84:0F:E9,1
+454,Laptop,Lenovo ThinkPad,Windows,10.131.33.81,D6:8B:31:B2:64:84,1
+455,Laptop,MacBook Air M3,macOS,10.25.145.187,5B:2A:0B:DC:90:CC,1
+456,Mobile,iPhone 15,iOS,10.113.63.235,A6:B1:03:A2:E3:42,1
+457,Laptop,HP Pavilion,Windows,10.86.9.87,DB:48:50:3B:68:AA,1
+458,Mobile,Vivo V30,Android,10.99.16.141,37:C6:4B:45:8A:B4,1
+459,Mobile,OnePlus 12,Android,10.22.61.131,BD:9B:52:12:AF:7D,1
+460,Laptop,Lenovo ThinkPad,Windows,10.25.150.81,E5:C9:DD:AC:3E:63,1
+461,Laptop,MacBook Air M3,macOS,10.113.140.163,9D:78:3E:2F:99:57,1
+462,Mobile,iPhone 15,iOS,10.160.180.79,B5:1A:8B:05:AD:CC,1
+463,Mobile,Vivo V30,Android,10.152.109.241,AA:D2:AE:5B:9F:22,1
+464,Tablet,iPad Air,iPadOS,10.148.45.5,4D:88:50:6A:37:B5,1
+465,Mobile,Samsung Galaxy S24,Android,10.181.85.164,C4:D8:F1:A5:65:37,1
+466,Laptop,MacBook Air M3,macOS,10.64.216.40,11:91:2E:AB:BC:E3,1
+467,Laptop,Lenovo ThinkPad,Windows,10.28.36.85,CE:2A:24:30:7E:5F,1
+468,Mobile,OnePlus 12,Android,10.44.239.247,41:DF:97:F2:89:F5,1
+469,Laptop,HP Pavilion,Windows,10.13.37.9,0B:A7:FA:CC:D2:9C,1
+470,Mobile,Vivo V30,Android,10.98.244.212,24:E4:F3:6F:78:5C,1
+471,Laptop,HP Pavilion,Windows,10.220.213.39,ED:CC:C4:92:BA:14,1
+472,Laptop,Dell Inspiron 15,Windows,10.140.210.41,12:19:D5:FC:1F:B3,1
+473,Laptop,Lenovo ThinkPad,Windows,10.149.191.49,E1:76:03:48:F5:D0,1
+474,Laptop,Lenovo ThinkPad,Windows,10.19.187.117,69:35:CD:9A:F2:65,1
+475,Laptop,Lenovo ThinkPad,Windows,10.28.35.113,11:DD:B6:AE:B4:1D,1
+476,Laptop,MacBook Air M3,macOS,10.70.88.82,3C:E0:D9:8D:3F:CD,1
+477,Laptop,Lenovo ThinkPad,Windows,10.213.220.204,0B:E7:EA:71:CD:D0,1
+478,Mobile,Vivo V30,Android,10.239.119.70,1F:8D:5A:66:FC:DC,1
+479,Mobile,OnePlus 12,Android,10.243.94.240,8C:9D:D9:4C:0C:2E,1
+480,Mobile,iPhone 15,iOS,10.225.164.212,2D:B9:87:7E:E5:08,1
+481,Laptop,Dell Inspiron 15,Windows,10.53.218.106,BF:DA:76:4E:27:02,1
+482,Mobile,Vivo V30,Android,10.209.8.107,9B:C2:55:E4:62:C7,1
+483,Mobile,Vivo V30,Android,10.69.104.56,30:91:90:58:82:9B,1
+484,Laptop,Lenovo ThinkPad,Windows,10.30.6.234,F6:99:59:61:F8:32,1
+485,Laptop,HP Pavilion,Windows,10.184.243.254,30:7B:E3:FD:94:A8,1
+486,Mobile,Vivo V30,Android,10.143.170.112,66:BB:4E:80:99:FB,1
+487,Mobile,Vivo V30,Android,10.219.123.60,9A:46:69:D0:2B:BA,1
+488,Laptop,Lenovo ThinkPad,Windows,10.41.115.88,CC:24:77:2E:47:E2,1
+489,Laptop,MacBook Air M3,macOS,10.35.178.173,AB:00:1D:E2:1A:25,1
+490,Mobile,iPhone 15,iOS,10.165.194.168,2A:F0:04:B5:67:CE,1
+491,Laptop,Dell Inspiron 15,Windows,10.2.91.182,95:63:0C:40:90:68,1
+492,Tablet,iPad Air,iPadOS,10.119.26.128,2D:F6:43:13:2F:ED,1
+493,Mobile,Samsung Galaxy S24,Android,10.185.12.194,01:9F:05:23:34:C9,1
+494,Tablet,iPad Air,iPadOS,10.52.229.182,7A:4F:FD:8F:C6:FD,1
+495,Laptop,HP Pavilion,Windows,10.126.120.127,C5:34:8B:58:08:72,1
+496,Laptop,HP Pavilion,Windows,10.44.63.66,4B:8B:E9:39:AE:2D,1
+497,Mobile,Vivo V30,Android,10.49.240.97,2C:6D:93:05:01:3D,1
+498,Tablet,iPad Air,iPadOS,10.186.175.156,FD:9F:D2:22:A3:02,1
+499,Laptop,HP Pavilion,Windows,10.33.195.121,B4:42:AC:46:11:62,1
+500,Laptop,Dell Inspiron 15,Windows,10.71.30.127,7A:8C:DE:0A:DF:17,1
+501,Mobile,OnePlus 12,Android,10.210.83.105,BB:4C:B8:3E:E7:6B,1
+502,Tablet,iPad Air,iPadOS,10.145.85.172,54:04:E1:6C:F6:4E,1
+503,Mobile,Samsung Galaxy S24,Android,10.55.246.7,86:F0:8E:BB:D1:C7,1
+504,Mobile,Vivo V30,Android,10.200.136.36,F3:5D:35:32:D3:81,1
+505,Laptop,Dell Inspiron 15,Windows,10.73.101.116,F4:DA:FF:1C:82:61,1
+506,Laptop,Lenovo ThinkPad,Windows,10.23.76.22,78:E5:ED:3D:1A:14,1
+507,Mobile,iPhone 15,iOS,10.19.210.174,2C:6D:A6:5B:C8:84,1
+508,Laptop,Dell Inspiron 15,Windows,10.206.82.138,F0:FA:55:44:03:1E,1
+509,Mobile,OnePlus 12,Android,10.65.179.131,05:3C:18:01:61:3C,1
+510,Laptop,Lenovo ThinkPad,Windows,10.4.178.172,9E:3E:D0:AE:A8:1B,1
+511,Mobile,OnePlus 12,Android,10.213.237.187,72:46:DC:A2:77:2A,1
+512,Mobile,OnePlus 12,Android,10.75.109.45,E8:7A:D9:49:B0:41,1
+513,Mobile,Vivo V30,Android,10.196.145.60,90:00:F3:31:4E:1B,1
+514,Mobile,Samsung Galaxy S24,Android,10.185.20.19,61:2B:7B:FE:A5:42,1
+515,Mobile,Samsung Galaxy S24,Android,10.240.8.161,ED:2F:BF:94:BA:3E,1
+516,Laptop,MacBook Air M3,macOS,10.33.142.243,58:18:9D:BE:E8:06,1
+517,Mobile,Samsung Galaxy S24,Android,10.8.228.31,7F:45:CF:76:72:9C,1
+518,Laptop,Dell Inspiron 15,Windows,10.21.69.143,60:09:35:5A:66:8A,1
+519,Mobile,Vivo V30,Android,10.225.139.176,C4:1E:8F:99:A2:A8,1
+520,Mobile,iPhone 15,iOS,10.19.108.51,D2:0F:74:0C:68:97,1
+521,Mobile,Vivo V30,Android,10.252.157.210,E7:82:0F:83:61:FB,1
+522,Laptop,HP Pavilion,Windows,10.117.233.3,DB:1A:A0:B5:70:D6,1
+523,Mobile,Samsung Galaxy S24,Android,10.46.215.101,06:4C:0F:AA:2F:D7,1
+524,Mobile,iPhone 15,iOS,10.54.139.108,91:3F:2A:5F:32:BF,1
+525,Laptop,Dell Inspiron 15,Windows,10.133.208.64,AE:C9:10:14:87:6A,1
+526,Mobile,OnePlus 12,Android,10.101.38.218,84:77:F0:41:EA:91,1
+527,Laptop,Dell Inspiron 15,Windows,10.63.124.90,89:4B:55:5C:3D:E0,1
+528,Laptop,HP Pavilion,Windows,10.134.82.24,3C:A6:F6:9D:23:92,1
+529,Mobile,Samsung Galaxy S24,Android,10.54.71.57,C3:90:2D:BA:19:E0,1
+530,Laptop,Lenovo ThinkPad,Windows,10.94.134.203,73:6C:A7:2F:31:87,1
+531,Laptop,Dell Inspiron 15,Windows,10.104.113.79,73:89:EB:37:2D:81,1
+532,Laptop,MacBook Air M3,macOS,10.240.17.66,37:48:64:0C:7B:A7,1
+533,Laptop,MacBook Air M3,macOS,10.72.124.237,12:7B:A3:DC:E1:99,1
+534,Mobile,OnePlus 12,Android,10.104.199.171,82:F0:48:77:30:61,1
+535,Mobile,OnePlus 12,Android,10.191.164.5,1B:D2:C5:28:AD:C6,1
+536,Laptop,Dell Inspiron 15,Windows,10.96.91.228,AC:B1:81:A1:54:E8,1
+537,Tablet,iPad Air,iPadOS,10.77.0.21,01:A2:E0:6E:63:BF,1
+538,Laptop,Dell Inspiron 15,Windows,10.245.92.190,50:54:63:6C:61:D9,1
+539,Mobile,Samsung Galaxy S24,Android,10.248.50.29,7E:86:F4:CE:46:CF,1
+540,Laptop,HP Pavilion,Windows,10.59.77.83,CA:9F:84:86:5F:EB,1
+541,Laptop,Lenovo ThinkPad,Windows,10.172.171.36,A7:20:3F:81:B5:FD,1
+542,Laptop,Lenovo ThinkPad,Windows,10.20.146.171,51:05:68:5E:B9:C5,1
+543,Mobile,Vivo V30,Android,10.226.182.224,D4:A7:35:C9:6C:05,1
+544,Laptop,MacBook Air M3,macOS,10.99.201.249,1D:8F:C9:0F:D2:0A,1
+545,Laptop,Dell Inspiron 15,Windows,10.87.44.239,5A:D4:6E:CB:A8:8E,1
+546,Laptop,Dell Inspiron 15,Windows,10.127.10.141,00:68:6A:74:35:9A,1
+547,Laptop,Dell Inspiron 15,Windows,10.36.29.21,0C:E3:35:83:76:68,1
+548,Mobile,OnePlus 12,Android,10.121.23.156,D5:E4:3A:DA:8A:9F,1
+549,Mobile,OnePlus 12,Android,10.74.211.238,33:39:41:71:8B:C2,1
+550,Tablet,iPad Air,iPadOS,10.229.201.242,B5:92:AB:77:03:52,1
+551,Mobile,OnePlus 12,Android,10.236.57.175,5A:AC:AC:F2:27:10,1
+552,Mobile,OnePlus 12,Android,10.38.194.235,DF:F6:4A:67:7B:EE,1
+553,Laptop,HP Pavilion,Windows,10.52.72.99,CE:0D:AD:0C:8E:BD,1
+554,Laptop,HP Pavilion,Windows,10.18.170.138,13:D8:E2:F0:44:50,1
+555,Mobile,Samsung Galaxy S24,Android,10.163.47.203,B5:8E:EA:70:04:C3,1
+556,Laptop,Lenovo ThinkPad,Windows,10.151.254.189,15:ED:B2:85:71:8B,1
+557,Mobile,iPhone 15,iOS,10.31.197.142,90:72:06:83:F7:29,1
+558,Mobile,iPhone 15,iOS,10.4.196.126,92:44:48:7F:66:F9,1
+559,Laptop,HP Pavilion,Windows,10.241.117.144,5C:A9:8D:C4:22:0F,1
+560,Mobile,OnePlus 12,Android,10.114.118.31,AC:C6:91:90:56:B9,1
+561,Mobile,OnePlus 12,Android,10.54.122.152,07:5F:E0:4E:CC:3D,1
+562,Mobile,Vivo V30,Android,10.214.34.254,93:E3:70:66:C0:F2,1
+563,Mobile,Samsung Galaxy S24,Android,10.161.240.60,39:B4:10:CE:DE:58,1
+564,Mobile,Vivo V30,Android,10.184.133.92,0B:FA:BA:16:91:83,1
+565,Laptop,Dell Inspiron 15,Windows,10.167.43.99,75:2A:46:ED:2D:D7,1
+566,Mobile,iPhone 15,iOS,10.169.20.253,77:B9:7B:99:FB:99,1
+567,Mobile,Vivo V30,Android,10.23.79.105,1C:45:8B:74:20:E6,1
+568,Laptop,Lenovo ThinkPad,Windows,10.224.71.162,8B:87:A4:36:03:19,1
+569,Mobile,Vivo V30,Android,10.48.91.205,92:93:41:72:39:E9,1
+570,Mobile,Samsung Galaxy S24,Android,10.195.188.236,62:8A:25:C1:05:CA,1
+571,Laptop,MacBook Air M3,macOS,10.16.9.152,11:2D:8F:C0:5B:D6,1
+572,Mobile,OnePlus 12,Android,10.137.117.176,F4:9B:72:70:54:E8,1
+573,Tablet,iPad Air,iPadOS,10.149.185.3,59:2B:90:EE:6F:D8,1
+574,Laptop,Lenovo ThinkPad,Windows,10.107.130.185,64:57:89:88:EE:1F,1
+575,Mobile,OnePlus 12,Android,10.147.110.186,3F:6A:0B:E6:00:AA,1
+576,Laptop,MacBook Air M3,macOS,10.22.120.83,EE:27:80:C3:C2:57,1
+577,Mobile,iPhone 15,iOS,10.151.11.88,4D:65:44:84:1C:C1,1
+578,Laptop,Lenovo ThinkPad,Windows,10.197.83.185,DF:07:31:18:1A:93,1
+579,Mobile,Samsung Galaxy S24,Android,10.189.113.79,99:6E:FB:22:94:2F,1
+580,Mobile,Vivo V30,Android,10.145.211.115,12:26:42:F0:E8:D3,1
+581,Mobile,iPhone 15,iOS,10.80.30.193,18:F3:32:5E:0E:EB,1
+582,Mobile,Samsung Galaxy S24,Android,10.136.77.137,BA:00:EC:BD:07:F2,1
+583,Mobile,Vivo V30,Android,10.205.240.250,B2:2D:60:B3:55:8B,1
+584,Mobile,Vivo V30,Android,10.90.129.48,58:E0:53:C9:47:9B,1
+585,Laptop,Lenovo ThinkPad,Windows,10.210.110.27,44:90:99:68:DD:39,1
+586,Laptop,MacBook Air M3,macOS,10.115.63.245,7F:01:A2:61:83:21,1
+587,Laptop,HP Pavilion,Windows,10.100.224.113,FA:D7:3D:66:80:F3,1
+588,Mobile,Vivo V30,Android,10.165.183.90,47:4A:29:E5:F3:9F,1
+589,Mobile,OnePlus 12,Android,10.39.1.63,D0:CB:37:0F:B7:C7,1
+590,Mobile,Samsung Galaxy S24,Android,10.155.95.229,3D:01:55:D5:52:8A,1
+591,Mobile,OnePlus 12,Android,10.100.125.128,48:2D:33:CD:36:DA,1
+592,Laptop,Dell Inspiron 15,Windows,10.162.236.195,F0:0B:E6:33:EA:26,1
+593,Laptop,MacBook Air M3,macOS,10.4.42.44,73:11:FD:00:F9:CC,1
+594,Mobile,Samsung Galaxy S24,Android,10.194.127.83,E2:AF:B3:B1:2A:25,1
+595,Laptop,Lenovo ThinkPad,Windows,10.198.110.184,DE:BB:E6:A8:CB:32,1
+596,Tablet,iPad Air,iPadOS,10.113.25.178,4F:DD:65:B9:B4:CC,1
+597,Mobile,iPhone 15,iOS,10.247.144.22,CB:76:7C:B4:CD:85,1
+598,Laptop,Lenovo ThinkPad,Windows,10.234.173.127,41:F4:6B:4A:87:7A,1
+599,Laptop,Lenovo ThinkPad,Windows,10.139.112.128,A6:E2:57:5E:71:D1,1
+600,Mobile,OnePlus 12,Android,10.59.134.6,B6:87:3A:30:6C:80,1
+601,Mobile,OnePlus 12,Android,10.48.4.192,AC:00:B6:52:31:54,1
+602,Mobile,OnePlus 12,Android,10.107.183.7,4F:13:6A:7C:C8:99,1
+603,Mobile,Samsung Galaxy S24,Android,10.58.115.19,8B:67:E6:B1:D3:30,1
+604,Tablet,iPad Air,iPadOS,10.218.36.208,A5:0F:5A:CF:DB:97,1
+605,Laptop,Lenovo ThinkPad,Windows,10.232.236.48,35:14:69:5F:D2:65,1
+606,Laptop,HP Pavilion,Windows,10.127.202.91,C4:0C:3B:3E:A1:F5,1
+607,Tablet,iPad Air,iPadOS,10.255.20.186,79:A7:A4:B4:42:B3,1
+608,Tablet,iPad Air,iPadOS,10.7.233.147,EA:23:E5:0B:13:80,1
+609,Laptop,Dell Inspiron 15,Windows,10.173.94.153,16:85:7D:99:D9:0F,1
+610,Mobile,Samsung Galaxy S24,Android,10.13.175.72,F2:7B:80:85:28:B4,1
+611,Laptop,MacBook Air M3,macOS,10.20.146.174,34:A4:30:02:4B:8E,1
+612,Mobile,Samsung Galaxy S24,Android,10.67.132.251,43:15:EE:68:4B:D3,1
+613,Laptop,Lenovo ThinkPad,Windows,10.54.23.82,FB:D8:FD:08:D4:E9,1
+614,Mobile,Samsung Galaxy S24,Android,10.128.249.153,BD:8F:38:F7:E8:2A,1
+615,Laptop,HP Pavilion,Windows,10.145.87.63,6A:E1:F0:B2:0F:F9,1
+616,Tablet,iPad Air,iPadOS,10.192.138.243,BA:67:A0:15:CA:E0,1
+617,Laptop,Dell Inspiron 15,Windows,10.67.88.140,03:59:AC:85:70:ED,1
+618,Mobile,Vivo V30,Android,10.208.215.248,E8:EB:7F:29:FE:77,1
+619,Mobile,iPhone 15,iOS,10.102.78.149,3E:5C:3E:A3:C0:17,1
+620,Tablet,iPad Air,iPadOS,10.138.248.57,6C:D7:DB:94:B0:68,1
+621,Mobile,OnePlus 12,Android,10.173.247.9,9A:CC:85:8B:73:07,1
+622,Laptop,HP Pavilion,Windows,10.9.44.153,A4:32:9A:24:70:9E,1
+623,Tablet,iPad Air,iPadOS,10.161.12.94,6F:F5:B1:14:18:00,1
+624,Tablet,iPad Air,iPadOS,10.80.164.207,29:F9:E0:3A:AE:FC,1
+625,Laptop,MacBook Air M3,macOS,10.121.239.208,6B:DA:02:01:87:4E,1
+626,Mobile,OnePlus 12,Android,10.143.102.171,95:60:6A:A4:82:74,1
+627,Mobile,Vivo V30,Android,10.181.110.8,CA:56:EB:29:E1:02,1
+628,Laptop,HP Pavilion,Windows,10.6.79.140,8D:7E:D0:D0:74:39,1
+629,Mobile,iPhone 15,iOS,10.66.79.58,A0:63:3F:46:0C:97,1
+630,Laptop,Lenovo ThinkPad,Windows,10.208.225.234,DB:A8:45:BF:E1:8B,1
+631,Mobile,iPhone 15,iOS,10.64.106.253,E6:C3:C0:52:68:C3,1
+632,Laptop,MacBook Air M3,macOS,10.212.60.196,E5:4E:69:98:F8:4A,1
+633,Laptop,Dell Inspiron 15,Windows,10.125.148.232,40:B4:C3:B9:23:73,1
+634,Tablet,iPad Air,iPadOS,10.244.33.193,D4:C3:7B:F3:30:E5,1
+635,Mobile,Vivo V30,Android,10.64.219.216,5D:B7:CC:7E:C5:D3,1
+636,Laptop,MacBook Air M3,macOS,10.48.27.227,24:48:2B:BA:18:F8,1
+637,Mobile,OnePlus 12,Android,10.207.74.188,34:4A:7E:27:6D:F3,1
+638,Mobile,Samsung Galaxy S24,Android,10.242.250.44,E5:6A:63:F0:49:FF,1
+639,Mobile,Samsung Galaxy S24,Android,10.41.230.30,91:B4:E0:DF:8C:E0,1
+640,Laptop,Lenovo ThinkPad,Windows,10.250.190.181,1F:EB:07:89:B4:86,1
+641,Mobile,OnePlus 12,Android,10.217.27.253,31:F0:69:7F:A7:53,1
+642,Mobile,iPhone 15,iOS,10.2.195.1,51:9E:17:1D:B0:BE,1
+643,Mobile,OnePlus 12,Android,10.177.86.225,27:89:CF:BB:24:CB,1
+644,Laptop,Dell Inspiron 15,Windows,10.250.124.98,DA:FC:96:85:E7:AE,1
+645,Laptop,MacBook Air M3,macOS,10.123.221.167,E9:EC:F4:39:A6:0A,1
+646,Tablet,iPad Air,iPadOS,10.242.103.202,B2:FD:36:C5:3C:87,1
+647,Tablet,iPad Air,iPadOS,10.193.88.205,D2:CC:81:4D:5A:6C,1
+648,Mobile,OnePlus 12,Android,10.106.26.145,07:A7:27:C1:DB:CC,1
+649,Mobile,Samsung Galaxy S24,Android,10.63.55.112,32:BA:76:91:D1:09,1
+650,Tablet,iPad Air,iPadOS,10.141.157.206,20:D4:27:58:A6:05,1
+651,Mobile,Vivo V30,Android,10.67.61.138,DF:0F:48:E1:E3:A9,1
+652,Laptop,HP Pavilion,Windows,10.157.131.190,9B:4B:06:06:0E:A4,1
+653,Mobile,Vivo V30,Android,10.244.108.66,FB:21:DC:03:2E:0A,1
+654,Mobile,iPhone 15,iOS,10.10.33.136,1E:5C:81:75:99:7E,1
+655,Laptop,Dell Inspiron 15,Windows,10.85.233.15,59:58:C5:8B:AE:1F,1
+656,Mobile,Vivo V30,Android,10.186.63.96,48:FB:1F:A4:18:CC,1
+657,Laptop,Lenovo ThinkPad,Windows,10.77.81.254,64:75:73:04:BB:19,1
+658,Laptop,Dell Inspiron 15,Windows,10.207.105.161,6C:D0:6F:D9:F3:E0,1
+659,Laptop,Lenovo ThinkPad,Windows,10.187.113.39,4A:6C:4D:D9:EC:B4,1
+660,Laptop,MacBook Air M3,macOS,10.237.185.208,C8:D0:CD:2C:D6:AA,1
+661,Mobile,iPhone 15,iOS,10.10.200.116,D8:A6:AA:05:7F:23,1
+662,Mobile,OnePlus 12,Android,10.52.126.140,D8:C9:5B:BF:30:C3,1
+663,Mobile,Samsung Galaxy S24,Android,10.194.247.120,EF:0C:E0:19:38:15,1
+664,Laptop,Lenovo ThinkPad,Windows,10.14.68.122,4E:28:7C:E9:55:84,1
+665,Laptop,Lenovo ThinkPad,Windows,10.224.189.135,D0:0E:AE:A1:90:CE,1
+666,Mobile,iPhone 15,iOS,10.108.103.230,D2:DF:71:8A:14:B8,1
+667,Tablet,iPad Air,iPadOS,10.125.156.23,65:E4:9C:93:62:D2,1
+668,Mobile,OnePlus 12,Android,10.209.196.200,7F:57:68:7A:04:DE,1
+669,Laptop,MacBook Air M3,macOS,10.230.248.114,66:13:0C:AF:A8:EA,1
+670,Laptop,Dell Inspiron 15,Windows,10.185.116.35,80:29:EB:E3:36:40,1
+671,Laptop,Dell Inspiron 15,Windows,10.28.87.206,B3:1F:4E:45:AF:56,1
+672,Mobile,OnePlus 12,Android,10.152.231.142,85:61:DF:A1:B6:1F,1
+673,Laptop,Dell Inspiron 15,Windows,10.220.139.204,99:AE:C5:D0:3D:4F,1
+674,Mobile,Samsung Galaxy S24,Android,10.46.248.95,72:A1:5F:0A:B3:EA,1
+675,Laptop,Dell Inspiron 15,Windows,10.8.203.109,EE:08:3B:63:18:ED,1
+676,Mobile,iPhone 15,iOS,10.177.30.35,F5:44:1C:43:18:1B,1
+677,Laptop,HP Pavilion,Windows,10.191.54.156,B7:DE:70:2A:B6:AD,1
+678,Mobile,OnePlus 12,Android,10.105.157.2,85:F4:10:45:4B:DE,1
+679,Laptop,HP Pavilion,Windows,10.200.107.234,80:28:77:34:73:02,1
+680,Laptop,MacBook Air M3,macOS,10.48.219.160,8A:85:1A:55:A2:82,1
+681,Mobile,Vivo V30,Android,10.217.16.125,5E:AC:4F:5F:19:01,1
+682,Laptop,MacBook Air M3,macOS,10.177.238.61,19:56:49:AC:03:FA,1
+683,Laptop,HP Pavilion,Windows,10.92.50.64,E1:BC:C0:93:36:D3,1
+684,Tablet,iPad Air,iPadOS,10.154.66.53,36:56:9D:A5:10:75,1
+685,Laptop,HP Pavilion,Windows,10.112.137.25,2B:01:F8:CE:04:63,1
+686,Laptop,HP Pavilion,Windows,10.90.22.44,6A:3D:95:29:32:40,1
+687,Laptop,MacBook Air M3,macOS,10.88.39.135,F3:A2:B5:B5:DD:22,1
+688,Mobile,OnePlus 12,Android,10.239.49.250,27:39:2C:EB:FB:E5,1
+689,Tablet,iPad Air,iPadOS,10.180.237.157,7A:94:E2:AA:F9:67,1
+690,Laptop,MacBook Air M3,macOS,10.146.172.109,BE:B4:7C:42:37:5F,1
+691,Mobile,iPhone 15,iOS,10.72.91.247,B0:8C:B7:1F:39:F8,1
+692,Laptop,Dell Inspiron 15,Windows,10.61.219.77,82:29:1B:5B:0E:EA,1
+693,Laptop,Dell Inspiron 15,Windows,10.254.208.98,52:CE:5D:A7:55:4F,1
+694,Mobile,iPhone 15,iOS,10.108.213.249,6B:B9:90:CC:2D:12,1
+695,Laptop,HP Pavilion,Windows,10.147.42.18,27:01:1F:AC:47:89,1
+696,Mobile,iPhone 15,iOS,10.161.60.210,A2:E3:56:59:1B:F7,1
+697,Laptop,HP Pavilion,Windows,10.211.197.249,43:E1:FA:E0:36:22,1
+698,Mobile,OnePlus 12,Android,10.232.219.24,2E:A5:61:3F:7D:17,1
+699,Laptop,Dell Inspiron 15,Windows,10.31.164.142,F3:20:1A:D2:4E:08,1
+700,Mobile,OnePlus 12,Android,10.2.81.100,4E:2F:04:6B:35:92,1
+701,Tablet,iPad Air,iPadOS,10.143.13.108,F1:E4:40:3A:F9:F5,1
+702,Mobile,iPhone 15,iOS,10.86.242.120,01:58:B3:4A:47:2E,1
+703,Mobile,OnePlus 12,Android,10.27.69.75,8C:18:0B:66:A8:21,1
+704,Mobile,OnePlus 12,Android,10.62.164.55,F0:13:8D:60:68:50,1
+705,Laptop,Dell Inspiron 15,Windows,10.49.110.232,2E:41:3B:4E:44:54,1
+706,Laptop,Dell Inspiron 15,Windows,10.82.96.1,DA:9E:88:C3:97:8D,1
+707,Laptop,HP Pavilion,Windows,10.107.228.72,01:2F:AA:FE:F8:BC,1
+708,Tablet,iPad Air,iPadOS,10.114.166.221,61:F0:DF:26:5C:DB,1
+709,Laptop,MacBook Air M3,macOS,10.226.31.113,69:FB:15:32:DF:A1,1
+710,Mobile,iPhone 15,iOS,10.239.239.229,FC:78:30:47:A3:DE,1
+711,Tablet,iPad Air,iPadOS,10.58.219.51,31:AD:FA:F9:FA:D8,1
+712,Mobile,iPhone 15,iOS,10.176.209.79,DE:2E:97:38:3D:7A,1
+713,Mobile,OnePlus 12,Android,10.114.158.159,6B:9D:5C:6A:EE:36,1
+714,Laptop,MacBook Air M3,macOS,10.218.217.192,43:63:2F:EF:62:18,1
+715,Tablet,iPad Air,iPadOS,10.255.194.214,E6:31:A1:E5:E3:E7,1
+716,Mobile,Samsung Galaxy S24,Android,10.135.148.243,5B:77:83:30:99:CE,1
+717,Mobile,Vivo V30,Android,10.49.184.70,7B:4A:4A:1A:B9:B1,1
+718,Laptop,Dell Inspiron 15,Windows,10.116.157.30,B9:AA:49:A5:BA:47,1
+719,Laptop,MacBook Air M3,macOS,10.71.201.173,D5:60:AD:65:D8:EC,1
+720,Laptop,Dell Inspiron 15,Windows,10.48.248.82,9E:2E:76:B3:66:AB,1
+721,Laptop,Dell Inspiron 15,Windows,10.180.173.225,3E:1D:3D:43:49:AE,1
+722,Laptop,Lenovo ThinkPad,Windows,10.21.173.241,54:89:DE:93:07:9B,1
+723,Mobile,Samsung Galaxy S24,Android,10.145.198.185,AC:AA:71:0A:24:DE,1
+724,Mobile,OnePlus 12,Android,10.54.24.11,4A:FC:81:9D:ED:21,1
+725,Laptop,Lenovo ThinkPad,Windows,10.96.45.160,19:B0:92:F5:BF:86,1
+726,Mobile,Vivo V30,Android,10.245.123.182,F6:7A:47:E1:63:70,1
+727,Tablet,iPad Air,iPadOS,10.133.37.174,CD:89:2C:F5:49:9F,1
+728,Laptop,MacBook Air M3,macOS,10.255.232.242,A9:3B:F7:F8:14:78,1
+729,Mobile,iPhone 15,iOS,10.25.183.189,32:27:A1:A4:14:69,1
+730,Laptop,Dell Inspiron 15,Windows,10.133.49.88,10:91:DF:AE:CD:E2,1
+731,Mobile,Vivo V30,Android,10.32.52.36,4F:18:62:1D:D3:E5,1
+732,Tablet,iPad Air,iPadOS,10.80.152.211,B8:A0:76:C1:A0:EE,1
+733,Laptop,MacBook Air M3,macOS,10.135.254.114,12:E4:48:3B:4E:39,1
+734,Mobile,Vivo V30,Android,10.64.2.161,A4:1B:35:CF:52:B1,1
+735,Laptop,MacBook Air M3,macOS,10.81.58.141,D7:9A:EE:9E:CB:DD,1
+736,Mobile,Vivo V30,Android,10.237.100.78,C6:C4:A9:8D:DC:8C,1
+737,Mobile,OnePlus 12,Android,10.106.217.195,61:22:54:A2:52:6D,1
+738,Tablet,iPad Air,iPadOS,10.143.195.192,FC:50:10:69:0A:B7,1
+739,Laptop,HP Pavilion,Windows,10.25.187.108,4E:8C:37:4F:58:8F,1
+740,Mobile,OnePlus 12,Android,10.172.197.251,0D:36:CC:53:94:BE,1
+741,Mobile,Vivo V30,Android,10.3.172.127,0A:C9:33:8B:72:D0,1
+742,Mobile,iPhone 15,iOS,10.203.211.122,09:48:23:DD:81:75,1
+743,Laptop,MacBook Air M3,macOS,10.129.233.167,6B:EF:66:3F:2F:BC,1
+744,Laptop,Dell Inspiron 15,Windows,10.157.141.235,99:E8:98:6C:04:11,1
+745,Tablet,iPad Air,iPadOS,10.232.249.105,C5:5C:8B:3E:2A:1D,1
+746,Mobile,iPhone 15,iOS,10.148.71.103,C9:9D:2E:B7:10:D5,1
+747,Laptop,MacBook Air M3,macOS,10.44.41.49,02:73:F0:DE:5B:81,1
+748,Mobile,OnePlus 12,Android,10.133.247.102,94:5C:90:D8:7E:65,1
+749,Mobile,Samsung Galaxy S24,Android,10.193.56.183,34:6A:AC:76:FC:53,1
+750,Tablet,iPad Air,iPadOS,10.163.51.113,8E:F6:EA:57:C6:12,1
+751,Laptop,MacBook Air M3,macOS,10.232.8.240,28:45:94:A4:64:B5,1
+752,Laptop,Dell Inspiron 15,Windows,10.250.208.243,76:49:E1:F1:A6:FB,1
+753,Laptop,MacBook Air M3,macOS,10.232.163.199,5D:CE:59:25:C3:B1,1
+754,Laptop,Dell Inspiron 15,Windows,10.18.98.151,EA:79:F7:00:56:C0,1
+755,Mobile,Samsung Galaxy S24,Android,10.129.188.138,7C:62:82:9B:B6:A4,1
+756,Mobile,Vivo V30,Android,10.97.5.226,3D:D9:7E:FF:86:77,1
+757,Laptop,Lenovo ThinkPad,Windows,10.45.252.67,F3:84:47:D8:A3:0A,1
+758,Laptop,Lenovo ThinkPad,Windows,10.40.149.22,35:20:BE:47:03:E3,1
+759,Mobile,iPhone 15,iOS,10.125.137.130,F8:4F:DC:FB:A2:10,1
+760,Mobile,Vivo V30,Android,10.178.7.166,9F:F0:56:41:5C:0D,1
+761,Laptop,Dell Inspiron 15,Windows,10.221.47.233,03:10:FE:9B:9C:EA,1
+762,Mobile,Samsung Galaxy S24,Android,10.229.116.249,AB:18:D1:BC:FB:20,1
+763,Mobile,OnePlus 12,Android,10.222.186.225,36:23:DC:E9:15:90,1
+764,Laptop,HP Pavilion,Windows,10.13.241.144,E4:F3:9B:0E:AA:0B,1
+765,Mobile,iPhone 15,iOS,10.237.5.37,B5:CB:17:86:10:A4,1
+766,Mobile,OnePlus 12,Android,10.228.15.17,96:9E:CF:BB:8E:79,1
+767,Laptop,MacBook Air M3,macOS,10.82.116.82,BA:1A:DD:3D:F3:5A,1
+768,Tablet,iPad Air,iPadOS,10.46.237.217,C4:F7:9F:0C:08:6E,1
+769,Mobile,Samsung Galaxy S24,Android,10.201.60.188,A4:D3:B2:1E:4D:0E,1
+770,Laptop,Lenovo ThinkPad,Windows,10.178.225.150,33:01:A0:FE:59:C0,1
+771,Laptop,Dell Inspiron 15,Windows,10.243.124.99,84:CE:6F:E1:AC:AC,1
+772,Laptop,MacBook Air M3,macOS,10.4.236.63,7E:4B:F3:76:94:19,1
+773,Laptop,Dell Inspiron 15,Windows,10.119.145.141,BB:02:10:06:64:20,1
+774,Mobile,OnePlus 12,Android,10.250.196.50,24:19:90:A3:E7:99,1
+775,Laptop,MacBook Air M3,macOS,10.37.51.137,47:30:40:51:21:F3,1
+776,Laptop,Dell Inspiron 15,Windows,10.64.172.159,55:D1:84:25:BF:E7,1
+777,Laptop,HP Pavilion,Windows,10.171.228.143,A1:70:F2:E9:0F:14,1
+778,Mobile,iPhone 15,iOS,10.160.99.132,EF:00:11:32:14:67,1
+779,Laptop,MacBook Air M3,macOS,10.251.181.142,69:11:E0:27:38:83,1
+780,Mobile,iPhone 15,iOS,10.203.171.135,20:96:40:C1:C3:60,1
+781,Mobile,Samsung Galaxy S24,Android,10.126.75.200,8C:99:F9:DA:14:F2,1
+782,Mobile,iPhone 15,iOS,10.127.200.10,29:D5:D6:7F:1A:E2,1
+783,Mobile,Vivo V30,Android,10.244.137.76,BA:9C:9B:7A:C4:0E,1
+784,Laptop,MacBook Air M3,macOS,10.135.23.105,D3:1B:3D:77:6D:57,1
+785,Tablet,iPad Air,iPadOS,10.36.128.137,35:91:6B:52:94:9B,1
+786,Mobile,Samsung Galaxy S24,Android,10.33.67.227,BF:DE:90:A9:08:AD,1
+787,Tablet,iPad Air,iPadOS,10.147.225.77,57:93:50:8C:5E:63,1
+788,Laptop,HP Pavilion,Windows,10.250.228.193,A4:03:11:3F:FF:63,1
+789,Mobile,OnePlus 12,Android,10.193.131.21,6B:7D:2E:CC:65:AE,1
+790,Tablet,iPad Air,iPadOS,10.213.239.200,84:0D:34:AF:D9:3E,1
+791,Mobile,iPhone 15,iOS,10.248.68.175,4D:E1:E6:A4:2F:4E,1
+792,Mobile,Samsung Galaxy S24,Android,10.239.159.4,3A:45:11:5A:6C:D6,1
+793,Mobile,iPhone 15,iOS,10.26.41.150,93:19:62:96:06:80,1
+794,Mobile,Vivo V30,Android,10.222.172.74,B4:19:08:C9:81:11,1
+795,Mobile,Vivo V30,Android,10.28.163.68,A0:88:D6:23:06:98,1
+796,Mobile,iPhone 15,iOS,10.175.70.211,84:8D:8E:B5:11:76,1
+797,Laptop,HP Pavilion,Windows,10.49.148.201,C2:11:D3:39:F5:B6,1
+798,Mobile,Samsung Galaxy S24,Android,10.225.26.166,7B:76:64:38:5F:39,1
+799,Laptop,MacBook Air M3,macOS,10.197.151.101,E2:52:74:39:EE:BB,1
+800,Tablet,iPad Air,iPadOS,10.32.90.78,B9:F1:34:BE:81:D1,1
+801,Mobile,OnePlus 12,Android,10.86.44.16,AD:4E:1B:E9:CE:EC,1
+802,Laptop,MacBook Air M3,macOS,10.113.134.232,65:9A:58:D4:D4:15,1
+803,Tablet,iPad Air,iPadOS,10.170.114.129,79:8D:FD:4B:E2:F8,1
+804,Laptop,Dell Inspiron 15,Windows,10.157.243.147,C4:59:05:FF:27:33,1
+805,Tablet,iPad Air,iPadOS,10.132.184.114,E5:F0:28:00:95:D4,1
+806,Mobile,OnePlus 12,Android,10.62.181.27,56:41:83:6C:58:0B,1
+807,Laptop,MacBook Air M3,macOS,10.18.86.113,C1:CF:0F:8D:F6:C9,1
+808,Mobile,Vivo V30,Android,10.73.118.198,74:07:70:CC:6D:87,1
+809,Mobile,iPhone 15,iOS,10.180.141.169,56:D2:CC:1D:54:24,1
+810,Tablet,iPad Air,iPadOS,10.170.145.130,72:AD:AA:A9:4F:83,1
+811,Mobile,Vivo V30,Android,10.8.177.87,7A:CA:DC:3E:81:3A,1
+812,Tablet,iPad Air,iPadOS,10.67.122.44,8B:AF:1C:FF:43:DF,1
+813,Laptop,HP Pavilion,Windows,10.43.91.187,2D:09:B6:FE:44:7B,1
+814,Mobile,iPhone 15,iOS,10.172.10.36,18:3F:0F:96:BA:40,1
+815,Laptop,HP Pavilion,Windows,10.210.217.236,2B:0D:F0:C0:C7:F2,1
+816,Laptop,Lenovo ThinkPad,Windows,10.101.195.24,1E:E5:EF:CD:8B:AB,1
+817,Laptop,MacBook Air M3,macOS,10.106.192.118,8E:ED:E6:DE:DE:38,1
+818,Laptop,HP Pavilion,Windows,10.78.225.19,20:05:B4:5F:DF:DF,1
+819,Laptop,Lenovo ThinkPad,Windows,10.11.196.234,F1:05:A7:28:5A:B1,1
+820,Mobile,Vivo V30,Android,10.140.50.161,D5:96:8C:78:5E:24,1
+821,Laptop,MacBook Air M3,macOS,10.51.242.55,79:2A:C5:E4:97:29,1
+822,Mobile,OnePlus 12,Android,10.163.29.220,45:94:AE:11:FD:DE,1
+823,Mobile,iPhone 15,iOS,10.82.110.238,89:C3:9C:50:7B:C8,1
+824,Laptop,Lenovo ThinkPad,Windows,10.5.226.165,11:12:AE:1F:3C:A8,1
+825,Laptop,MacBook Air M3,macOS,10.72.122.226,D3:E8:16:E4:92:7C,1
+826,Mobile,iPhone 15,iOS,10.224.100.211,65:A6:FA:73:89:99,1
+827,Laptop,HP Pavilion,Windows,10.186.175.60,1E:71:D9:A8:9D:8A,1
+828,Laptop,HP Pavilion,Windows,10.59.17.32,91:9E:C1:1F:7A:AC,1
+829,Mobile,OnePlus 12,Android,10.222.231.11,34:88:EF:88:B0:B7,1
+830,Laptop,Lenovo ThinkPad,Windows,10.65.5.45,1F:F5:6C:AD:E0:19,1
+831,Laptop,Lenovo ThinkPad,Windows,10.49.220.116,85:8A:0B:66:6E:53,1
+832,Tablet,iPad Air,iPadOS,10.124.114.127,FE:D3:A8:C3:16:D5,1
+833,Tablet,iPad Air,iPadOS,10.244.16.226,75:9A:56:A0:13:A5,1
+834,Tablet,iPad Air,iPadOS,10.113.144.220,19:14:38:3B:43:03,1
+835,Laptop,HP Pavilion,Windows,10.118.195.120,73:3C:51:96:5B:3F,1
+836,Laptop,MacBook Air M3,macOS,10.197.196.117,35:B3:69:DD:8F:8B,1
+837,Mobile,Samsung Galaxy S24,Android,10.130.161.162,B5:DD:6C:9D:04:F3,1
+838,Mobile,iPhone 15,iOS,10.17.188.12,A9:9C:4B:D7:64:3D,1
+839,Mobile,Samsung Galaxy S24,Android,10.68.69.1,47:50:32:DE:B3:57,1
+840,Mobile,OnePlus 12,Android,10.132.32.142,AE:92:C0:88:E8:69,1
+841,Mobile,Samsung Galaxy S24,Android,10.100.210.147,7E:AB:F4:DC:E7:56,1
+842,Mobile,OnePlus 12,Android,10.219.57.141,7A:20:E0:21:4F:D2,1
+843,Tablet,iPad Air,iPadOS,10.90.162.221,5D:BD:F2:4A:05:BD,1
+844,Laptop,HP Pavilion,Windows,10.5.131.8,41:EC:EB:53:2C:E9,1
+845,Mobile,OnePlus 12,Android,10.20.29.247,FE:A2:D6:71:DB:1B,1
+846,Mobile,Vivo V30,Android,10.183.248.225,80:4F:29:E8:7C:C8,1
+847,Mobile,OnePlus 12,Android,10.18.188.17,BE:89:0A:1A:27:0F,1
+848,Mobile,Vivo V30,Android,10.7.247.46,44:8A:29:52:2C:9C,1
+849,Laptop,Dell Inspiron 15,Windows,10.24.223.165,6F:18:DC:4C:F6:A6,1
+850,Laptop,MacBook Air M3,macOS,10.49.55.152,64:CB:BF:6C:1A:9C,1
+851,Mobile,OnePlus 12,Android,10.115.6.27,C4:28:BA:B8:3D:A2,1
+852,Laptop,HP Pavilion,Windows,10.246.149.47,D1:64:40:A1:A0:13,1
+853,Mobile,iPhone 15,iOS,10.87.217.145,48:AA:04:01:D1:B1,1
+854,Laptop,Dell Inspiron 15,Windows,10.139.54.74,C0:07:6F:72:79:A7,1
+855,Mobile,OnePlus 12,Android,10.206.171.188,38:FA:BE:37:20:9D,1
+856,Laptop,Lenovo ThinkPad,Windows,10.69.168.22,CF:40:64:D7:7A:47,1
+857,Mobile,iPhone 15,iOS,10.77.46.250,CA:20:F2:AC:44:8D,1
+858,Laptop,Dell Inspiron 15,Windows,10.9.101.2,F8:17:81:43:27:43,1
+859,Laptop,Lenovo ThinkPad,Windows,10.134.14.231,E7:EF:58:62:F4:11,1
+860,Tablet,iPad Air,iPadOS,10.6.209.96,FD:53:C9:F7:DD:AC,1
+861,Mobile,Samsung Galaxy S24,Android,10.116.249.26,3C:A5:F8:21:A8:FF,1
+862,Laptop,MacBook Air M3,macOS,10.114.162.236,7E:B7:33:19:47:C9,1
+863,Tablet,iPad Air,iPadOS,10.105.43.87,10:81:42:E0:7C:AC,1
+864,Mobile,OnePlus 12,Android,10.192.22.228,24:E5:C8:4E:B6:91,1
+865,Laptop,HP Pavilion,Windows,10.211.220.127,49:E7:32:DA:E2:49,1
+866,Mobile,Samsung Galaxy S24,Android,10.124.141.201,31:CA:28:86:B4:E4,1
+867,Mobile,Vivo V30,Android,10.80.198.18,14:DE:C1:0B:C4:77,1
+868,Mobile,OnePlus 12,Android,10.21.61.5,FC:71:91:42:AC:A5,1
+869,Tablet,iPad Air,iPadOS,10.174.143.19,B1:8B:88:16:E0:E6,1
+870,Tablet,iPad Air,iPadOS,10.60.242.142,6E:44:EA:01:55:0D,1
+871,Laptop,MacBook Air M3,macOS,10.197.22.63,32:61:71:26:A8:DA,1
+872,Mobile,iPhone 15,iOS,10.127.161.124,C0:E9:E6:BF:C3:D3,1
+873,Mobile,OnePlus 12,Android,10.220.61.222,64:D0:F5:07:FB:82,1
+874,Laptop,Lenovo ThinkPad,Windows,10.161.12.181,49:44:04:D2:73:80,1
+875,Tablet,iPad Air,iPadOS,10.40.223.86,0E:C2:42:84:15:E4,1
+876,Mobile,Vivo V30,Android,10.59.77.17,CD:6A:94:E5:7F:5B,1
+877,Tablet,iPad Air,iPadOS,10.87.4.89,6C:5B:08:0A:F9:13,1
+878,Tablet,iPad Air,iPadOS,10.192.10.59,C9:E0:6F:FC:E0:30,1
+879,Laptop,MacBook Air M3,macOS,10.103.90.185,75:12:2C:4B:F3:52,1
+880,Laptop,HP Pavilion,Windows,10.242.39.43,EA:9D:D5:90:29:48,1
+881,Tablet,iPad Air,iPadOS,10.139.2.198,1E:6C:C6:6F:25:08,1
+882,Mobile,OnePlus 12,Android,10.40.135.228,BD:39:4A:6C:82:5C,1
+883,Tablet,iPad Air,iPadOS,10.217.235.181,AE:FA:2A:E2:F1:97,1
+884,Mobile,Vivo V30,Android,10.44.89.121,9E:3D:33:8F:F2:D4,1
+885,Laptop,Dell Inspiron 15,Windows,10.70.74.71,BC:96:D4:65:14:E1,1
+886,Mobile,iPhone 15,iOS,10.104.20.140,38:9C:A5:59:50:56,1
+887,Laptop,MacBook Air M3,macOS,10.219.112.129,F6:38:8B:65:71:B9,1
+888,Laptop,MacBook Air M3,macOS,10.228.240.155,BC:0A:1A:D4:AA:B4,1
+889,Laptop,Lenovo ThinkPad,Windows,10.34.168.1,6C:9B:EC:49:5E:8F,1
+890,Mobile,OnePlus 12,Android,10.13.83.149,66:C2:61:C5:B7:27,1
+891,Mobile,Vivo V30,Android,10.6.178.199,1B:E7:F7:D3:88:F7,1
+892,Tablet,iPad Air,iPadOS,10.158.21.126,8C:30:B1:19:C8:8A,1
+893,Laptop,Dell Inspiron 15,Windows,10.64.112.91,3F:C5:38:29:DE:7A,1
+894,Mobile,iPhone 15,iOS,10.56.96.240,56:D7:B8:0F:64:75,1
+895,Mobile,iPhone 15,iOS,10.5.194.18,C0:9D:19:76:94:6D,1
+896,Laptop,HP Pavilion,Windows,10.210.80.23,E0:9A:17:20:0E:3B,1
+897,Laptop,Dell Inspiron 15,Windows,10.102.247.187,05:79:15:E4:CA:4B,1
+898,Laptop,HP Pavilion,Windows,10.205.202.114,DB:96:A4:A4:47:BD,1
+899,Tablet,iPad Air,iPadOS,10.70.59.173,C0:EB:BA:43:E5:B2,1
+900,Laptop,Dell Inspiron 15,Windows,10.17.48.38,63:EA:6A:26:CF:A2,1
+901,Laptop,Lenovo ThinkPad,Windows,10.69.147.10,0D:5F:AE:77:66:FB,0
+902,Mobile,OnePlus 12,Android,10.223.225.242,15:A0:8E:8A:6C:62,0
+903,Mobile,Samsung Galaxy S24,Android,10.183.34.54,97:B6:0E:39:6D:C6,0
+904,Mobile,iPhone 15,iOS,10.62.36.82,84:B4:12:BC:8A:25,0
+905,Mobile,OnePlus 12,Android,10.52.187.41,CE:76:AA:18:F6:C7,0
+906,Laptop,Lenovo ThinkPad,Windows,10.144.144.236,4C:A6:E0:C0:C2:D3,0
+907,Laptop,HP Pavilion,Windows,10.39.230.146,3C:B1:7E:2A:BF:59,0
+908,Laptop,Dell Inspiron 15,Windows,10.215.169.70,B5:B8:DA:32:6C:9B,0
+909,Mobile,OnePlus 12,Android,10.78.135.63,CB:E9:25:EF:7B:20,0
+910,Tablet,iPad Air,iPadOS,10.14.134.233,18:EE:56:B7:6A:99,0
+911,Laptop,Dell Inspiron 15,Windows,10.8.181.87,23:3D:5B:5E:09:1F,0
+912,Laptop,HP Pavilion,Windows,10.248.88.231,48:3A:C6:B3:E9:E7,0
+913,Mobile,Samsung Galaxy S24,Android,10.43.79.150,2A:39:9F:07:B6:83,0
+914,Mobile,OnePlus 12,Android,10.45.234.177,8F:85:AB:C9:CD:9A,0
+915,Mobile,iPhone 15,iOS,10.181.49.139,9C:6C:44:E3:C6:78,0
+916,Mobile,OnePlus 12,Android,10.115.200.137,BE:00:F0:25:FC:BC,0
+917,Mobile,iPhone 15,iOS,10.215.137.175,B9:B3:49:FB:85:24,0
+918,Laptop,MacBook Air M3,macOS,10.137.62.161,5B:BC:6A:1F:AE:78,0
+919,Tablet,iPad Air,iPadOS,10.188.225.236,B6:7D:E7:20:24:07,0
+920,Laptop,Dell Inspiron 15,Windows,10.1.107.60,53:2C:1E:FB:0C:66,0
+921,Laptop,Dell Inspiron 15,Windows,10.246.240.51,D0:93:F8:1F:F0:78,0
+922,Mobile,Samsung Galaxy S24,Android,10.241.242.226,CB:CA:5C:57:CE:AA,0
+923,Mobile,Vivo V30,Android,10.30.131.187,2E:52:09:93:25:58,0
+924,Laptop,Dell Inspiron 15,Windows,10.101.167.232,4A:99:33:42:15:43,0
+925,Tablet,iPad Air,iPadOS,10.199.134.206,27:C3:5A:2D:66:D3,0
+926,Tablet,iPad Air,iPadOS,10.208.237.74,5F:DC:26:EF:E1:7E,0
+927,Laptop,Lenovo ThinkPad,Windows,10.29.245.81,E7:30:85:35:70:0F,0
+928,Tablet,iPad Air,iPadOS,10.130.214.65,89:96:5F:7C:F1:FD,0
+929,Laptop,MacBook Air M3,macOS,10.22.73.170,66:9D:AC:AA:22:1B,0
+930,Mobile,Samsung Galaxy S24,Android,10.163.129.58,73:CB:3A:00:28:88,0
+931,Laptop,Lenovo ThinkPad,Windows,10.35.112.40,15:1A:F2:DD:FA:2D,0
+932,Mobile,iPhone 15,iOS,10.20.174.178,8D:39:22:A2:5A:DA,0
+933,Laptop,HP Pavilion,Windows,10.212.107.251,29:FA:D9:C4:6C:0F,0
+934,Mobile,Vivo V30,Android,10.6.152.94,DD:D8:0F:23:10:74,0
+935,Laptop,Lenovo ThinkPad,Windows,10.176.56.239,21:C0:39:44:51:79,0
+936,Laptop,Lenovo ThinkPad,Windows,10.217.172.169,8E:CA:62:06:82:24,0
+937,Mobile,Vivo V30,Android,10.74.245.226,73:94:70:1E:B3:53,0
+938,Mobile,Vivo V30,Android,10.16.211.160,2D:DC:4F:ED:3E:AD,0
+939,Laptop,Dell Inspiron 15,Windows,10.106.160.84,C7:EE:55:57:9B:53,0
+940,Tablet,iPad Air,iPadOS,10.1.10.126,43:EB:86:DE:B7:39,0
+941,Mobile,Samsung Galaxy S24,Android,10.195.26.120,D5:C6:AE:9E:1E:60,0
+942,Laptop,Dell Inspiron 15,Windows,10.217.178.74,F5:FE:BC:F8:C9:F5,0
+943,Mobile,OnePlus 12,Android,10.205.142.70,FC:90:08:3A:68:DA,0
+944,Tablet,iPad Air,iPadOS,10.110.225.38,8D:5C:84:BC:00:C6,0
+945,Laptop,Dell Inspiron 15,Windows,10.210.189.128,C3:75:88:CE:C5:54,0
+946,Laptop,Dell Inspiron 15,Windows,10.85.189.29,FA:28:58:F3:11:AA,0
+947,Mobile,OnePlus 12,Android,10.147.113.227,E3:99:A2:8E:A0:FE,0
+948,Mobile,iPhone 15,iOS,10.54.94.11,EA:85:95:E9:DD:4D,0
+949,Mobile,OnePlus 12,Android,10.104.172.222,18:2D:20:F1:B9:32,0
+950,Laptop,Dell Inspiron 15,Windows,10.226.232.241,8F:C6:CE:86:0C:54,0
+951,Mobile,iPhone 15,iOS,10.27.23.28,22:0D:43:36:7A:CC,0
+952,Laptop,Dell Inspiron 15,Windows,10.201.253.33,DE:BF:54:7F:73:CB,0
+953,Mobile,Vivo V30,Android,10.20.184.158,7B:F0:71:45:8B:B2,0
+954,Laptop,HP Pavilion,Windows,10.198.93.95,4A:A3:75:06:A4:00,0
+955,Mobile,OnePlus 12,Android,10.245.104.199,16:4A:84:71:16:52,0
+956,Mobile,OnePlus 12,Android,10.227.27.184,E6:C2:F6:9A:7F:C7,0
+957,Mobile,Vivo V30,Android,10.206.121.78,AD:02:E6:0B:01:87,0
+958,Mobile,Samsung Galaxy S24,Android,10.44.101.134,BB:02:20:CE:80:81,0
+959,Mobile,Vivo V30,Android,10.50.58.68,2D:56:9A:6F:8E:36,0
+960,Mobile,Samsung Galaxy S24,Android,10.51.131.244,D2:F7:93:DB:DA:C1,0
+961,Laptop,HP Pavilion,Windows,10.254.114.42,21:C2:6C:8C:44:8D,0
+962,Tablet,iPad Air,iPadOS,10.215.213.115,2D:04:18:0C:7A:A1,0
+963,Tablet,iPad Air,iPadOS,10.61.213.201,A9:47:8B:E2:14:10,0
+964,Mobile,OnePlus 12,Android,10.50.231.47,D5:6A:B8:8C:56:7C,0
+965,Mobile,Samsung Galaxy S24,Android,10.10.227.78,4B:BE:D3:60:0C:A2,0
+966,Tablet,iPad Air,iPadOS,10.7.247.218,10:BA:93:E5:40:59,0
+967,Mobile,Vivo V30,Android,10.41.252.216,44:D8:03:BF:B9:29,0
+968,Laptop,Dell Inspiron 15,Windows,10.102.217.217,4D:6B:C3:70:1B:E9,0
+969,Mobile,OnePlus 12,Android,10.125.133.35,3D:E0:E1:0B:28:85,0
+970,Laptop,HP Pavilion,Windows,10.243.225.12,FA:A5:52:67:82:14,0
+971,Laptop,HP Pavilion,Windows,10.12.22.92,5B:33:C6:5A:A2:2E,0
+972,Mobile,Vivo V30,Android,10.40.4.191,7B:56:E3:0E:D6:FB,0
+973,Tablet,iPad Air,iPadOS,10.212.235.195,DF:CE:17:02:58:5C,0
+974,Laptop,HP Pavilion,Windows,10.19.12.223,FB:C7:25:25:9B:63,0
+975,Mobile,Vivo V30,Android,10.190.49.232,AE:B0:FA:57:DE:9B,0
+976,Tablet,iPad Air,iPadOS,10.85.247.148,D8:19:A3:B0:78:D9,0
+977,Tablet,iPad Air,iPadOS,10.7.206.169,DD:AC:0A:91:3A:BD,0
+978,Laptop,HP Pavilion,Windows,10.233.181.233,57:01:2E:0C:E3:AB,0
+979,Laptop,Dell Inspiron 15,Windows,10.176.180.143,79:54:EF:8E:CD:0F,0
+980,Laptop,HP Pavilion,Windows,10.37.162.209,73:7E:AC:29:1E:0F,0
+981,Laptop,MacBook Air M3,macOS,10.4.134.138,42:42:80:56:E4:FE,0
+982,Mobile,iPhone 15,iOS,10.249.102.89,BA:DD:53:37:5F:FB,0
+983,Laptop,Lenovo ThinkPad,Windows,10.164.12.224,35:29:FE:57:1D:50,0
+984,Mobile,OnePlus 12,Android,10.64.187.129,26:C1:65:F6:8F:24,0
+985,Mobile,Samsung Galaxy S24,Android,10.178.244.96,23:43:C8:61:91:BF,0
+986,Tablet,iPad Air,iPadOS,10.201.135.195,71:DB:85:62:E3:C6,0
+987,Laptop,Dell Inspiron 15,Windows,10.227.11.109,3D:C1:DC:13:49:35,0
+988,Laptop,Lenovo ThinkPad,Windows,10.82.54.169,64:AC:27:34:4E:37,0
+989,Laptop,Dell Inspiron 15,Windows,10.146.166.68,48:73:54:B2:E6:7C,0
+990,Laptop,MacBook Air M3,macOS,10.194.65.112,A2:F8:AE:EF:CC:E9,0
+991,Laptop,Lenovo ThinkPad,Windows,10.178.172.144,21:B4:9C:D9:90:49,0
+992,Mobile,Samsung Galaxy S24,Android,10.205.111.19,6A:EA:59:52:08:4D,0
+993,Laptop,Lenovo ThinkPad,Windows,10.193.57.19,90:4E:51:5A:DA:90,0
+994,Laptop,MacBook Air M3,macOS,10.17.95.148,C9:77:DA:2C:17:2E,0
+995,Laptop,Dell Inspiron 15,Windows,10.120.213.175,4A:45:2C:45:D5:C1,0
+996,Tablet,iPad Air,iPadOS,10.160.132.154,E2:B7:41:AC:F7:D6,0
+997,Laptop,Lenovo ThinkPad,Windows,10.235.22.110,29:68:42:2D:A3:A8,0
+998,Mobile,Vivo V30,Android,10.139.207.119,46:DF:F7:8E:E1:3F,0
+999,Mobile,OnePlus 12,Android,10.227.187.61,35:2F:1D:6B:7D:CB,0
+1000,Laptop,HP Pavilion,Windows,10.216.122.6,FB:80:F0:84:4C:37,0

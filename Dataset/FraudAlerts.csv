@@ -1,0 +1,301 @@
+TransactionID,RuleID,AlertDate,RiskScore,AlertStatus,Remarks
+3628,7,2024-02-28 14:39:00,78,Pending,Rule matched during monitoring
+4126,3,2024-04-13 03:21:00,84,Investigated,Multiple transactions in short time
+394,7,2024-04-04 15:28:00,85,Investigated,Rule matched during monitoring
+3914,2,2024-03-28 10:37:00,97,Confirmed,Rule matched during monitoring
+3924,2,2024-07-27 19:43:00,80,Investigated,High amount transaction detected
+4480,7,2025-03-14 15:51:00,73,Pending,Multiple transactions in short time
+3897,2,2025-01-31 08:13:00,89,Investigated,Rule matched during monitoring
+910,2,2024-03-14 16:29:00,98,Confirmed,High amount transaction detected
+4951,1,2025-01-15 02:24:00,97,Confirmed,Multiple transactions in short time
+438,6,2025-03-07 04:20:00,88,Investigated,Suspicious midnight transaction
+1259,4,2025-04-23 12:48:00,84,Investigated,Suspicious midnight transaction
+570,1,2024-04-15 03:21:00,75,Pending,High amount transaction detected
+4073,6,2025-01-16 10:55:00,82,Investigated,Suspicious midnight transaction
+3110,3,2025-02-15 19:21:00,90,Confirmed,High amount transaction detected
+3121,8,2024-09-09 01:21:00,76,Pending,Suspicious midnight transaction
+3148,2,2024-11-14 01:46:00,67,False Alarm,Rule matched during monitoring
+489,5,2024-08-29 03:44:00,69,False Alarm,Multiple transactions in short time
+4823,8,2024-01-05 04:36:00,98,Confirmed,Rule matched during monitoring
+1561,3,2024-06-10 22:16:00,93,Confirmed,Transaction from untrusted device
+2195,1,2025-04-03 14:18:00,81,Investigated,Rule matched during monitoring
+574,4,2024-07-21 23:14:00,65,False Alarm,Multiple transactions in short time
+4894,8,2024-06-19 17:24:00,95,Confirmed,Foreign location activity
+3277,3,2024-04-17 13:11:00,66,False Alarm,Multiple transactions in short time
+579,5,2024-02-09 23:00:00,63,False Alarm,Transaction from untrusted device
+2009,5,2024-04-04 19:21:00,92,Confirmed,Foreign location activity
+2526,6,2024-12-14 22:27:00,77,Pending,Transaction from untrusted device
+4770,7,2024-09-27 02:26:00,78,Pending,Multiple transactions in short time
+3981,5,2025-03-11 05:45:00,73,Pending,Suspicious midnight transaction
+3462,2,2024-06-26 23:13:00,92,Confirmed,Suspicious midnight transaction
+3753,4,2024-04-04 12:09:00,68,False Alarm,High amount transaction detected
+3262,1,2024-12-10 00:28:00,70,Pending,High amount transaction detected
+1641,7,2024-02-01 00:57:00,92,Confirmed,Suspicious midnight transaction
+2883,7,2024-08-14 00:05:00,97,Confirmed,High amount transaction detected
+1068,5,2025-03-16 03:34:00,80,Investigated,Multiple transactions in short time
+4393,2,2024-01-22 13:42:00,76,Pending,Multiple transactions in short time
+2587,5,2025-02-02 11:06:00,83,Investigated,Multiple transactions in short time
+950,3,2025-01-01 15:56:00,63,False Alarm,Foreign location activity
+3496,1,2024-11-04 10:44:00,63,False Alarm,Transaction from untrusted device
+4074,3,2024-02-29 03:34:00,74,Pending,Transaction from untrusted device
+4973,7,2025-02-17 07:05:00,66,False Alarm,Transaction from untrusted device
+4854,8,2024-09-28 03:50:00,66,False Alarm,Rule matched during monitoring
+3919,8,2025-02-14 11:42:00,89,Investigated,Transaction from untrusted device
+2522,8,2024-04-07 17:24:00,91,Confirmed,High amount transaction detected
+1791,4,2025-03-22 19:23:00,100,Confirmed,Rule matched during monitoring
+2919,2,2024-05-19 03:28:00,73,Pending,High amount transaction detected
+2357,2,2024-06-18 07:14:00,60,False Alarm,Suspicious midnight transaction
+3765,4,2025-01-08 19:40:00,76,Pending,Rule matched during monitoring
+532,7,2024-07-20 09:25:00,96,Confirmed,Rule matched during monitoring
+1489,7,2024-10-19 17:41:00,73,Pending,Rule matched during monitoring
+4982,4,2024-01-24 16:23:00,61,False Alarm,Transaction from untrusted device
+54,6,2024-11-08 02:30:00,69,False Alarm,Suspicious midnight transaction
+1831,2,2025-03-25 19:10:00,96,Confirmed,Suspicious midnight transaction
+1645,3,2024-01-21 07:53:00,83,Investigated,Suspicious midnight transaction
+1884,7,2025-01-14 03:42:00,90,Confirmed,High amount transaction detected
+4226,1,2025-01-14 06:35:00,96,Confirmed,Rule matched during monitoring
+2051,7,2024-10-09 19:26:00,92,Confirmed,Transaction from untrusted device
+3335,2,2024-05-11 16:06:00,77,Pending,Suspicious midnight transaction
+4507,6,2024-02-07 04:48:00,68,False Alarm,Suspicious midnight transaction
+1660,7,2024-12-03 06:02:00,64,False Alarm,Suspicious midnight transaction
+1042,2,2024-05-12 13:11:00,91,Confirmed,Suspicious midnight transaction
+3844,7,2024-05-15 21:04:00,72,Pending,Rule matched during monitoring
+2898,3,2025-01-09 19:16:00,82,Investigated,Multiple transactions in short time
+1124,5,2024-12-13 21:17:00,99,Confirmed,Foreign location activity
+3789,5,2024-04-01 13:24:00,79,Pending,Suspicious midnight transaction
+1594,5,2024-12-26 15:25:00,99,Confirmed,Rule matched during monitoring
+3473,7,2025-02-09 08:31:00,66,False Alarm,Transaction from untrusted device
+218,2,2024-07-31 22:08:00,83,Investigated,Foreign location activity
+3713,2,2024-06-02 16:25:00,94,Confirmed,Foreign location activity
+2390,8,2024-09-27 05:51:00,79,Pending,Multiple transactions in short time
+1774,5,2024-08-15 10:51:00,83,Investigated,Multiple transactions in short time
+2028,5,2025-04-19 06:50:00,89,Investigated,Multiple transactions in short time
+1991,6,2025-04-19 08:26:00,68,False Alarm,High amount transaction detected
+4784,1,2024-11-23 08:15:00,98,Confirmed,Multiple transactions in short time
+4087,5,2025-04-10 12:09:00,70,Pending,Multiple transactions in short time
+4937,8,2024-09-12 23:07:00,62,False Alarm,Rule matched during monitoring
+1634,3,2025-01-20 11:36:00,81,Investigated,Multiple transactions in short time
+2024,8,2025-03-28 05:29:00,69,False Alarm,Multiple transactions in short time
+154,5,2024-02-28 04:48:00,97,Confirmed,Rule matched during monitoring
+733,6,2025-02-01 14:36:00,91,Confirmed,High amount transaction detected
+2318,5,2024-05-11 16:04:00,60,False Alarm,Multiple transactions in short time
+785,6,2025-04-16 07:48:00,94,Confirmed,Foreign location activity
+1764,4,2024-10-26 08:48:00,92,Confirmed,Rule matched during monitoring
+3343,8,2024-09-16 19:24:00,79,Pending,High amount transaction detected
+2296,4,2024-05-24 04:31:00,62,False Alarm,High amount transaction detected
+4100,4,2025-03-31 06:53:00,89,Investigated,Rule matched during monitoring
+1914,5,2024-01-08 13:37:00,62,False Alarm,High amount transaction detected
+4502,8,2024-06-16 15:48:00,67,False Alarm,Rule matched during monitoring
+3651,5,2024-11-09 03:55:00,91,Confirmed,Rule matched during monitoring
+4956,2,2024-10-02 10:51:00,100,Confirmed,Foreign location activity
+3395,1,2024-06-21 00:44:00,64,False Alarm,Transaction from untrusted device
+3620,1,2025-01-31 11:02:00,67,False Alarm,Foreign location activity
+4573,5,2024-02-21 04:12:00,68,False Alarm,Transaction from untrusted device
+1247,6,2024-02-14 18:22:00,79,Pending,Foreign location activity
+3419,1,2024-06-09 04:03:00,65,False Alarm,Rule matched during monitoring
+4425,6,2025-04-23 23:41:00,92,Confirmed,Transaction from untrusted device
+2752,8,2024-06-04 12:38:00,71,Pending,Rule matched during monitoring
+204,5,2024-09-17 01:18:00,67,False Alarm,Multiple transactions in short time
+4350,1,2024-03-14 00:00:00,68,False Alarm,Transaction from untrusted device
+1648,5,2024-04-26 15:34:00,77,Pending,Rule matched during monitoring
+862,1,2024-04-02 10:27:00,97,Confirmed,Suspicious midnight transaction
+906,8,2025-03-15 10:57:00,91,Confirmed,Transaction from untrusted device
+1396,6,2024-05-14 09:15:00,86,Investigated,Rule matched during monitoring
+1465,3,2025-01-31 10:35:00,63,False Alarm,Suspicious midnight transaction
+3703,6,2024-03-27 15:20:00,70,Pending,Transaction from untrusted device
+4483,8,2024-06-09 00:11:00,68,False Alarm,Suspicious midnight transaction
+1140,1,2024-01-25 10:20:00,81,Investigated,Multiple transactions in short time
+1801,3,2025-03-23 11:10:00,63,False Alarm,High amount transaction detected
+3097,6,2024-07-25 19:01:00,68,False Alarm,Multiple transactions in short time
+3398,4,2024-09-05 10:10:00,83,Investigated,Suspicious midnight transaction
+832,4,2025-03-24 02:11:00,94,Confirmed,Rule matched during monitoring
+1808,8,2024-06-30 12:42:00,81,Investigated,Foreign location activity
+1051,8,2024-09-25 07:05:00,90,Confirmed,Foreign location activity
+872,8,2025-04-20 19:51:00,95,Confirmed,Multiple transactions in short time
+3129,7,2024-10-24 13:46:00,86,Investigated,Multiple transactions in short time
+4766,2,2024-12-17 05:38:00,66,False Alarm,Rule matched during monitoring
+1840,4,2024-09-19 23:33:00,65,False Alarm,Multiple transactions in short time
+995,4,2024-06-02 07:04:00,89,Investigated,Rule matched during monitoring
+735,5,2025-04-26 17:07:00,91,Confirmed,Foreign location activity
+4692,3,2024-02-09 18:54:00,81,Investigated,Multiple transactions in short time
+916,5,2024-01-11 14:03:00,94,Confirmed,Rule matched during monitoring
+478,1,2024-04-08 14:47:00,71,Pending,Multiple transactions in short time
+3268,1,2024-06-03 10:34:00,80,Investigated,Suspicious midnight transaction
+1509,1,2025-04-19 16:59:00,100,Confirmed,Foreign location activity
+2065,1,2024-08-06 01:58:00,88,Investigated,Multiple transactions in short time
+3390,8,2024-04-06 23:59:00,78,Pending,High amount transaction detected
+831,8,2024-04-26 08:40:00,81,Investigated,Multiple transactions in short time
+3107,5,2025-03-21 17:06:00,100,Confirmed,Transaction from untrusted device
+1581,6,2024-03-15 19:51:00,83,Investigated,Foreign location activity
+1458,7,2024-07-16 09:16:00,82,Investigated,High amount transaction detected
+2611,2,2024-12-22 06:47:00,68,False Alarm,Rule matched during monitoring
+4427,5,2025-02-02 02:21:00,62,False Alarm,Rule matched during monitoring
+4557,6,2024-12-08 05:34:00,60,False Alarm,Rule matched during monitoring
+1519,2,2024-01-26 14:48:00,62,False Alarm,Multiple transactions in short time
+4375,6,2024-11-10 23:33:00,83,Investigated,Suspicious midnight transaction
+1604,1,2024-01-13 23:01:00,95,Confirmed,Foreign location activity
+3136,2,2024-03-27 11:15:00,98,Confirmed,Suspicious midnight transaction
+3128,5,2024-09-11 21:31:00,82,Investigated,Transaction from untrusted device
+324,8,2025-03-25 12:14:00,100,Confirmed,Rule matched during monitoring
+3302,1,2024-01-27 01:21:00,87,Investigated,Transaction from untrusted device
+824,6,2024-10-23 01:24:00,65,False Alarm,Transaction from untrusted device
+734,5,2024-04-18 06:32:00,70,Pending,High amount transaction detected
+2482,5,2024-09-10 05:54:00,79,Pending,Transaction from untrusted device
+948,3,2024-07-31 10:14:00,96,Confirmed,Suspicious midnight transaction
+2152,3,2024-10-17 21:40:00,68,False Alarm,Foreign location activity
+705,4,2024-04-08 10:16:00,60,False Alarm,Rule matched during monitoring
+3355,8,2024-07-03 09:45:00,90,Confirmed,Multiple transactions in short time
+3157,6,2024-02-24 22:23:00,81,Investigated,Transaction from untrusted device
+371,6,2025-03-08 20:30:00,79,Pending,Multiple transactions in short time
+857,6,2024-05-08 14:06:00,88,Investigated,Rule matched during monitoring
+2594,8,2024-06-12 18:44:00,77,Pending,Transaction from untrusted device
+2014,8,2024-11-15 08:19:00,71,Pending,Foreign location activity
+799,1,2024-09-09 05:25:00,92,Confirmed,High amount transaction detected
+1507,2,2025-03-08 16:48:00,61,False Alarm,Multiple transactions in short time
+1034,7,2025-04-12 15:46:00,62,False Alarm,Rule matched during monitoring
+4971,8,2024-08-22 22:23:00,65,False Alarm,Rule matched during monitoring
+1005,3,2024-11-12 02:09:00,89,Investigated,Rule matched during monitoring
+4065,3,2024-05-27 21:00:00,100,Confirmed,Rule matched during monitoring
+2266,6,2024-05-26 05:26:00,62,False Alarm,Suspicious midnight transaction
+966,5,2024-02-02 20:24:00,92,Confirmed,Transaction from untrusted device
+3242,6,2025-04-17 16:32:00,81,Investigated,Suspicious midnight transaction
+1969,2,2024-05-04 23:20:00,81,Investigated,Suspicious midnight transaction
+4520,4,2024-12-30 11:50:00,99,Confirmed,Foreign location activity
+2367,2,2025-02-20 04:25:00,98,Confirmed,Foreign location activity
+2601,8,2024-04-22 12:22:00,69,False Alarm,Suspicious midnight transaction
+3824,2,2024-09-15 11:51:00,95,Confirmed,High amount transaction detected
+1620,6,2025-02-24 09:20:00,100,Confirmed,Suspicious midnight transaction
+3662,7,2024-09-18 03:06:00,61,False Alarm,Foreign location activity
+390,6,2024-05-01 19:51:00,94,Confirmed,High amount transaction detected
+1383,7,2024-09-08 13:39:00,81,Investigated,High amount transaction detected
+4627,8,2024-11-22 07:45:00,85,Investigated,Rule matched during monitoring
+4513,1,2025-01-29 03:44:00,87,Investigated,Transaction from untrusted device
+4981,7,2024-03-14 00:36:00,86,Investigated,Multiple transactions in short time
+3105,5,2024-06-05 21:08:00,93,Confirmed,Foreign location activity
+1038,6,2025-02-27 03:46:00,75,Pending,Foreign location activity
+4967,2,2025-03-22 04:03:00,76,Pending,Multiple transactions in short time
+1013,4,2024-04-13 02:50:00,69,False Alarm,Foreign location activity
+3484,7,2024-02-14 17:39:00,95,Confirmed,Transaction from untrusted device
+19,4,2024-06-13 21:51:00,94,Confirmed,High amount transaction detected
+643,8,2024-01-16 11:04:00,70,Pending,Transaction from untrusted device
+4330,1,2024-08-03 11:29:00,86,Investigated,Transaction from untrusted device
+1178,5,2025-04-15 06:10:00,65,False Alarm,Multiple transactions in short time
+287,1,2024-05-20 01:32:00,87,Investigated,Foreign location activity
+2246,5,2025-02-09 12:35:00,97,Confirmed,Multiple transactions in short time
+3592,6,2024-06-21 10:27:00,83,Investigated,High amount transaction detected
+3752,3,2024-07-31 12:10:00,95,Confirmed,Foreign location activity
+338,2,2024-01-30 06:10:00,88,Investigated,Rule matched during monitoring
+1640,7,2024-06-03 21:41:00,91,Confirmed,Transaction from untrusted device
+3575,5,2024-07-16 11:12:00,88,Investigated,Foreign location activity
+2314,7,2024-06-18 00:01:00,89,Investigated,Foreign location activity
+4493,1,2024-07-11 17:55:00,69,False Alarm,High amount transaction detected
+1154,5,2024-03-21 13:01:00,71,Pending,Suspicious midnight transaction
+3934,4,2024-06-30 13:26:00,88,Investigated,Transaction from untrusted device
+2106,8,2024-01-09 15:20:00,66,False Alarm,High amount transaction detected
+3491,4,2024-12-23 17:03:00,86,Investigated,Suspicious midnight transaction
+2547,6,2024-02-22 10:36:00,74,Pending,Multiple transactions in short time
+519,6,2024-06-08 22:53:00,61,False Alarm,Multiple transactions in short time
+1114,6,2025-02-15 15:50:00,79,Pending,Rule matched during monitoring
+3533,4,2025-01-09 03:50:00,65,False Alarm,High amount transaction detected
+567,4,2024-06-21 17:08:00,63,False Alarm,Rule matched during monitoring
+2674,1,2024-03-20 18:19:00,67,False Alarm,Rule matched during monitoring
+3164,3,2025-03-05 23:24:00,86,Investigated,Foreign location activity
+79,8,2024-01-04 08:31:00,85,Investigated,Suspicious midnight transaction
+2598,1,2025-02-16 21:22:00,71,Pending,Transaction from untrusted device
+4398,7,2024-08-03 17:47:00,84,Investigated,Transaction from untrusted device
+462,5,2024-10-21 20:40:00,93,Confirmed,Suspicious midnight transaction
+846,2,2024-06-29 17:25:00,91,Confirmed,Rule matched during monitoring
+1619,2,2025-02-22 00:24:00,71,Pending,Multiple transactions in short time
+529,6,2024-05-20 12:51:00,78,Pending,Rule matched during monitoring
+4047,1,2024-05-01 09:03:00,87,Investigated,Multiple transactions in short time
+2986,4,2025-01-25 04:46:00,61,False Alarm,Multiple transactions in short time
+1179,2,2024-05-01 10:20:00,100,Confirmed,Rule matched during monitoring
+2162,6,2024-07-27 20:12:00,68,False Alarm,Rule matched during monitoring
+3468,5,2025-04-10 16:29:00,66,False Alarm,Transaction from untrusted device
+3883,1,2024-07-17 01:22:00,98,Confirmed,High amount transaction detected
+969,8,2024-08-25 00:40:00,67,False Alarm,Transaction from untrusted device
+1280,8,2025-03-02 01:48:00,60,False Alarm,Multiple transactions in short time
+1393,5,2024-11-27 11:25:00,67,False Alarm,Multiple transactions in short time
+327,1,2025-03-16 20:14:00,98,Confirmed,Suspicious midnight transaction
+1593,4,2024-01-19 06:10:00,63,False Alarm,Foreign location activity
+4678,1,2024-04-25 10:04:00,97,Confirmed,High amount transaction detected
+3208,4,2024-09-02 10:36:00,81,Investigated,Transaction from untrusted device
+4090,4,2025-04-27 23:06:00,85,Investigated,Transaction from untrusted device
+272,7,2024-11-08 11:10:00,67,False Alarm,Multiple transactions in short time
+2067,5,2024-11-17 05:47:00,73,Pending,Multiple transactions in short time
+3028,8,2024-08-14 09:07:00,71,Pending,Suspicious midnight transaction
+480,4,2024-05-17 09:26:00,80,Investigated,High amount transaction detected
+3412,6,2025-03-14 21:54:00,71,Pending,Foreign location activity
+4568,2,2024-07-28 22:22:00,97,Confirmed,Transaction from untrusted device
+4832,3,2024-12-10 05:13:00,97,Confirmed,Multiple transactions in short time
+3940,8,2024-09-03 15:11:00,60,False Alarm,Rule matched during monitoring
+587,7,2024-10-19 22:05:00,79,Pending,Suspicious midnight transaction
+1941,3,2024-09-27 12:41:00,72,Pending,Foreign location activity
+3272,7,2024-04-23 14:38:00,93,Confirmed,Rule matched during monitoring
+536,1,2025-01-31 04:25:00,86,Investigated,High amount transaction detected
+2110,4,2024-12-14 17:57:00,60,False Alarm,High amount transaction detected
+3363,4,2025-01-30 21:15:00,87,Investigated,Multiple transactions in short time
+1050,1,2025-02-10 03:40:00,65,False Alarm,High amount transaction detected
+1025,8,2025-04-16 14:32:00,98,Confirmed,Foreign location activity
+4202,4,2024-12-24 19:57:00,94,Confirmed,Multiple transactions in short time
+1090,6,2024-12-09 11:25:00,89,Investigated,Suspicious midnight transaction
+15,6,2024-01-02 12:18:00,97,Confirmed,Suspicious midnight transaction
+2270,7,2025-03-29 23:22:00,76,Pending,Rule matched during monitoring
+4847,2,2024-09-13 20:22:00,89,Investigated,High amount transaction detected
+62,4,2024-09-10 18:34:00,64,False Alarm,Multiple transactions in short time
+3140,1,2024-07-24 11:24:00,88,Investigated,Multiple transactions in short time
+3380,3,2024-10-09 06:13:00,90,Confirmed,Multiple transactions in short time
+3839,2,2024-12-04 20:19:00,100,Confirmed,Transaction from untrusted device
+1607,3,2025-03-08 06:52:00,81,Investigated,Suspicious midnight transaction
+4548,1,2024-04-24 22:19:00,89,Investigated,Rule matched during monitoring
+2570,4,2024-03-17 16:37:00,76,Pending,High amount transaction detected
+3871,8,2024-04-23 19:16:00,97,Confirmed,Rule matched during monitoring
+3445,6,2024-11-22 16:21:00,81,Investigated,Multiple transactions in short time
+2628,1,2024-03-25 13:07:00,85,Investigated,High amount transaction detected
+4460,2,2024-07-21 17:39:00,78,Pending,Multiple transactions in short time
+3008,7,2025-01-01 13:22:00,83,Investigated,Rule matched during monitoring
+720,8,2024-04-19 20:06:00,67,False Alarm,Transaction from untrusted device
+2176,4,2024-08-18 06:57:00,69,False Alarm,Foreign location activity
+572,4,2024-07-27 08:42:00,100,Confirmed,Foreign location activity
+3657,5,2024-04-26 15:55:00,100,Confirmed,Suspicious midnight transaction
+2845,5,2024-02-18 19:45:00,69,False Alarm,Rule matched during monitoring
+4063,7,2025-04-11 11:31:00,77,Pending,High amount transaction detected
+2486,2,2024-11-04 16:16:00,72,Pending,High amount transaction detected
+3214,3,2024-11-28 13:16:00,83,Investigated,Suspicious midnight transaction
+4838,8,2025-02-28 22:25:00,76,Pending,Suspicious midnight transaction
+78,6,2024-01-24 05:55:00,97,Confirmed,Transaction from untrusted device
+3530,7,2024-09-19 19:51:00,82,Investigated,Rule matched during monitoring
+4434,1,2024-03-04 08:31:00,79,Pending,Rule matched during monitoring
+1198,6,2024-08-13 06:16:00,85,Investigated,High amount transaction detected
+1257,1,2024-07-02 17:01:00,72,Pending,Foreign location activity
+136,5,2025-02-27 11:04:00,82,Investigated,Suspicious midnight transaction
+53,8,2024-04-12 21:15:00,98,Confirmed,Rule matched during monitoring
+4592,6,2024-02-13 07:19:00,75,Pending,Foreign location activity
+2008,2,2024-05-13 19:19:00,98,Confirmed,Suspicious midnight transaction
+2138,4,2024-06-11 20:11:00,90,Confirmed,High amount transaction detected
+140,1,2025-03-02 05:05:00,94,Confirmed,High amount transaction detected
+3347,1,2024-12-07 08:53:00,95,Confirmed,Transaction from untrusted device
+2278,2,2024-01-02 09:38:00,99,Confirmed,Foreign location activity
+2717,4,2024-03-03 01:32:00,100,Confirmed,Foreign location activity
+3153,1,2025-02-14 06:35:00,72,Pending,Rule matched during monitoring
+1719,6,2025-04-01 15:34:00,87,Investigated,Rule matched during monitoring
+2408,5,2024-06-20 09:36:00,74,Pending,Suspicious midnight transaction
+1670,4,2025-01-27 00:48:00,91,Confirmed,High amount transaction detected
+4899,5,2024-09-20 05:16:00,99,Confirmed,Transaction from untrusted device
+961,4,2025-01-21 11:02:00,80,Investigated,Multiple transactions in short time
+1481,1,2025-03-26 07:00:00,96,Confirmed,Transaction from untrusted device
+1869,2,2024-07-13 17:09:00,62,False Alarm,Rule matched during monitoring
+908,8,2024-10-05 08:15:00,97,Confirmed,Multiple transactions in short time
+3756,1,2024-10-16 00:08:00,95,Confirmed,Suspicious midnight transaction
+261,5,2024-03-29 20:19:00,63,False Alarm,Rule matched during monitoring
+4261,6,2024-07-22 08:04:00,87,Investigated,Multiple transactions in short time
+1545,1,2025-03-26 03:55:00,92,Confirmed,Transaction from untrusted device
+3688,4,2024-06-30 20:07:00,82,Investigated,Transaction from untrusted device
+2869,3,2024-10-26 03:32:00,91,Confirmed,Suspicious midnight transaction
+4416,2,2025-04-22 11:26:00,86,Investigated,Rule matched during monitoring
+2695,3,2024-08-23 13:57:00,94,Confirmed,Transaction from untrusted device
+3165,7,2024-04-05 07:40:00,83,Investigated,Transaction from untrusted device
+3497,6,2024-08-24 20:42:00,90,Confirmed,Foreign location activity
+1459,3,2024-06-17 08:52:00,84,Investigated,Multiple transactions in short time
+1091,6,2024-07-16 20:51:00,64,False Alarm,Foreign location activity
+1211,8,2024-02-13 02:36:00,65,False Alarm,Multiple transactions in short time

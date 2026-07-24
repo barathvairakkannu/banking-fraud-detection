@@ -1,0 +1,1001 @@
+EmployeeID,ActionType,TableName,ActionDate,Description
+30,APPROVE,Devices,2024-08-23 02:16:00,Approved transaction
+36,LOGIN,FraudAlerts,2024-11-25 11:22:00,Employee login
+31,LOGIN,Beneficiaries,2024-08-28 05:35:00,Employee login
+40,APPROVE,FraudAlerts,2024-01-27 22:07:00,Approved transaction
+24,UNBLOCK ACCOUNT,FraudAlerts,2024-06-29 08:30:00,Unblocked verified account
+8,UNBLOCK ACCOUNT,Transactions,2024-10-11 01:20:00,Unblocked verified account
+39,UPDATE,Beneficiaries,2024-05-19 18:27:00,Updated customer details
+20,UPDATE,Customers,2024-04-24 20:00:00,Updated customer details
+30,LOGIN,Accounts,2024-10-18 01:06:00,Employee login
+28,UNBLOCK ACCOUNT,FraudAlerts,2024-05-28 20:54:00,Unblocked verified account
+21,DELETE,Accounts,2024-07-06 17:14:00,Deleted inactive record
+11,LOGIN,Cards,2024-12-06 15:07:00,Employee login
+18,INSERT,Customers,2024-06-04 21:33:00,Inserted new record
+26,DELETE,Accounts,2024-09-28 22:21:00,Deleted inactive record
+3,UPDATE,Beneficiaries,2024-10-23 05:11:00,Updated customer details
+42,UNBLOCK ACCOUNT,Transactions,2024-08-05 14:10:00,Unblocked verified account
+38,UPDATE,Transactions,2024-11-07 19:10:00,Updated customer details
+45,UPDATE,Devices,2024-09-16 08:32:00,Updated customer details
+43,DELETE,Cards,2024-09-30 14:23:00,Deleted inactive record
+48,LOGIN,Devices,2024-10-16 06:34:00,Employee login
+2,UNBLOCK ACCOUNT,Cards,2024-11-07 05:30:00,Unblocked verified account
+35,UPDATE,Customers,2024-11-18 14:17:00,Updated customer details
+4,UNBLOCK ACCOUNT,Devices,2024-08-02 08:04:00,Unblocked verified account
+41,UPDATE,Customers,2024-07-05 16:15:00,Updated customer details
+4,DELETE,Beneficiaries,2024-01-14 12:01:00,Deleted inactive record
+26,UPDATE,Cards,2024-05-26 23:34:00,Updated customer details
+19,APPROVE,Beneficiaries,2024-03-29 23:45:00,Approved transaction
+21,APPROVE,Beneficiaries,2024-01-27 18:20:00,Approved transaction
+25,LOGIN,Accounts,2024-10-06 07:10:00,Employee login
+38,UPDATE,Devices,2024-06-16 17:13:00,Updated customer details
+4,LOGIN,Cards,2024-02-01 11:10:00,Employee login
+19,UNBLOCK ACCOUNT,Devices,2024-04-17 16:56:00,Unblocked verified account
+44,UPDATE,Customers,2024-05-17 03:54:00,Updated customer details
+16,DELETE,Customers,2024-12-11 15:52:00,Deleted inactive record
+31,UNBLOCK ACCOUNT,Beneficiaries,2024-06-08 03:54:00,Unblocked verified account
+31,LOGIN,Transactions,2024-04-26 09:17:00,Employee login
+27,INSERT,Devices,2024-08-13 18:26:00,Inserted new record
+44,DELETE,Transactions,2024-04-15 18:50:00,Deleted inactive record
+29,DELETE,Transactions,2024-08-10 11:18:00,Deleted inactive record
+44,DELETE,Devices,2024-08-18 09:09:00,Deleted inactive record
+10,LOGIN,FraudAlerts,2024-06-10 15:09:00,Employee login
+37,INSERT,Beneficiaries,2024-02-07 05:17:00,Inserted new record
+23,DELETE,Transactions,2024-09-14 12:02:00,Deleted inactive record
+10,INSERT,Beneficiaries,2024-03-23 10:28:00,Inserted new record
+19,DELETE,Cards,2024-04-26 15:31:00,Deleted inactive record
+6,APPROVE,Transactions,2024-07-10 07:31:00,Approved transaction
+45,LOGIN,Customers,2024-01-09 19:30:00,Employee login
+13,LOGIN,Beneficiaries,2024-03-21 01:21:00,Employee login
+46,BLOCK ACCOUNT,Cards,2024-02-04 15:07:00,Blocked suspicious account
+9,APPROVE,Customers,2024-11-11 23:28:00,Approved transaction
+7,LOGIN,Accounts,2024-11-22 20:20:00,Employee login
+4,BLOCK ACCOUNT,Cards,2024-06-08 05:29:00,Blocked suspicious account
+14,APPROVE,FraudAlerts,2024-08-29 00:50:00,Approved transaction
+35,UNBLOCK ACCOUNT,Beneficiaries,2024-04-07 03:22:00,Unblocked verified account
+47,BLOCK ACCOUNT,Transactions,2024-09-12 07:25:00,Blocked suspicious account
+39,INSERT,Devices,2024-02-27 05:44:00,Inserted new record
+1,APPROVE,Beneficiaries,2024-07-02 02:43:00,Approved transaction
+37,LOGIN,FraudAlerts,2024-06-18 19:23:00,Employee login
+2,UPDATE,Devices,2024-01-12 18:47:00,Updated customer details
+47,LOGIN,Devices,2024-06-14 23:47:00,Employee login
+12,UNBLOCK ACCOUNT,Beneficiaries,2024-09-04 23:36:00,Unblocked verified account
+2,APPROVE,Transactions,2024-09-16 20:52:00,Approved transaction
+46,LOGIN,Devices,2024-07-28 09:29:00,Employee login
+40,BLOCK ACCOUNT,Accounts,2024-03-27 11:11:00,Blocked suspicious account
+7,DELETE,Beneficiaries,2024-02-21 13:29:00,Deleted inactive record
+12,LOGIN,Devices,2024-01-14 21:17:00,Employee login
+37,BLOCK ACCOUNT,Devices,2024-10-29 16:10:00,Blocked suspicious account
+8,UPDATE,Cards,2024-01-10 06:24:00,Updated customer details
+6,APPROVE,Transactions,2024-11-13 21:55:00,Approved transaction
+13,DELETE,Devices,2024-03-12 00:24:00,Deleted inactive record
+9,INSERT,FraudAlerts,2024-04-12 10:12:00,Inserted new record
+6,UPDATE,Cards,2024-03-22 11:07:00,Updated customer details
+38,BLOCK ACCOUNT,Customers,2024-01-31 12:53:00,Blocked suspicious account
+21,APPROVE,Beneficiaries,2024-09-16 14:11:00,Approved transaction
+33,UPDATE,Cards,2024-07-19 17:06:00,Updated customer details
+44,UNBLOCK ACCOUNT,Cards,2024-10-26 23:52:00,Unblocked verified account
+41,UPDATE,Accounts,2024-10-03 13:42:00,Updated customer details
+27,INSERT,Cards,2024-05-16 04:40:00,Inserted new record
+19,APPROVE,Customers,2024-08-22 02:42:00,Approved transaction
+5,UNBLOCK ACCOUNT,Transactions,2024-01-22 03:03:00,Unblocked verified account
+20,INSERT,Devices,2024-04-23 15:03:00,Inserted new record
+35,APPROVE,Devices,2024-05-05 02:11:00,Approved transaction
+44,BLOCK ACCOUNT,Beneficiaries,2024-06-28 01:44:00,Blocked suspicious account
+13,UPDATE,Devices,2024-06-23 20:21:00,Updated customer details
+25,DELETE,Devices,2024-12-11 00:31:00,Deleted inactive record
+24,BLOCK ACCOUNT,Transactions,2024-07-18 19:48:00,Blocked suspicious account
+7,UNBLOCK ACCOUNT,Cards,2024-07-17 13:45:00,Unblocked verified account
+32,APPROVE,Cards,2024-08-30 15:49:00,Approved transaction
+25,BLOCK ACCOUNT,FraudAlerts,2024-10-01 11:56:00,Blocked suspicious account
+3,APPROVE,Customers,2024-10-15 13:01:00,Approved transaction
+19,DELETE,Transactions,2024-05-08 04:30:00,Deleted inactive record
+49,BLOCK ACCOUNT,Accounts,2024-08-22 22:00:00,Blocked suspicious account
+38,UNBLOCK ACCOUNT,Beneficiaries,2024-10-31 13:40:00,Unblocked verified account
+27,UPDATE,Cards,2024-10-04 15:06:00,Updated customer details
+39,UPDATE,Accounts,2024-03-29 17:20:00,Updated customer details
+22,UPDATE,Customers,2024-05-09 05:15:00,Updated customer details
+18,DELETE,Cards,2024-08-20 07:41:00,Deleted inactive record
+25,LOGIN,Customers,2024-06-18 06:37:00,Employee login
+22,INSERT,Transactions,2024-10-22 07:56:00,Inserted new record
+49,APPROVE,Transactions,2024-03-13 06:00:00,Approved transaction
+45,INSERT,Cards,2024-12-02 12:15:00,Inserted new record
+45,LOGIN,Customers,2024-03-30 22:12:00,Employee login
+12,BLOCK ACCOUNT,FraudAlerts,2024-01-19 00:30:00,Blocked suspicious account
+18,UPDATE,Beneficiaries,2024-09-08 18:16:00,Updated customer details
+18,DELETE,FraudAlerts,2024-09-18 09:45:00,Deleted inactive record
+2,DELETE,Devices,2024-08-03 11:17:00,Deleted inactive record
+21,BLOCK ACCOUNT,FraudAlerts,2024-06-13 02:53:00,Blocked suspicious account
+6,UNBLOCK ACCOUNT,Beneficiaries,2024-05-27 19:13:00,Unblocked verified account
+43,UNBLOCK ACCOUNT,Accounts,2024-11-12 18:18:00,Unblocked verified account
+44,BLOCK ACCOUNT,Cards,2024-01-23 12:39:00,Blocked suspicious account
+47,APPROVE,FraudAlerts,2024-06-06 05:21:00,Approved transaction
+20,BLOCK ACCOUNT,Devices,2024-10-12 06:01:00,Blocked suspicious account
+29,UNBLOCK ACCOUNT,FraudAlerts,2024-08-30 10:15:00,Unblocked verified account
+11,INSERT,Accounts,2024-03-17 22:52:00,Inserted new record
+6,UNBLOCK ACCOUNT,Transactions,2024-07-08 10:56:00,Unblocked verified account
+4,DELETE,Transactions,2024-06-30 02:09:00,Deleted inactive record
+5,UPDATE,FraudAlerts,2024-07-15 10:45:00,Updated customer details
+45,APPROVE,Beneficiaries,2024-06-21 05:22:00,Approved transaction
+42,DELETE,Accounts,2024-06-10 04:16:00,Deleted inactive record
+17,UPDATE,Transactions,2024-06-26 09:48:00,Updated customer details
+40,APPROVE,FraudAlerts,2024-07-09 00:49:00,Approved transaction
+22,LOGIN,FraudAlerts,2024-06-19 08:52:00,Employee login
+35,APPROVE,Customers,2024-07-15 21:42:00,Approved transaction
+29,UPDATE,Devices,2024-02-16 14:50:00,Updated customer details
+49,INSERT,Customers,2024-08-18 23:43:00,Inserted new record
+39,BLOCK ACCOUNT,Cards,2024-10-11 20:48:00,Blocked suspicious account
+24,UNBLOCK ACCOUNT,Devices,2024-12-03 16:59:00,Unblocked verified account
+26,UPDATE,Accounts,2024-08-14 03:19:00,Updated customer details
+19,INSERT,Cards,2024-08-21 05:12:00,Inserted new record
+8,INSERT,FraudAlerts,2024-05-20 00:30:00,Inserted new record
+18,UPDATE,Transactions,2024-11-22 17:38:00,Updated customer details
+41,BLOCK ACCOUNT,Customers,2024-09-26 16:15:00,Blocked suspicious account
+19,UNBLOCK ACCOUNT,Cards,2024-11-11 00:33:00,Unblocked verified account
+40,DELETE,Beneficiaries,2024-02-27 04:00:00,Deleted inactive record
+49,UNBLOCK ACCOUNT,Devices,2024-06-28 02:22:00,Unblocked verified account
+1,INSERT,Cards,2024-05-29 16:31:00,Inserted new record
+44,APPROVE,Beneficiaries,2024-11-12 06:12:00,Approved transaction
+39,LOGIN,Accounts,2024-11-09 14:09:00,Employee login
+17,BLOCK ACCOUNT,Beneficiaries,2024-05-01 14:21:00,Blocked suspicious account
+6,DELETE,Customers,2024-06-16 14:26:00,Deleted inactive record
+12,INSERT,Cards,2024-03-10 13:19:00,Inserted new record
+34,INSERT,Accounts,2024-10-29 18:57:00,Inserted new record
+27,UNBLOCK ACCOUNT,Beneficiaries,2024-09-16 02:30:00,Unblocked verified account
+10,UPDATE,Devices,2024-03-11 15:15:00,Updated customer details
+25,INSERT,Cards,2024-10-18 14:17:00,Inserted new record
+15,DELETE,Accounts,2024-06-01 19:01:00,Deleted inactive record
+32,INSERT,Devices,2024-02-13 22:16:00,Inserted new record
+40,BLOCK ACCOUNT,Transactions,2024-03-09 13:09:00,Blocked suspicious account
+1,INSERT,Beneficiaries,2024-06-24 02:59:00,Inserted new record
+13,UNBLOCK ACCOUNT,Devices,2024-12-09 02:37:00,Unblocked verified account
+26,UPDATE,Accounts,2024-03-15 21:25:00,Updated customer details
+24,INSERT,FraudAlerts,2024-11-06 19:05:00,Inserted new record
+38,INSERT,Accounts,2024-11-09 18:00:00,Inserted new record
+43,UNBLOCK ACCOUNT,Customers,2024-07-31 12:57:00,Unblocked verified account
+22,UPDATE,Customers,2024-05-25 21:14:00,Updated customer details
+39,UPDATE,Cards,2024-01-06 21:50:00,Updated customer details
+30,INSERT,Transactions,2024-04-11 17:13:00,Inserted new record
+49,APPROVE,Beneficiaries,2024-06-02 11:45:00,Approved transaction
+13,APPROVE,Beneficiaries,2024-11-17 19:39:00,Approved transaction
+6,BLOCK ACCOUNT,Devices,2024-09-17 17:54:00,Blocked suspicious account
+40,UNBLOCK ACCOUNT,Cards,2024-09-30 17:15:00,Unblocked verified account
+21,INSERT,Devices,2024-08-20 06:27:00,Inserted new record
+38,UNBLOCK ACCOUNT,Cards,2024-10-01 08:39:00,Unblocked verified account
+28,BLOCK ACCOUNT,Beneficiaries,2024-10-15 03:18:00,Blocked suspicious account
+19,DELETE,Accounts,2024-08-25 15:15:00,Deleted inactive record
+7,LOGIN,Beneficiaries,2024-05-18 10:16:00,Employee login
+14,LOGIN,Beneficiaries,2024-01-11 06:30:00,Employee login
+1,DELETE,Cards,2024-09-20 12:05:00,Deleted inactive record
+44,APPROVE,Beneficiaries,2024-09-17 04:08:00,Approved transaction
+4,APPROVE,FraudAlerts,2024-03-28 02:01:00,Approved transaction
+40,DELETE,FraudAlerts,2024-11-26 05:53:00,Deleted inactive record
+48,APPROVE,Transactions,2024-04-30 12:19:00,Approved transaction
+8,DELETE,Devices,2024-05-20 23:54:00,Deleted inactive record
+25,BLOCK ACCOUNT,Cards,2024-06-24 04:47:00,Blocked suspicious account
+47,UNBLOCK ACCOUNT,Customers,2024-01-18 22:51:00,Unblocked verified account
+7,LOGIN,Customers,2024-08-03 17:51:00,Employee login
+19,UNBLOCK ACCOUNT,Customers,2024-07-11 19:36:00,Unblocked verified account
+23,BLOCK ACCOUNT,Customers,2024-05-29 16:45:00,Blocked suspicious account
+48,UPDATE,Customers,2024-10-04 06:24:00,Updated customer details
+48,BLOCK ACCOUNT,Accounts,2024-07-14 04:31:00,Blocked suspicious account
+33,LOGIN,FraudAlerts,2024-06-17 00:31:00,Employee login
+45,INSERT,FraudAlerts,2024-08-01 15:33:00,Inserted new record
+4,UPDATE,Accounts,2024-11-05 21:20:00,Updated customer details
+9,LOGIN,Accounts,2024-08-24 11:09:00,Employee login
+14,INSERT,FraudAlerts,2024-10-17 19:29:00,Inserted new record
+15,APPROVE,Accounts,2024-10-03 21:33:00,Approved transaction
+18,INSERT,Customers,2024-05-13 16:14:00,Inserted new record
+48,UNBLOCK ACCOUNT,Accounts,2024-06-02 05:01:00,Unblocked verified account
+35,DELETE,Devices,2024-07-08 05:41:00,Deleted inactive record
+44,BLOCK ACCOUNT,Customers,2024-05-12 07:27:00,Blocked suspicious account
+16,INSERT,Cards,2024-05-17 21:39:00,Inserted new record
+50,INSERT,Beneficiaries,2024-03-31 11:59:00,Inserted new record
+3,BLOCK ACCOUNT,Transactions,2024-03-07 20:12:00,Blocked suspicious account
+30,INSERT,Customers,2024-09-12 04:41:00,Inserted new record
+7,INSERT,Accounts,2024-05-01 19:54:00,Inserted new record
+14,UPDATE,Cards,2024-10-12 05:50:00,Updated customer details
+2,BLOCK ACCOUNT,Accounts,2024-08-26 08:14:00,Blocked suspicious account
+10,INSERT,Transactions,2024-04-24 22:05:00,Inserted new record
+38,INSERT,Devices,2024-02-28 04:18:00,Inserted new record
+49,DELETE,Devices,2024-11-24 03:27:00,Deleted inactive record
+40,UPDATE,Devices,2024-08-12 10:19:00,Updated customer details
+33,LOGIN,Accounts,2024-05-17 16:40:00,Employee login
+9,DELETE,Transactions,2024-06-07 13:40:00,Deleted inactive record
+38,DELETE,FraudAlerts,2024-02-13 04:07:00,Deleted inactive record
+7,APPROVE,FraudAlerts,2024-12-11 10:31:00,Approved transaction
+17,UPDATE,Beneficiaries,2024-02-23 23:32:00,Updated customer details
+19,INSERT,Devices,2024-03-14 07:31:00,Inserted new record
+24,BLOCK ACCOUNT,Accounts,2024-08-19 11:13:00,Blocked suspicious account
+1,UPDATE,Cards,2024-08-03 17:39:00,Updated customer details
+41,UNBLOCK ACCOUNT,FraudAlerts,2024-01-25 07:29:00,Unblocked verified account
+21,INSERT,Customers,2024-07-16 03:56:00,Inserted new record
+7,UNBLOCK ACCOUNT,Transactions,2024-12-04 08:49:00,Unblocked verified account
+32,BLOCK ACCOUNT,Devices,2024-02-03 06:15:00,Blocked suspicious account
+25,INSERT,Cards,2024-03-13 20:26:00,Inserted new record
+39,APPROVE,Transactions,2024-02-18 20:30:00,Approved transaction
+6,APPROVE,FraudAlerts,2024-07-13 09:07:00,Approved transaction
+29,UNBLOCK ACCOUNT,Customers,2024-01-01 16:16:00,Unblocked verified account
+24,BLOCK ACCOUNT,Devices,2024-03-10 03:38:00,Blocked suspicious account
+10,UPDATE,Customers,2024-03-18 03:47:00,Updated customer details
+38,LOGIN,Customers,2024-01-08 10:07:00,Employee login
+34,DELETE,FraudAlerts,2024-06-16 10:55:00,Deleted inactive record
+41,APPROVE,Devices,2024-03-01 11:20:00,Approved transaction
+18,INSERT,Customers,2024-09-14 09:08:00,Inserted new record
+35,UPDATE,Cards,2024-11-17 15:08:00,Updated customer details
+20,DELETE,Devices,2024-07-28 11:53:00,Deleted inactive record
+41,APPROVE,FraudAlerts,2024-01-17 01:30:00,Approved transaction
+16,DELETE,Accounts,2024-11-08 00:40:00,Deleted inactive record
+9,BLOCK ACCOUNT,Beneficiaries,2024-06-13 04:55:00,Blocked suspicious account
+43,DELETE,Cards,2024-11-13 17:51:00,Deleted inactive record
+27,DELETE,Devices,2024-10-31 02:01:00,Deleted inactive record
+36,LOGIN,FraudAlerts,2024-05-02 09:00:00,Employee login
+35,BLOCK ACCOUNT,Beneficiaries,2024-02-26 00:24:00,Blocked suspicious account
+42,UNBLOCK ACCOUNT,Accounts,2024-02-05 23:47:00,Unblocked verified account
+29,UPDATE,FraudAlerts,2024-01-20 19:40:00,Updated customer details
+21,DELETE,Beneficiaries,2024-04-07 17:02:00,Deleted inactive record
+27,BLOCK ACCOUNT,Accounts,2024-06-29 13:35:00,Blocked suspicious account
+9,LOGIN,Beneficiaries,2024-01-18 06:10:00,Employee login
+46,LOGIN,Cards,2024-11-29 15:22:00,Employee login
+22,INSERT,Transactions,2024-11-23 19:00:00,Inserted new record
+21,DELETE,Transactions,2024-11-26 04:01:00,Deleted inactive record
+17,APPROVE,Accounts,2024-10-02 10:08:00,Approved transaction
+26,DELETE,FraudAlerts,2024-05-05 23:43:00,Deleted inactive record
+25,LOGIN,Accounts,2024-04-03 21:48:00,Employee login
+23,INSERT,Cards,2024-05-31 06:40:00,Inserted new record
+24,LOGIN,Customers,2024-03-19 11:14:00,Employee login
+22,BLOCK ACCOUNT,Transactions,2024-08-20 01:20:00,Blocked suspicious account
+50,UNBLOCK ACCOUNT,Accounts,2024-01-27 22:59:00,Unblocked verified account
+5,BLOCK ACCOUNT,Cards,2024-09-07 23:06:00,Blocked suspicious account
+39,LOGIN,Customers,2024-02-04 13:54:00,Employee login
+49,BLOCK ACCOUNT,Transactions,2024-06-13 04:13:00,Blocked suspicious account
+1,APPROVE,Customers,2024-06-21 07:16:00,Approved transaction
+26,UPDATE,Beneficiaries,2024-12-09 12:38:00,Updated customer details
+1,UPDATE,Beneficiaries,2024-10-06 18:49:00,Updated customer details
+39,INSERT,Accounts,2024-09-29 03:27:00,Inserted new record
+15,BLOCK ACCOUNT,Beneficiaries,2024-05-12 02:48:00,Blocked suspicious account
+16,BLOCK ACCOUNT,Cards,2024-08-20 15:31:00,Blocked suspicious account
+27,UNBLOCK ACCOUNT,Cards,2024-10-24 17:12:00,Unblocked verified account
+6,APPROVE,Cards,2024-07-02 23:19:00,Approved transaction
+44,UPDATE,Transactions,2024-01-07 11:57:00,Updated customer details
+48,APPROVE,Accounts,2024-11-12 09:22:00,Approved transaction
+40,LOGIN,FraudAlerts,2024-10-12 02:44:00,Employee login
+39,UPDATE,Cards,2024-04-27 22:56:00,Updated customer details
+49,UPDATE,Cards,2024-06-04 19:08:00,Updated customer details
+18,UPDATE,Customers,2024-04-07 14:25:00,Updated customer details
+34,LOGIN,Transactions,2024-09-30 00:57:00,Employee login
+39,UNBLOCK ACCOUNT,Accounts,2024-01-08 07:07:00,Unblocked verified account
+37,UPDATE,Accounts,2024-08-26 23:54:00,Updated customer details
+13,LOGIN,Devices,2024-07-02 09:15:00,Employee login
+35,INSERT,Accounts,2024-03-15 09:18:00,Inserted new record
+20,DELETE,Transactions,2024-11-01 21:22:00,Deleted inactive record
+7,UNBLOCK ACCOUNT,Customers,2024-03-13 05:19:00,Unblocked verified account
+35,DELETE,Cards,2024-01-08 10:54:00,Deleted inactive record
+40,BLOCK ACCOUNT,Transactions,2024-08-31 05:20:00,Blocked suspicious account
+25,BLOCK ACCOUNT,Beneficiaries,2024-03-01 15:20:00,Blocked suspicious account
+42,DELETE,Transactions,2024-04-30 08:17:00,Deleted inactive record
+1,INSERT,Beneficiaries,2024-01-07 19:20:00,Inserted new record
+43,APPROVE,FraudAlerts,2024-06-11 11:05:00,Approved transaction
+18,UNBLOCK ACCOUNT,Accounts,2024-07-09 10:41:00,Unblocked verified account
+26,INSERT,Devices,2024-08-24 12:12:00,Inserted new record
+22,UNBLOCK ACCOUNT,Beneficiaries,2024-01-09 17:04:00,Unblocked verified account
+32,LOGIN,Beneficiaries,2024-07-14 03:11:00,Employee login
+19,UNBLOCK ACCOUNT,Customers,2024-06-10 08:48:00,Unblocked verified account
+19,UPDATE,Accounts,2024-11-03 02:57:00,Updated customer details
+31,UNBLOCK ACCOUNT,Accounts,2024-03-19 14:45:00,Unblocked verified account
+20,BLOCK ACCOUNT,Accounts,2024-10-12 12:21:00,Blocked suspicious account
+15,INSERT,Customers,2024-05-30 18:49:00,Inserted new record
+13,UNBLOCK ACCOUNT,Beneficiaries,2024-10-14 02:35:00,Unblocked verified account
+37,UPDATE,Devices,2024-03-09 11:02:00,Updated customer details
+17,BLOCK ACCOUNT,Accounts,2024-05-01 05:34:00,Blocked suspicious account
+18,UNBLOCK ACCOUNT,Customers,2024-10-02 23:21:00,Unblocked verified account
+17,BLOCK ACCOUNT,Beneficiaries,2024-08-13 13:09:00,Blocked suspicious account
+39,APPROVE,Accounts,2024-03-05 17:27:00,Approved transaction
+32,DELETE,Transactions,2024-01-20 16:45:00,Deleted inactive record
+47,BLOCK ACCOUNT,FraudAlerts,2024-07-03 04:12:00,Blocked suspicious account
+40,INSERT,Cards,2024-01-11 23:39:00,Inserted new record
+44,UNBLOCK ACCOUNT,Cards,2024-08-21 14:14:00,Unblocked verified account
+22,UNBLOCK ACCOUNT,Beneficiaries,2024-04-12 08:28:00,Unblocked verified account
+49,BLOCK ACCOUNT,FraudAlerts,2024-03-25 05:30:00,Blocked suspicious account
+8,BLOCK ACCOUNT,Beneficiaries,2024-01-08 15:17:00,Blocked suspicious account
+1,BLOCK ACCOUNT,Transactions,2024-02-03 09:40:00,Blocked suspicious account
+2,LOGIN,FraudAlerts,2024-02-03 18:44:00,Employee login
+22,APPROVE,Devices,2024-12-11 04:29:00,Approved transaction
+41,UNBLOCK ACCOUNT,Customers,2024-05-23 19:15:00,Unblocked verified account
+5,UNBLOCK ACCOUNT,Cards,2024-12-11 21:05:00,Unblocked verified account
+6,BLOCK ACCOUNT,Beneficiaries,2024-08-26 10:43:00,Blocked suspicious account
+49,UNBLOCK ACCOUNT,Transactions,2024-06-09 02:58:00,Unblocked verified account
+34,BLOCK ACCOUNT,Beneficiaries,2024-06-25 01:28:00,Blocked suspicious account
+25,UPDATE,Beneficiaries,2024-06-09 13:50:00,Updated customer details
+36,APPROVE,Transactions,2024-01-17 05:42:00,Approved transaction
+35,INSERT,Accounts,2024-04-25 03:14:00,Inserted new record
+46,BLOCK ACCOUNT,Devices,2024-01-23 05:06:00,Blocked suspicious account
+26,APPROVE,FraudAlerts,2024-07-23 11:45:00,Approved transaction
+37,DELETE,FraudAlerts,2024-02-26 00:49:00,Deleted inactive record
+27,DELETE,Transactions,2024-10-31 14:40:00,Deleted inactive record
+9,APPROVE,Customers,2024-03-12 00:43:00,Approved transaction
+41,LOGIN,Beneficiaries,2024-01-25 06:07:00,Employee login
+28,LOGIN,Transactions,2024-03-16 20:07:00,Employee login
+48,DELETE,FraudAlerts,2024-03-12 23:21:00,Deleted inactive record
+23,APPROVE,Customers,2024-01-15 03:22:00,Approved transaction
+10,LOGIN,Transactions,2024-05-27 08:03:00,Employee login
+41,DELETE,Customers,2024-03-13 08:58:00,Deleted inactive record
+43,BLOCK ACCOUNT,Cards,2024-06-14 06:56:00,Blocked suspicious account
+8,UPDATE,Accounts,2024-03-14 08:17:00,Updated customer details
+20,APPROVE,Devices,2024-02-12 22:02:00,Approved transaction
+18,UPDATE,Cards,2024-04-13 20:15:00,Updated customer details
+21,BLOCK ACCOUNT,Beneficiaries,2024-01-24 23:24:00,Blocked suspicious account
+38,UPDATE,Accounts,2024-03-07 10:14:00,Updated customer details
+31,DELETE,Devices,2024-03-22 12:13:00,Deleted inactive record
+38,LOGIN,Beneficiaries,2024-11-13 23:11:00,Employee login
+12,DELETE,FraudAlerts,2024-09-01 23:49:00,Deleted inactive record
+30,DELETE,Transactions,2024-07-25 17:07:00,Deleted inactive record
+28,BLOCK ACCOUNT,Devices,2024-06-03 19:59:00,Blocked suspicious account
+31,LOGIN,Customers,2024-12-12 00:14:00,Employee login
+28,DELETE,FraudAlerts,2024-07-30 08:16:00,Deleted inactive record
+40,APPROVE,Cards,2024-02-07 14:07:00,Approved transaction
+30,UPDATE,Accounts,2024-09-03 09:24:00,Updated customer details
+34,UPDATE,Transactions,2024-02-02 10:13:00,Updated customer details
+30,APPROVE,Accounts,2024-09-21 11:15:00,Approved transaction
+4,UPDATE,Transactions,2024-11-09 14:28:00,Updated customer details
+39,DELETE,Accounts,2024-11-03 20:32:00,Deleted inactive record
+6,UNBLOCK ACCOUNT,FraudAlerts,2024-10-23 20:09:00,Unblocked verified account
+35,BLOCK ACCOUNT,Customers,2024-04-10 03:18:00,Blocked suspicious account
+38,UPDATE,Customers,2024-02-22 23:15:00,Updated customer details
+25,LOGIN,Transactions,2024-01-08 08:32:00,Employee login
+40,UPDATE,Accounts,2024-09-02 17:59:00,Updated customer details
+16,BLOCK ACCOUNT,Devices,2024-11-20 16:18:00,Blocked suspicious account
+38,UNBLOCK ACCOUNT,Devices,2024-11-20 02:26:00,Unblocked verified account
+37,DELETE,Beneficiaries,2024-02-12 06:00:00,Deleted inactive record
+18,LOGIN,Customers,2024-04-17 10:37:00,Employee login
+36,APPROVE,Customers,2024-01-17 13:23:00,Approved transaction
+19,BLOCK ACCOUNT,Customers,2024-08-13 16:27:00,Blocked suspicious account
+23,BLOCK ACCOUNT,FraudAlerts,2024-01-01 17:57:00,Blocked suspicious account
+4,INSERT,Customers,2024-01-03 12:31:00,Inserted new record
+47,LOGIN,Beneficiaries,2024-07-03 05:23:00,Employee login
+23,DELETE,FraudAlerts,2024-09-02 11:11:00,Deleted inactive record
+22,UNBLOCK ACCOUNT,Beneficiaries,2024-04-02 08:39:00,Unblocked verified account
+44,UNBLOCK ACCOUNT,FraudAlerts,2024-10-09 14:43:00,Unblocked verified account
+5,UNBLOCK ACCOUNT,Accounts,2024-07-08 02:20:00,Unblocked verified account
+25,DELETE,Devices,2024-11-03 00:54:00,Deleted inactive record
+48,BLOCK ACCOUNT,Cards,2024-02-02 09:59:00,Blocked suspicious account
+39,INSERT,Devices,2024-10-06 21:38:00,Inserted new record
+47,UNBLOCK ACCOUNT,Customers,2024-11-08 22:08:00,Unblocked verified account
+32,LOGIN,Accounts,2024-06-25 22:26:00,Employee login
+43,UNBLOCK ACCOUNT,Devices,2024-05-16 13:25:00,Unblocked verified account
+50,INSERT,Accounts,2024-08-05 12:09:00,Inserted new record
+37,INSERT,Customers,2024-03-19 21:42:00,Inserted new record
+34,LOGIN,Transactions,2024-02-05 05:52:00,Employee login
+29,BLOCK ACCOUNT,FraudAlerts,2024-05-01 08:47:00,Blocked suspicious account
+42,LOGIN,Accounts,2024-09-21 14:00:00,Employee login
+42,BLOCK ACCOUNT,Beneficiaries,2024-09-17 05:22:00,Blocked suspicious account
+43,UNBLOCK ACCOUNT,Transactions,2024-12-02 07:38:00,Unblocked verified account
+50,LOGIN,FraudAlerts,2024-11-21 16:57:00,Employee login
+30,APPROVE,Customers,2024-11-06 11:16:00,Approved transaction
+1,APPROVE,Accounts,2024-01-16 04:50:00,Approved transaction
+12,LOGIN,FraudAlerts,2024-02-19 01:14:00,Employee login
+13,DELETE,Customers,2024-08-04 14:32:00,Deleted inactive record
+46,UNBLOCK ACCOUNT,Accounts,2024-05-10 03:27:00,Unblocked verified account
+49,DELETE,Accounts,2024-02-09 23:21:00,Deleted inactive record
+12,INSERT,Customers,2024-11-11 03:56:00,Inserted new record
+22,INSERT,FraudAlerts,2024-09-24 11:25:00,Inserted new record
+27,BLOCK ACCOUNT,Devices,2024-01-06 02:16:00,Blocked suspicious account
+39,BLOCK ACCOUNT,Transactions,2024-03-08 11:17:00,Blocked suspicious account
+23,BLOCK ACCOUNT,Transactions,2024-07-05 09:29:00,Blocked suspicious account
+15,BLOCK ACCOUNT,Cards,2024-03-18 04:07:00,Blocked suspicious account
+13,UPDATE,Beneficiaries,2024-07-23 13:41:00,Updated customer details
+37,UNBLOCK ACCOUNT,Accounts,2024-07-31 05:22:00,Unblocked verified account
+8,INSERT,Transactions,2024-09-08 02:04:00,Inserted new record
+3,UNBLOCK ACCOUNT,Transactions,2024-07-07 11:40:00,Unblocked verified account
+15,LOGIN,FraudAlerts,2024-02-19 11:27:00,Employee login
+37,INSERT,Accounts,2024-09-28 08:59:00,Inserted new record
+26,UPDATE,Transactions,2024-04-23 07:59:00,Updated customer details
+27,UPDATE,Beneficiaries,2024-07-27 03:28:00,Updated customer details
+34,DELETE,Beneficiaries,2024-07-07 20:10:00,Deleted inactive record
+7,DELETE,Accounts,2024-04-18 05:28:00,Deleted inactive record
+24,UPDATE,Devices,2024-11-15 17:22:00,Updated customer details
+48,APPROVE,Customers,2024-11-14 22:13:00,Approved transaction
+2,INSERT,Cards,2024-02-27 18:46:00,Inserted new record
+44,LOGIN,FraudAlerts,2024-06-16 23:02:00,Employee login
+24,APPROVE,Devices,2024-08-10 14:02:00,Approved transaction
+7,UPDATE,Transactions,2024-03-27 21:20:00,Updated customer details
+32,APPROVE,Cards,2024-04-22 20:52:00,Approved transaction
+16,UPDATE,Customers,2024-07-20 19:03:00,Updated customer details
+1,INSERT,Cards,2024-08-14 09:20:00,Inserted new record
+33,DELETE,FraudAlerts,2024-09-07 18:44:00,Deleted inactive record
+45,DELETE,FraudAlerts,2024-01-03 11:15:00,Deleted inactive record
+46,LOGIN,Customers,2024-04-15 23:26:00,Employee login
+10,UPDATE,Customers,2024-04-18 15:13:00,Updated customer details
+35,APPROVE,Customers,2024-11-29 13:54:00,Approved transaction
+10,UPDATE,Devices,2024-11-04 19:50:00,Updated customer details
+46,LOGIN,Transactions,2024-04-10 22:59:00,Employee login
+27,INSERT,Transactions,2024-04-28 11:24:00,Inserted new record
+2,DELETE,Accounts,2024-06-15 14:28:00,Deleted inactive record
+19,INSERT,Beneficiaries,2024-08-17 17:06:00,Inserted new record
+16,LOGIN,Cards,2024-01-31 16:30:00,Employee login
+32,LOGIN,Accounts,2024-11-26 01:08:00,Employee login
+38,UNBLOCK ACCOUNT,Transactions,2024-06-19 11:10:00,Unblocked verified account
+27,UPDATE,FraudAlerts,2024-06-18 17:51:00,Updated customer details
+50,INSERT,Beneficiaries,2024-11-11 18:03:00,Inserted new record
+11,INSERT,Accounts,2024-01-23 21:29:00,Inserted new record
+3,UPDATE,Beneficiaries,2024-06-23 14:11:00,Updated customer details
+25,UNBLOCK ACCOUNT,Devices,2024-08-17 14:00:00,Unblocked verified account
+13,UPDATE,Customers,2024-05-31 03:45:00,Updated customer details
+43,DELETE,Accounts,2024-09-30 15:03:00,Deleted inactive record
+23,INSERT,Cards,2024-08-14 03:26:00,Inserted new record
+42,INSERT,Cards,2024-08-19 04:57:00,Inserted new record
+28,DELETE,Customers,2024-02-04 17:06:00,Deleted inactive record
+17,INSERT,Cards,2024-06-23 18:41:00,Inserted new record
+25,LOGIN,Cards,2024-06-30 08:07:00,Employee login
+44,DELETE,Devices,2024-04-15 13:05:00,Deleted inactive record
+7,UPDATE,Devices,2024-08-21 12:26:00,Updated customer details
+10,LOGIN,Customers,2024-09-13 00:35:00,Employee login
+43,INSERT,Transactions,2024-07-05 03:38:00,Inserted new record
+18,INSERT,Beneficiaries,2024-11-26 23:15:00,Inserted new record
+27,LOGIN,Customers,2024-06-24 03:51:00,Employee login
+6,INSERT,Beneficiaries,2024-06-15 00:22:00,Inserted new record
+15,LOGIN,Devices,2024-11-15 05:39:00,Employee login
+44,APPROVE,Transactions,2024-03-03 02:30:00,Approved transaction
+30,UPDATE,Transactions,2024-09-24 19:17:00,Updated customer details
+41,INSERT,Cards,2024-01-29 07:48:00,Inserted new record
+47,LOGIN,FraudAlerts,2024-07-20 00:38:00,Employee login
+16,DELETE,Devices,2024-05-24 06:00:00,Deleted inactive record
+13,APPROVE,Customers,2024-04-05 02:03:00,Approved transaction
+22,UNBLOCK ACCOUNT,Accounts,2024-08-20 21:58:00,Unblocked verified account
+24,LOGIN,Accounts,2024-02-18 06:46:00,Employee login
+22,LOGIN,Transactions,2024-08-27 21:22:00,Employee login
+49,INSERT,FraudAlerts,2024-08-01 02:55:00,Inserted new record
+42,DELETE,Cards,2024-05-15 06:07:00,Deleted inactive record
+1,DELETE,Cards,2024-07-31 15:12:00,Deleted inactive record
+45,LOGIN,Devices,2024-07-13 15:52:00,Employee login
+23,LOGIN,Beneficiaries,2024-07-19 08:44:00,Employee login
+49,LOGIN,Cards,2024-06-03 06:42:00,Employee login
+33,LOGIN,Accounts,2024-05-21 08:15:00,Employee login
+22,APPROVE,FraudAlerts,2024-05-09 11:35:00,Approved transaction
+28,UNBLOCK ACCOUNT,Devices,2024-03-31 11:51:00,Unblocked verified account
+1,UNBLOCK ACCOUNT,Devices,2024-11-24 17:54:00,Unblocked verified account
+47,LOGIN,Customers,2024-06-02 05:12:00,Employee login
+19,APPROVE,Transactions,2024-11-11 13:35:00,Approved transaction
+41,DELETE,Accounts,2024-11-06 11:26:00,Deleted inactive record
+49,UPDATE,Devices,2024-01-10 11:34:00,Updated customer details
+37,UNBLOCK ACCOUNT,FraudAlerts,2024-03-15 01:30:00,Unblocked verified account
+46,BLOCK ACCOUNT,Cards,2024-09-04 23:35:00,Blocked suspicious account
+49,INSERT,Customers,2024-02-26 05:36:00,Inserted new record
+23,INSERT,Devices,2024-01-27 04:45:00,Inserted new record
+40,UPDATE,Accounts,2024-06-07 12:53:00,Updated customer details
+4,UPDATE,Transactions,2024-11-13 01:42:00,Updated customer details
+40,APPROVE,Customers,2024-06-14 21:08:00,Approved transaction
+19,BLOCK ACCOUNT,Cards,2024-05-17 05:03:00,Blocked suspicious account
+18,APPROVE,FraudAlerts,2024-05-13 17:57:00,Approved transaction
+48,APPROVE,Beneficiaries,2024-02-08 15:03:00,Approved transaction
+19,LOGIN,Devices,2024-11-12 16:30:00,Employee login
+48,INSERT,Cards,2024-10-18 23:59:00,Inserted new record
+24,DELETE,Beneficiaries,2024-07-26 07:50:00,Deleted inactive record
+45,APPROVE,Customers,2024-06-13 00:33:00,Approved transaction
+16,APPROVE,Cards,2024-08-25 16:59:00,Approved transaction
+16,DELETE,Customers,2024-04-05 03:08:00,Deleted inactive record
+31,LOGIN,Transactions,2024-06-06 01:19:00,Employee login
+9,INSERT,Devices,2024-10-25 01:30:00,Inserted new record
+1,UNBLOCK ACCOUNT,Devices,2024-06-29 00:32:00,Unblocked verified account
+48,BLOCK ACCOUNT,Cards,2024-10-02 15:37:00,Blocked suspicious account
+33,LOGIN,Devices,2024-06-10 15:25:00,Employee login
+3,LOGIN,Accounts,2024-08-01 04:40:00,Employee login
+39,APPROVE,Cards,2024-01-15 15:20:00,Approved transaction
+42,APPROVE,Transactions,2024-11-03 11:08:00,Approved transaction
+42,INSERT,Transactions,2024-10-04 11:14:00,Inserted new record
+8,APPROVE,Devices,2024-10-23 11:40:00,Approved transaction
+32,LOGIN,FraudAlerts,2024-12-12 19:20:00,Employee login
+8,LOGIN,Transactions,2024-10-13 16:19:00,Employee login
+26,LOGIN,Cards,2024-12-11 13:41:00,Employee login
+8,DELETE,Devices,2024-01-31 12:09:00,Deleted inactive record
+43,BLOCK ACCOUNT,Cards,2024-09-08 06:24:00,Blocked suspicious account
+48,UPDATE,Cards,2024-11-10 09:42:00,Updated customer details
+26,LOGIN,FraudAlerts,2024-02-01 01:59:00,Employee login
+39,DELETE,Devices,2024-09-17 12:52:00,Deleted inactive record
+3,INSERT,FraudAlerts,2024-11-02 08:32:00,Inserted new record
+20,DELETE,FraudAlerts,2024-04-06 03:53:00,Deleted inactive record
+45,LOGIN,Devices,2024-06-29 07:29:00,Employee login
+27,APPROVE,Customers,2024-08-11 00:21:00,Approved transaction
+2,LOGIN,Cards,2024-04-02 20:52:00,Employee login
+10,LOGIN,Accounts,2024-09-11 16:11:00,Employee login
+34,DELETE,Devices,2024-07-27 03:34:00,Deleted inactive record
+27,UNBLOCK ACCOUNT,Devices,2024-11-15 00:55:00,Unblocked verified account
+36,BLOCK ACCOUNT,Cards,2024-01-02 15:41:00,Blocked suspicious account
+24,UPDATE,Accounts,2024-11-11 07:04:00,Updated customer details
+24,UNBLOCK ACCOUNT,Customers,2024-01-29 21:07:00,Unblocked verified account
+42,LOGIN,Beneficiaries,2024-11-10 15:50:00,Employee login
+18,LOGIN,Customers,2024-07-14 12:52:00,Employee login
+14,DELETE,Accounts,2024-10-02 05:28:00,Deleted inactive record
+22,LOGIN,Cards,2024-09-27 22:54:00,Employee login
+45,LOGIN,Cards,2024-11-28 08:32:00,Employee login
+23,LOGIN,Beneficiaries,2024-04-17 23:36:00,Employee login
+4,DELETE,Customers,2024-10-01 00:20:00,Deleted inactive record
+31,APPROVE,Devices,2024-01-12 17:45:00,Approved transaction
+40,UPDATE,Beneficiaries,2024-03-10 11:16:00,Updated customer details
+46,DELETE,Transactions,2024-04-06 18:44:00,Deleted inactive record
+46,BLOCK ACCOUNT,FraudAlerts,2024-07-06 04:04:00,Blocked suspicious account
+26,UNBLOCK ACCOUNT,Cards,2024-04-10 17:10:00,Unblocked verified account
+33,INSERT,Devices,2024-09-14 14:24:00,Inserted new record
+32,BLOCK ACCOUNT,Devices,2024-06-03 21:35:00,Blocked suspicious account
+43,UPDATE,Beneficiaries,2024-10-29 17:47:00,Updated customer details
+47,UPDATE,Accounts,2024-06-18 03:14:00,Updated customer details
+27,APPROVE,Cards,2024-07-20 16:09:00,Approved transaction
+43,UPDATE,Accounts,2024-11-16 05:27:00,Updated customer details
+21,APPROVE,Devices,2024-08-30 15:02:00,Approved transaction
+25,UPDATE,Beneficiaries,2024-07-07 18:13:00,Updated customer details
+12,UNBLOCK ACCOUNT,Beneficiaries,2024-10-11 23:03:00,Unblocked verified account
+28,DELETE,Devices,2024-03-12 00:21:00,Deleted inactive record
+49,INSERT,Transactions,2024-10-05 14:19:00,Inserted new record
+15,DELETE,Transactions,2024-04-08 09:50:00,Deleted inactive record
+8,DELETE,Beneficiaries,2024-11-03 05:24:00,Deleted inactive record
+9,UPDATE,FraudAlerts,2024-08-17 07:50:00,Updated customer details
+6,INSERT,Devices,2024-10-20 19:10:00,Inserted new record
+16,DELETE,Customers,2024-09-05 10:13:00,Deleted inactive record
+7,INSERT,Devices,2024-04-11 22:44:00,Inserted new record
+11,UPDATE,Transactions,2024-07-25 13:11:00,Updated customer details
+19,BLOCK ACCOUNT,FraudAlerts,2024-04-01 12:56:00,Blocked suspicious account
+15,UNBLOCK ACCOUNT,Cards,2024-11-18 08:06:00,Unblocked verified account
+8,LOGIN,Cards,2024-12-09 02:41:00,Employee login
+23,DELETE,Cards,2024-07-09 17:12:00,Deleted inactive record
+12,APPROVE,Beneficiaries,2024-11-30 07:11:00,Approved transaction
+40,DELETE,Cards,2024-06-17 14:06:00,Deleted inactive record
+24,LOGIN,FraudAlerts,2024-10-20 01:52:00,Employee login
+40,DELETE,Customers,2024-09-17 08:38:00,Deleted inactive record
+1,BLOCK ACCOUNT,Beneficiaries,2024-08-09 21:37:00,Blocked suspicious account
+22,INSERT,Beneficiaries,2024-04-10 05:59:00,Inserted new record
+28,UNBLOCK ACCOUNT,Accounts,2024-10-19 09:48:00,Unblocked verified account
+28,APPROVE,Transactions,2024-02-19 07:30:00,Approved transaction
+3,UPDATE,Devices,2024-09-22 07:05:00,Updated customer details
+35,BLOCK ACCOUNT,Cards,2024-07-12 01:54:00,Blocked suspicious account
+29,DELETE,Accounts,2024-07-05 17:05:00,Deleted inactive record
+6,DELETE,Accounts,2024-11-13 22:44:00,Deleted inactive record
+19,INSERT,Transactions,2024-10-26 05:43:00,Inserted new record
+25,UNBLOCK ACCOUNT,Accounts,2024-11-20 03:24:00,Unblocked verified account
+20,LOGIN,Cards,2024-06-29 06:37:00,Employee login
+49,APPROVE,Accounts,2024-02-02 03:41:00,Approved transaction
+4,DELETE,Transactions,2024-11-24 02:21:00,Deleted inactive record
+1,INSERT,Transactions,2024-08-28 05:09:00,Inserted new record
+48,UPDATE,Devices,2024-10-31 07:52:00,Updated customer details
+6,INSERT,FraudAlerts,2024-06-23 18:57:00,Inserted new record
+46,INSERT,Cards,2024-08-24 04:47:00,Inserted new record
+36,UPDATE,Transactions,2024-06-29 05:37:00,Updated customer details
+43,BLOCK ACCOUNT,Accounts,2024-11-30 20:38:00,Blocked suspicious account
+17,UNBLOCK ACCOUNT,Beneficiaries,2024-10-31 07:40:00,Unblocked verified account
+16,UNBLOCK ACCOUNT,FraudAlerts,2024-03-19 19:25:00,Unblocked verified account
+41,DELETE,Accounts,2024-09-02 06:08:00,Deleted inactive record
+14,LOGIN,Accounts,2024-02-09 03:31:00,Employee login
+22,UNBLOCK ACCOUNT,Transactions,2024-07-04 00:24:00,Unblocked verified account
+44,APPROVE,Accounts,2024-04-25 13:41:00,Approved transaction
+39,LOGIN,Devices,2024-09-21 19:43:00,Employee login
+28,UNBLOCK ACCOUNT,FraudAlerts,2024-11-19 14:11:00,Unblocked verified account
+43,INSERT,Transactions,2024-11-18 09:42:00,Inserted new record
+23,LOGIN,Customers,2024-03-25 15:48:00,Employee login
+28,UNBLOCK ACCOUNT,Devices,2024-03-19 20:08:00,Unblocked verified account
+20,INSERT,Customers,2024-01-16 18:23:00,Inserted new record
+48,BLOCK ACCOUNT,Beneficiaries,2024-03-23 08:32:00,Blocked suspicious account
+45,LOGIN,Cards,2024-09-03 02:01:00,Employee login
+13,DELETE,Accounts,2024-07-19 19:58:00,Deleted inactive record
+49,UNBLOCK ACCOUNT,Transactions,2024-02-06 12:48:00,Unblocked verified account
+4,LOGIN,Devices,2024-03-10 20:01:00,Employee login
+43,BLOCK ACCOUNT,Accounts,2024-11-01 09:04:00,Blocked suspicious account
+32,DELETE,Devices,2024-01-16 00:46:00,Deleted inactive record
+44,BLOCK ACCOUNT,FraudAlerts,2024-07-22 11:06:00,Blocked suspicious account
+29,INSERT,Customers,2024-04-12 09:08:00,Inserted new record
+44,DELETE,Accounts,2024-12-03 13:58:00,Deleted inactive record
+3,DELETE,Cards,2024-01-07 11:35:00,Deleted inactive record
+14,LOGIN,Cards,2024-12-05 10:10:00,Employee login
+12,INSERT,Customers,2024-10-12 07:17:00,Inserted new record
+21,UPDATE,Accounts,2024-12-08 14:47:00,Updated customer details
+18,LOGIN,Beneficiaries,2024-10-16 22:15:00,Employee login
+19,APPROVE,Customers,2024-10-06 23:39:00,Approved transaction
+10,APPROVE,Transactions,2024-03-02 20:56:00,Approved transaction
+26,APPROVE,Customers,2024-02-11 10:41:00,Approved transaction
+2,BLOCK ACCOUNT,Devices,2024-06-21 11:02:00,Blocked suspicious account
+16,INSERT,Cards,2024-12-06 19:14:00,Inserted new record
+9,UPDATE,Accounts,2024-04-10 07:24:00,Updated customer details
+41,UPDATE,Customers,2024-11-11 13:36:00,Updated customer details
+29,BLOCK ACCOUNT,Accounts,2024-11-29 20:43:00,Blocked suspicious account
+15,UPDATE,Devices,2024-11-25 05:34:00,Updated customer details
+42,APPROVE,FraudAlerts,2024-05-14 08:02:00,Approved transaction
+21,LOGIN,FraudAlerts,2024-11-01 22:48:00,Employee login
+34,APPROVE,Devices,2024-06-19 17:56:00,Approved transaction
+37,UNBLOCK ACCOUNT,Transactions,2024-12-06 08:50:00,Unblocked verified account
+29,UPDATE,Devices,2024-11-07 15:39:00,Updated customer details
+35,UNBLOCK ACCOUNT,Devices,2024-08-18 03:06:00,Unblocked verified account
+11,DELETE,Cards,2024-01-19 03:46:00,Deleted inactive record
+40,APPROVE,Beneficiaries,2024-03-30 20:12:00,Approved transaction
+40,INSERT,Accounts,2024-03-26 03:48:00,Inserted new record
+24,INSERT,Accounts,2024-06-08 07:37:00,Inserted new record
+38,INSERT,Devices,2024-01-08 14:51:00,Inserted new record
+20,BLOCK ACCOUNT,Transactions,2024-03-18 12:45:00,Blocked suspicious account
+13,DELETE,Customers,2024-11-18 19:05:00,Deleted inactive record
+16,UNBLOCK ACCOUNT,Accounts,2024-11-15 08:59:00,Unblocked verified account
+14,APPROVE,Customers,2024-08-04 05:43:00,Approved transaction
+45,INSERT,Cards,2024-03-19 08:07:00,Inserted new record
+5,APPROVE,Devices,2024-07-15 22:51:00,Approved transaction
+14,BLOCK ACCOUNT,FraudAlerts,2024-08-12 18:07:00,Blocked suspicious account
+16,APPROVE,Cards,2024-06-09 22:36:00,Approved transaction
+36,INSERT,FraudAlerts,2024-08-13 21:30:00,Inserted new record
+44,UPDATE,Devices,2024-09-19 18:42:00,Updated customer details
+17,UPDATE,Cards,2024-05-02 01:54:00,Updated customer details
+22,INSERT,Transactions,2024-04-22 23:18:00,Inserted new record
+15,INSERT,Accounts,2024-02-27 06:50:00,Inserted new record
+50,UNBLOCK ACCOUNT,Transactions,2024-07-17 03:11:00,Unblocked verified account
+36,DELETE,Transactions,2024-10-26 17:31:00,Deleted inactive record
+7,BLOCK ACCOUNT,FraudAlerts,2024-11-10 01:44:00,Blocked suspicious account
+27,LOGIN,Devices,2024-10-04 21:11:00,Employee login
+44,BLOCK ACCOUNT,Beneficiaries,2024-08-24 05:16:00,Blocked suspicious account
+31,DELETE,FraudAlerts,2024-01-02 16:53:00,Deleted inactive record
+14,UNBLOCK ACCOUNT,Customers,2024-07-07 20:50:00,Unblocked verified account
+36,DELETE,Accounts,2024-10-04 15:57:00,Deleted inactive record
+34,UPDATE,Accounts,2024-09-13 03:37:00,Updated customer details
+38,APPROVE,Beneficiaries,2024-03-02 15:10:00,Approved transaction
+46,INSERT,Beneficiaries,2024-07-28 00:17:00,Inserted new record
+30,DELETE,FraudAlerts,2024-10-17 20:23:00,Deleted inactive record
+6,DELETE,Customers,2024-07-03 06:27:00,Deleted inactive record
+35,LOGIN,Devices,2024-08-10 05:56:00,Employee login
+25,DELETE,Transactions,2024-01-28 08:05:00,Deleted inactive record
+29,UNBLOCK ACCOUNT,Customers,2024-11-23 08:07:00,Unblocked verified account
+37,BLOCK ACCOUNT,Accounts,2024-08-02 09:45:00,Blocked suspicious account
+9,LOGIN,Transactions,2024-08-06 13:17:00,Employee login
+3,DELETE,Cards,2024-02-15 21:48:00,Deleted inactive record
+47,INSERT,Customers,2024-09-20 20:17:00,Inserted new record
+9,APPROVE,Customers,2024-11-24 23:03:00,Approved transaction
+48,UNBLOCK ACCOUNT,FraudAlerts,2024-07-13 18:06:00,Unblocked verified account
+31,LOGIN,Customers,2024-02-18 07:58:00,Employee login
+42,DELETE,Customers,2024-05-16 07:15:00,Deleted inactive record
+47,UPDATE,Accounts,2024-07-12 20:42:00,Updated customer details
+18,INSERT,Transactions,2024-11-07 06:07:00,Inserted new record
+33,BLOCK ACCOUNT,Customers,2024-02-22 01:40:00,Blocked suspicious account
+25,UNBLOCK ACCOUNT,Beneficiaries,2024-11-04 17:07:00,Unblocked verified account
+1,LOGIN,Accounts,2024-08-10 06:09:00,Employee login
+39,UPDATE,Devices,2024-03-19 01:50:00,Updated customer details
+47,BLOCK ACCOUNT,Cards,2024-01-28 03:49:00,Blocked suspicious account
+12,BLOCK ACCOUNT,Accounts,2024-12-05 04:01:00,Blocked suspicious account
+28,INSERT,Cards,2024-03-16 13:48:00,Inserted new record
+11,DELETE,Cards,2024-10-14 05:21:00,Deleted inactive record
+11,BLOCK ACCOUNT,Cards,2024-06-13 16:20:00,Blocked suspicious account
+28,UNBLOCK ACCOUNT,Beneficiaries,2024-05-23 14:45:00,Unblocked verified account
+12,UPDATE,Devices,2024-10-29 09:36:00,Updated customer details
+28,DELETE,Cards,2024-06-14 08:20:00,Deleted inactive record
+14,UNBLOCK ACCOUNT,Cards,2024-10-05 05:44:00,Unblocked verified account
+35,UNBLOCK ACCOUNT,FraudAlerts,2024-10-24 12:18:00,Unblocked verified account
+30,BLOCK ACCOUNT,Cards,2024-01-05 09:55:00,Blocked suspicious account
+27,BLOCK ACCOUNT,Transactions,2024-01-07 14:35:00,Blocked suspicious account
+21,APPROVE,Cards,2024-11-25 00:03:00,Approved transaction
+44,BLOCK ACCOUNT,Devices,2024-05-19 03:11:00,Blocked suspicious account
+26,BLOCK ACCOUNT,Devices,2024-05-17 09:42:00,Blocked suspicious account
+36,UPDATE,Transactions,2024-09-14 04:58:00,Updated customer details
+17,BLOCK ACCOUNT,Beneficiaries,2024-04-16 15:04:00,Blocked suspicious account
+49,BLOCK ACCOUNT,Beneficiaries,2024-03-22 14:32:00,Blocked suspicious account
+50,LOGIN,Cards,2024-10-23 23:39:00,Employee login
+17,INSERT,Cards,2024-08-15 02:30:00,Inserted new record
+48,INSERT,Accounts,2024-04-08 07:16:00,Inserted new record
+2,DELETE,Devices,2024-08-30 18:27:00,Deleted inactive record
+27,DELETE,Devices,2024-09-10 08:14:00,Deleted inactive record
+23,UPDATE,Cards,2024-09-08 03:52:00,Updated customer details
+35,APPROVE,Devices,2024-01-16 19:58:00,Approved transaction
+50,APPROVE,Cards,2024-03-15 16:19:00,Approved transaction
+16,INSERT,FraudAlerts,2024-10-10 07:18:00,Inserted new record
+12,UPDATE,FraudAlerts,2024-11-16 09:18:00,Updated customer details
+7,DELETE,Customers,2024-06-24 10:00:00,Deleted inactive record
+3,DELETE,Accounts,2024-04-10 16:52:00,Deleted inactive record
+23,UPDATE,Cards,2024-01-06 19:47:00,Updated customer details
+32,INSERT,Customers,2024-02-15 00:40:00,Inserted new record
+33,LOGIN,Devices,2024-01-29 23:04:00,Employee login
+25,INSERT,Accounts,2024-09-11 10:44:00,Inserted new record
+45,UPDATE,FraudAlerts,2024-03-05 05:36:00,Updated customer details
+28,BLOCK ACCOUNT,Cards,2024-05-16 13:48:00,Blocked suspicious account
+50,APPROVE,Accounts,2024-08-04 16:14:00,Approved transaction
+28,UPDATE,FraudAlerts,2024-08-01 09:17:00,Updated customer details
+21,BLOCK ACCOUNT,Cards,2024-08-07 18:52:00,Blocked suspicious account
+24,UNBLOCK ACCOUNT,Cards,2024-04-24 14:16:00,Unblocked verified account
+45,UPDATE,Customers,2024-03-04 05:02:00,Updated customer details
+25,INSERT,Customers,2024-04-05 20:33:00,Inserted new record
+21,DELETE,Transactions,2024-01-31 11:47:00,Deleted inactive record
+39,UPDATE,Transactions,2024-02-14 02:27:00,Updated customer details
+6,UPDATE,FraudAlerts,2024-07-18 09:08:00,Updated customer details
+14,UPDATE,Cards,2024-04-19 19:53:00,Updated customer details
+41,BLOCK ACCOUNT,Accounts,2024-11-28 15:19:00,Blocked suspicious account
+24,INSERT,Accounts,2024-11-27 06:10:00,Inserted new record
+5,UPDATE,Beneficiaries,2024-10-29 09:37:00,Updated customer details
+1,UNBLOCK ACCOUNT,Accounts,2024-07-25 22:45:00,Unblocked verified account
+11,UPDATE,Transactions,2024-04-13 11:20:00,Updated customer details
+10,APPROVE,Devices,2024-09-22 11:40:00,Approved transaction
+35,UPDATE,FraudAlerts,2024-11-20 10:11:00,Updated customer details
+22,UPDATE,FraudAlerts,2024-10-29 18:25:00,Updated customer details
+29,UNBLOCK ACCOUNT,Devices,2024-09-21 07:43:00,Unblocked verified account
+20,DELETE,Cards,2024-01-02 14:05:00,Deleted inactive record
+45,DELETE,Transactions,2024-07-10 14:22:00,Deleted inactive record
+17,DELETE,Beneficiaries,2024-06-10 23:25:00,Deleted inactive record
+36,UNBLOCK ACCOUNT,Accounts,2024-09-12 16:39:00,Unblocked verified account
+34,UNBLOCK ACCOUNT,Customers,2024-03-17 04:39:00,Unblocked verified account
+35,UNBLOCK ACCOUNT,Beneficiaries,2024-03-19 19:04:00,Unblocked verified account
+49,DELETE,Devices,2024-08-16 12:35:00,Deleted inactive record
+31,LOGIN,Accounts,2024-11-20 23:20:00,Employee login
+27,APPROVE,Accounts,2024-05-01 15:01:00,Approved transaction
+11,BLOCK ACCOUNT,Customers,2024-08-03 23:46:00,Blocked suspicious account
+45,LOGIN,FraudAlerts,2024-11-18 11:57:00,Employee login
+46,DELETE,FraudAlerts,2024-11-19 22:52:00,Deleted inactive record
+6,UPDATE,Cards,2024-06-30 09:18:00,Updated customer details
+40,BLOCK ACCOUNT,Cards,2024-03-12 03:00:00,Blocked suspicious account
+49,BLOCK ACCOUNT,Transactions,2024-11-20 16:42:00,Blocked suspicious account
+40,APPROVE,Transactions,2024-03-19 19:10:00,Approved transaction
+7,DELETE,Cards,2024-02-23 23:03:00,Deleted inactive record
+15,UPDATE,Beneficiaries,2024-10-05 23:07:00,Updated customer details
+42,BLOCK ACCOUNT,Beneficiaries,2024-03-02 07:48:00,Blocked suspicious account
+2,LOGIN,Transactions,2024-03-26 05:31:00,Employee login
+34,BLOCK ACCOUNT,Beneficiaries,2024-08-29 23:32:00,Blocked suspicious account
+36,BLOCK ACCOUNT,Customers,2024-08-25 05:52:00,Blocked suspicious account
+37,UNBLOCK ACCOUNT,FraudAlerts,2024-11-09 13:01:00,Unblocked verified account
+38,BLOCK ACCOUNT,Devices,2024-04-03 15:57:00,Blocked suspicious account
+37,APPROVE,Devices,2024-10-24 20:04:00,Approved transaction
+37,APPROVE,Cards,2024-11-15 18:23:00,Approved transaction
+20,LOGIN,FraudAlerts,2024-10-19 11:45:00,Employee login
+18,INSERT,Customers,2024-08-18 03:27:00,Inserted new record
+14,INSERT,Devices,2024-03-20 08:48:00,Inserted new record
+31,UPDATE,Beneficiaries,2024-01-31 23:10:00,Updated customer details
+15,LOGIN,Transactions,2024-02-27 21:57:00,Employee login
+10,BLOCK ACCOUNT,Accounts,2024-10-01 14:42:00,Blocked suspicious account
+22,APPROVE,FraudAlerts,2024-01-22 14:34:00,Approved transaction
+30,LOGIN,FraudAlerts,2024-08-24 12:59:00,Employee login
+33,BLOCK ACCOUNT,Beneficiaries,2024-04-26 17:52:00,Blocked suspicious account
+4,DELETE,Accounts,2024-09-11 10:18:00,Deleted inactive record
+49,APPROVE,FraudAlerts,2024-04-21 07:05:00,Approved transaction
+11,BLOCK ACCOUNT,Devices,2024-09-19 13:24:00,Blocked suspicious account
+21,UNBLOCK ACCOUNT,Accounts,2024-11-10 18:54:00,Unblocked verified account
+2,INSERT,FraudAlerts,2024-11-06 15:42:00,Inserted new record
+39,UPDATE,Accounts,2024-11-14 11:54:00,Updated customer details
+34,UPDATE,Beneficiaries,2024-11-19 16:29:00,Updated customer details
+32,APPROVE,FraudAlerts,2024-05-17 14:00:00,Approved transaction
+33,UNBLOCK ACCOUNT,Cards,2024-08-12 15:17:00,Unblocked verified account
+32,APPROVE,FraudAlerts,2024-07-20 23:23:00,Approved transaction
+30,UNBLOCK ACCOUNT,FraudAlerts,2024-11-26 09:54:00,Unblocked verified account
+44,BLOCK ACCOUNT,Transactions,2024-04-16 07:24:00,Blocked suspicious account
+34,DELETE,Cards,2024-06-21 10:21:00,Deleted inactive record
+23,APPROVE,Customers,2024-11-20 01:03:00,Approved transaction
+46,INSERT,Transactions,2024-11-06 21:38:00,Inserted new record
+36,UPDATE,Transactions,2024-11-06 20:29:00,Updated customer details
+30,UNBLOCK ACCOUNT,FraudAlerts,2024-08-19 08:12:00,Unblocked verified account
+27,UPDATE,Accounts,2024-10-30 16:33:00,Updated customer details
+13,INSERT,Accounts,2024-04-22 23:24:00,Inserted new record
+5,UPDATE,FraudAlerts,2024-04-18 14:37:00,Updated customer details
+39,APPROVE,Customers,2024-11-02 01:30:00,Approved transaction
+35,INSERT,Accounts,2024-04-22 03:43:00,Inserted new record
+9,UNBLOCK ACCOUNT,Customers,2024-06-25 22:24:00,Unblocked verified account
+26,UPDATE,Devices,2024-07-21 08:58:00,Updated customer details
+25,INSERT,Customers,2024-05-08 03:54:00,Inserted new record
+25,APPROVE,Transactions,2024-07-13 20:46:00,Approved transaction
+22,LOGIN,Accounts,2024-05-18 09:19:00,Employee login
+43,UNBLOCK ACCOUNT,Devices,2024-04-17 08:51:00,Unblocked verified account
+1,INSERT,Beneficiaries,2024-02-08 18:10:00,Inserted new record
+16,DELETE,Cards,2024-02-05 13:20:00,Deleted inactive record
+23,BLOCK ACCOUNT,Cards,2024-10-07 09:20:00,Blocked suspicious account
+43,BLOCK ACCOUNT,Transactions,2024-11-06 06:17:00,Blocked suspicious account
+16,INSERT,Cards,2024-05-27 21:43:00,Inserted new record
+46,BLOCK ACCOUNT,Customers,2024-06-15 01:57:00,Blocked suspicious account
+14,INSERT,Beneficiaries,2024-01-10 12:58:00,Inserted new record
+37,APPROVE,Accounts,2024-07-16 06:00:00,Approved transaction
+49,UNBLOCK ACCOUNT,Devices,2024-10-03 15:14:00,Unblocked verified account
+32,DELETE,Devices,2024-08-31 03:36:00,Deleted inactive record
+48,DELETE,FraudAlerts,2024-09-28 09:41:00,Deleted inactive record
+29,DELETE,Accounts,2024-07-30 03:14:00,Deleted inactive record
+32,APPROVE,Cards,2024-02-20 15:34:00,Approved transaction
+22,LOGIN,Customers,2024-07-06 03:55:00,Employee login
+12,BLOCK ACCOUNT,FraudAlerts,2024-05-08 08:29:00,Blocked suspicious account
+38,UNBLOCK ACCOUNT,Devices,2024-09-19 04:46:00,Unblocked verified account
+32,INSERT,FraudAlerts,2024-07-23 06:56:00,Inserted new record
+37,UNBLOCK ACCOUNT,Beneficiaries,2024-08-21 19:35:00,Unblocked verified account
+41,INSERT,FraudAlerts,2024-03-18 07:40:00,Inserted new record
+32,DELETE,Customers,2024-10-20 13:04:00,Deleted inactive record
+14,INSERT,Transactions,2024-01-04 19:53:00,Inserted new record
+32,BLOCK ACCOUNT,Accounts,2024-03-27 01:18:00,Blocked suspicious account
+27,LOGIN,Customers,2024-01-13 21:35:00,Employee login
+41,BLOCK ACCOUNT,Customers,2024-02-26 17:03:00,Blocked suspicious account
+10,BLOCK ACCOUNT,Transactions,2024-12-04 13:58:00,Blocked suspicious account
+40,UNBLOCK ACCOUNT,Cards,2024-09-17 06:26:00,Unblocked verified account
+49,INSERT,Cards,2024-01-06 06:25:00,Inserted new record
+45,APPROVE,FraudAlerts,2024-10-04 06:21:00,Approved transaction
+13,DELETE,Transactions,2024-06-21 11:21:00,Deleted inactive record
+39,BLOCK ACCOUNT,Devices,2024-04-05 17:18:00,Blocked suspicious account
+32,UNBLOCK ACCOUNT,Transactions,2024-03-05 18:23:00,Unblocked verified account
+8,UPDATE,FraudAlerts,2024-01-11 07:01:00,Updated customer details
+37,LOGIN,FraudAlerts,2024-03-16 02:27:00,Employee login
+23,LOGIN,Customers,2024-05-11 11:42:00,Employee login
+40,UNBLOCK ACCOUNT,Transactions,2024-04-07 13:38:00,Unblocked verified account
+25,DELETE,Customers,2024-01-18 19:36:00,Deleted inactive record
+32,BLOCK ACCOUNT,Accounts,2024-04-28 16:13:00,Blocked suspicious account
+2,LOGIN,FraudAlerts,2024-03-16 00:44:00,Employee login
+36,INSERT,Customers,2024-07-13 01:48:00,Inserted new record
+30,UNBLOCK ACCOUNT,Accounts,2024-08-24 20:37:00,Unblocked verified account
+15,INSERT,Accounts,2024-07-02 00:56:00,Inserted new record
+43,INSERT,Customers,2024-01-26 21:18:00,Inserted new record
+16,BLOCK ACCOUNT,Devices,2024-07-31 19:01:00,Blocked suspicious account
+5,UPDATE,Devices,2024-07-24 08:08:00,Updated customer details
+37,BLOCK ACCOUNT,Accounts,2024-06-08 11:29:00,Blocked suspicious account
+46,APPROVE,Transactions,2024-01-17 00:52:00,Approved transaction
+30,INSERT,Customers,2024-06-23 08:04:00,Inserted new record
+34,APPROVE,Transactions,2024-10-24 20:49:00,Approved transaction
+18,LOGIN,FraudAlerts,2024-09-09 11:05:00,Employee login
+29,DELETE,Devices,2024-09-28 13:44:00,Deleted inactive record
+13,APPROVE,FraudAlerts,2024-11-17 09:03:00,Approved transaction
+35,DELETE,FraudAlerts,2024-04-26 11:35:00,Deleted inactive record
+40,UNBLOCK ACCOUNT,Beneficiaries,2024-05-18 08:58:00,Unblocked verified account
+46,BLOCK ACCOUNT,Customers,2024-10-18 23:02:00,Blocked suspicious account
+42,APPROVE,Beneficiaries,2024-02-10 05:42:00,Approved transaction
+17,INSERT,Devices,2024-03-20 03:16:00,Inserted new record
+39,DELETE,Customers,2024-07-01 21:37:00,Deleted inactive record
+15,UNBLOCK ACCOUNT,Devices,2024-04-26 09:54:00,Unblocked verified account
+22,INSERT,Beneficiaries,2024-04-03 21:39:00,Inserted new record
+49,APPROVE,Transactions,2024-12-10 17:31:00,Approved transaction
+9,LOGIN,Beneficiaries,2024-08-22 04:54:00,Employee login
+3,UNBLOCK ACCOUNT,Customers,2024-04-02 21:30:00,Unblocked verified account
+14,LOGIN,Devices,2024-11-20 14:23:00,Employee login
+22,APPROVE,Transactions,2024-02-18 17:33:00,Approved transaction
+39,APPROVE,Customers,2024-06-17 12:25:00,Approved transaction
+27,APPROVE,Accounts,2024-04-16 01:18:00,Approved transaction
+10,APPROVE,FraudAlerts,2024-09-13 02:09:00,Approved transaction
+25,DELETE,Accounts,2024-05-05 21:33:00,Deleted inactive record
+50,LOGIN,Devices,2024-05-30 10:45:00,Employee login
+34,BLOCK ACCOUNT,Devices,2024-07-31 01:38:00,Blocked suspicious account
+33,BLOCK ACCOUNT,Cards,2024-07-24 04:41:00,Blocked suspicious account
+26,UPDATE,Cards,2024-11-20 01:56:00,Updated customer details
+42,DELETE,Devices,2024-05-26 09:03:00,Deleted inactive record
+38,UPDATE,Customers,2024-07-12 11:12:00,Updated customer details
+47,DELETE,Transactions,2024-10-19 10:38:00,Deleted inactive record
+13,LOGIN,Beneficiaries,2024-11-17 02:52:00,Employee login
+13,UNBLOCK ACCOUNT,Devices,2024-12-08 05:34:00,Unblocked verified account
+18,UNBLOCK ACCOUNT,Devices,2024-07-14 06:56:00,Unblocked verified account
+8,LOGIN,Accounts,2024-03-28 12:49:00,Employee login
+9,UPDATE,Accounts,2024-11-14 22:39:00,Updated customer details
+13,LOGIN,Beneficiaries,2024-06-29 02:39:00,Employee login
+32,UNBLOCK ACCOUNT,Beneficiaries,2024-09-21 04:53:00,Unblocked verified account
+49,APPROVE,Beneficiaries,2024-02-27 14:32:00,Approved transaction
+33,BLOCK ACCOUNT,Devices,2024-08-16 11:23:00,Blocked suspicious account
+4,LOGIN,Beneficiaries,2024-09-16 03:41:00,Employee login
+29,INSERT,Accounts,2024-11-06 09:02:00,Inserted new record
+19,DELETE,FraudAlerts,2024-09-07 05:04:00,Deleted inactive record
+30,INSERT,Beneficiaries,2024-08-20 10:59:00,Inserted new record
+34,BLOCK ACCOUNT,Accounts,2024-10-11 08:33:00,Blocked suspicious account
+6,APPROVE,Cards,2024-07-20 14:26:00,Approved transaction
+22,BLOCK ACCOUNT,Transactions,2024-09-15 18:30:00,Blocked suspicious account
+7,LOGIN,Accounts,2024-05-14 22:43:00,Employee login
+45,UNBLOCK ACCOUNT,Accounts,2024-01-11 23:24:00,Unblocked verified account
+25,LOGIN,Accounts,2024-01-22 09:11:00,Employee login
+19,BLOCK ACCOUNT,Customers,2024-08-18 17:37:00,Blocked suspicious account
+9,INSERT,Customers,2024-04-26 04:37:00,Inserted new record
+3,LOGIN,Customers,2024-06-28 11:31:00,Employee login
+11,DELETE,Devices,2024-09-04 18:39:00,Deleted inactive record
+17,BLOCK ACCOUNT,Devices,2024-09-23 07:56:00,Blocked suspicious account
+37,UPDATE,FraudAlerts,2024-02-03 20:58:00,Updated customer details
+25,UPDATE,Transactions,2024-06-26 01:50:00,Updated customer details
+48,INSERT,Cards,2024-06-23 05:08:00,Inserted new record
+19,DELETE,Accounts,2024-09-16 00:41:00,Deleted inactive record
+35,APPROVE,Accounts,2024-11-11 05:44:00,Approved transaction
+8,DELETE,Beneficiaries,2024-06-14 00:16:00,Deleted inactive record
+15,APPROVE,Transactions,2024-12-03 00:44:00,Approved transaction
+38,UPDATE,Accounts,2024-04-08 14:23:00,Updated customer details
+50,LOGIN,Accounts,2024-05-21 13:59:00,Employee login
+49,INSERT,Beneficiaries,2024-09-07 15:31:00,Inserted new record
+42,LOGIN,Customers,2024-10-08 15:31:00,Employee login
+41,INSERT,FraudAlerts,2024-02-09 15:54:00,Inserted new record
+40,BLOCK ACCOUNT,Accounts,2024-03-27 03:13:00,Blocked suspicious account
+39,BLOCK ACCOUNT,Beneficiaries,2024-09-27 17:02:00,Blocked suspicious account
+18,UNBLOCK ACCOUNT,Customers,2024-01-31 18:31:00,Unblocked verified account
+19,UNBLOCK ACCOUNT,FraudAlerts,2024-09-20 22:31:00,Unblocked verified account
+42,UNBLOCK ACCOUNT,Transactions,2024-07-27 16:17:00,Unblocked verified account
+22,UPDATE,Cards,2024-06-26 03:40:00,Updated customer details
+18,UNBLOCK ACCOUNT,FraudAlerts,2024-12-02 22:44:00,Unblocked verified account
+48,APPROVE,Cards,2024-01-31 12:46:00,Approved transaction
+25,UNBLOCK ACCOUNT,Accounts,2024-07-18 10:23:00,Unblocked verified account
+41,BLOCK ACCOUNT,Accounts,2024-10-30 16:12:00,Blocked suspicious account
+38,UNBLOCK ACCOUNT,Devices,2024-04-02 05:59:00,Unblocked verified account
+19,BLOCK ACCOUNT,Transactions,2024-01-29 00:06:00,Blocked suspicious account
+16,LOGIN,Customers,2024-02-08 16:12:00,Employee login
+26,BLOCK ACCOUNT,Accounts,2024-10-14 17:51:00,Blocked suspicious account
+44,APPROVE,Devices,2024-10-25 11:10:00,Approved transaction
+17,APPROVE,FraudAlerts,2024-01-24 23:06:00,Approved transaction
+35,APPROVE,FraudAlerts,2024-10-19 11:01:00,Approved transaction
+16,DELETE,Devices,2024-09-23 21:34:00,Deleted inactive record
+15,LOGIN,Customers,2024-07-02 17:48:00,Employee login
+25,BLOCK ACCOUNT,Cards,2024-11-16 06:21:00,Blocked suspicious account
+6,DELETE,Beneficiaries,2024-09-01 15:33:00,Deleted inactive record
+28,APPROVE,Beneficiaries,2024-02-22 21:29:00,Approved transaction
+26,UNBLOCK ACCOUNT,Customers,2024-02-02 22:43:00,Unblocked verified account
+12,UPDATE,Transactions,2024-06-18 22:50:00,Updated customer details
+9,BLOCK ACCOUNT,Accounts,2024-11-25 08:37:00,Blocked suspicious account
+4,BLOCK ACCOUNT,Cards,2024-01-27 19:39:00,Blocked suspicious account
+10,APPROVE,Transactions,2024-06-13 18:37:00,Approved transaction
+3,UPDATE,Beneficiaries,2024-01-03 09:21:00,Updated customer details
+15,UNBLOCK ACCOUNT,Customers,2024-09-07 06:49:00,Unblocked verified account
+39,BLOCK ACCOUNT,Transactions,2024-06-24 19:30:00,Blocked suspicious account
+15,LOGIN,Beneficiaries,2024-06-30 16:12:00,Employee login
+45,LOGIN,Beneficiaries,2024-03-27 22:46:00,Employee login
+3,UPDATE,Customers,2024-01-12 17:17:00,Updated customer details
+36,APPROVE,Accounts,2024-08-24 06:07:00,Approved transaction
+40,UNBLOCK ACCOUNT,Customers,2024-01-22 18:31:00,Unblocked verified account
+33,UPDATE,Accounts,2024-08-13 15:21:00,Updated customer details
+47,LOGIN,Beneficiaries,2024-04-08 05:42:00,Employee login
+19,DELETE,Transactions,2024-04-20 12:10:00,Deleted inactive record
+33,UPDATE,Customers,2024-09-24 02:31:00,Updated customer details
+9,APPROVE,Cards,2024-02-11 17:38:00,Approved transaction
+48,UNBLOCK ACCOUNT,Cards,2024-06-11 20:04:00,Unblocked verified account
+9,INSERT,Beneficiaries,2024-06-10 08:07:00,Inserted new record
+20,UPDATE,Customers,2024-04-26 12:54:00,Updated customer details
+4,DELETE,FraudAlerts,2024-10-20 20:58:00,Deleted inactive record
+16,BLOCK ACCOUNT,Customers,2024-03-17 12:36:00,Blocked suspicious account
+32,DELETE,Cards,2024-03-19 13:18:00,Deleted inactive record
+39,INSERT,FraudAlerts,2024-12-05 05:41:00,Inserted new record
+19,UNBLOCK ACCOUNT,Accounts,2024-04-17 02:34:00,Unblocked verified account
+26,LOGIN,Accounts,2024-09-06 06:01:00,Employee login
+4,UPDATE,FraudAlerts,2024-04-25 03:44:00,Updated customer details
+10,APPROVE,FraudAlerts,2024-10-13 10:21:00,Approved transaction
+20,UPDATE,Customers,2024-11-15 02:22:00,Updated customer details
+35,BLOCK ACCOUNT,Customers,2024-11-19 12:24:00,Blocked suspicious account
+4,INSERT,FraudAlerts,2024-08-14 16:01:00,Inserted new record
+12,INSERT,FraudAlerts,2024-04-14 17:50:00,Inserted new record
+18,BLOCK ACCOUNT,FraudAlerts,2024-10-04 07:04:00,Blocked suspicious account
+12,INSERT,FraudAlerts,2024-09-05 02:22:00,Inserted new record
+12,APPROVE,Transactions,2024-06-25 17:31:00,Approved transaction
+25,UPDATE,Customers,2024-06-26 16:14:00,Updated customer details
+3,INSERT,Accounts,2024-08-15 11:29:00,Inserted new record
+8,BLOCK ACCOUNT,Accounts,2024-04-28 03:18:00,Blocked suspicious account
+6,INSERT,Beneficiaries,2024-12-03 18:31:00,Inserted new record
+34,UNBLOCK ACCOUNT,FraudAlerts,2024-02-07 15:57:00,Unblocked verified account
+10,INSERT,Transactions,2024-01-05 17:39:00,Inserted new record
+28,BLOCK ACCOUNT,Accounts,2024-11-07 18:08:00,Blocked suspicious account
+19,UNBLOCK ACCOUNT,Accounts,2024-03-08 16:20:00,Unblocked verified account
+22,LOGIN,Beneficiaries,2024-09-03 07:14:00,Employee login
+45,UNBLOCK ACCOUNT,Cards,2024-03-26 21:23:00,Unblocked verified account
+43,APPROVE,Customers,2024-06-05 09:39:00,Approved transaction
+47,BLOCK ACCOUNT,Transactions,2024-05-09 00:27:00,Blocked suspicious account
+24,BLOCK ACCOUNT,Beneficiaries,2024-11-26 23:24:00,Blocked suspicious account
+25,UNBLOCK ACCOUNT,Transactions,2024-10-24 01:53:00,Unblocked verified account
+8,BLOCK ACCOUNT,Customers,2024-03-27 21:12:00,Blocked suspicious account
+16,UNBLOCK ACCOUNT,Cards,2024-07-19 14:01:00,Unblocked verified account
+28,BLOCK ACCOUNT,FraudAlerts,2024-01-13 02:40:00,Blocked suspicious account
+29,UPDATE,Beneficiaries,2024-05-07 13:44:00,Updated customer details
+5,APPROVE,Devices,2024-05-08 05:09:00,Approved transaction
+22,DELETE,Cards,2024-09-14 09:45:00,Deleted inactive record
+18,BLOCK ACCOUNT,Accounts,2024-03-19 06:25:00,Blocked suspicious account
+38,INSERT,Transactions,2024-08-25 12:50:00,Inserted new record
+45,LOGIN,Devices,2024-04-09 09:42:00,Employee login
+49,INSERT,Cards,2024-03-09 21:32:00,Inserted new record
+5,DELETE,Accounts,2024-04-03 00:17:00,Deleted inactive record
+30,DELETE,Beneficiaries,2024-01-28 13:24:00,Deleted inactive record
+46,UPDATE,Transactions,2024-06-07 03:27:00,Updated customer details
+34,LOGIN,Accounts,2024-08-24 23:26:00,Employee login
+42,UNBLOCK ACCOUNT,Devices,2024-11-27 19:35:00,Unblocked verified account
+49,APPROVE,Accounts,2024-04-17 00:17:00,Approved transaction
+31,BLOCK ACCOUNT,Cards,2024-07-27 08:00:00,Blocked suspicious account
+49,UNBLOCK ACCOUNT,Customers,2024-09-29 02:20:00,Unblocked verified account
+48,APPROVE,FraudAlerts,2024-02-13 14:19:00,Approved transaction
+10,UPDATE,Cards,2024-07-05 20:19:00,Updated customer details
+25,APPROVE,Customers,2024-03-15 07:01:00,Approved transaction
+20,UPDATE,Transactions,2024-04-13 15:44:00,Updated customer details
+50,UPDATE,Cards,2024-02-01 17:42:00,Updated customer details
+7,BLOCK ACCOUNT,Beneficiaries,2024-10-21 17:13:00,Blocked suspicious account
+5,BLOCK ACCOUNT,Customers,2024-08-24 04:34:00,Blocked suspicious account
+14,INSERT,Customers,2024-01-14 19:40:00,Inserted new record
+14,INSERT,Devices,2024-01-10 11:45:00,Inserted new record
+7,LOGIN,Devices,2024-01-05 21:22:00,Employee login
+43,DELETE,Accounts,2024-12-05 04:04:00,Deleted inactive record
+12,INSERT,Accounts,2024-02-04 03:56:00,Inserted new record
+38,LOGIN,Devices,2024-10-01 16:14:00,Employee login
+37,APPROVE,Customers,2024-07-29 12:20:00,Approved transaction
+1,DELETE,Devices,2024-07-21 11:18:00,Deleted inactive record
+26,UNBLOCK ACCOUNT,Beneficiaries,2024-10-02 13:46:00,Unblocked verified account
+42,APPROVE,Transactions,2024-06-24 19:31:00,Approved transaction
+42,APPROVE,Devices,2024-12-03 01:39:00,Approved transaction
+22,INSERT,FraudAlerts,2024-02-23 03:36:00,Inserted new record
+16,APPROVE,Devices,2024-10-06 14:36:00,Approved transaction
+3,DELETE,Customers,2024-08-21 12:35:00,Deleted inactive record
+46,UNBLOCK ACCOUNT,Customers,2024-01-05 15:00:00,Unblocked verified account
+5,DELETE,Cards,2024-03-07 11:00:00,Deleted inactive record
+10,UNBLOCK ACCOUNT,Cards,2024-02-02 00:16:00,Unblocked verified account
+6,INSERT,Transactions,2024-10-14 07:15:00,Inserted new record
+3,UNBLOCK ACCOUNT,Beneficiaries,2024-01-08 00:10:00,Unblocked verified account
+23,INSERT,Beneficiaries,2024-05-08 09:59:00,Inserted new record
+26,DELETE,Cards,2024-08-12 00:58:00,Deleted inactive record
+12,APPROVE,Accounts,2024-02-27 10:00:00,Approved transaction
+27,APPROVE,FraudAlerts,2024-01-06 10:45:00,Approved transaction
